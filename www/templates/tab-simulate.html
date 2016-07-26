@@ -1,0 +1,36 @@
+<ion-view view-title="Agile Certified Practitioner (ACP)">
+  <ion-content class="acp-content-bg">
+	  <div>
+	  	<div class="padding">Q{{count}}. {{questions[QuestionNumber].question}}</div>
+		<ion-list>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" value="a">a. {{questions[QuestionNumber].options.a}}</ion-radio>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" value="b">b. {{questions[QuestionNumber].options.b}}</ion-radio>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" value="c">c. {{questions[QuestionNumber].options.c}}</ion-radio>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" value="d">d. {{questions[QuestionNumber].options.d}}</ion-radio>
+		</ion-list>
+		<div class="padding">
+			<li class="item item-toggle item-dark">
+			     Show Answer
+			    <label class="toggle toggle-balanced">
+			       	<input type="checkbox" ng-model="showAnswerToggle.flag" ng-checked="showAnswerToggle.flag" ng-click="showAnswer()">
+			       	<div class="track">
+			         	<div class="handle"></div>
+			       	</div>
+			    </label>
+			</li>
+		</div>
+	    <div class="item item-divider" ng-show="expAns">
+		   <p class="acp-correct-ans"><span>Correct Option:</span> {{questions[QuestionNumber].ans}}</p>
+		</div>
+		<div class="card" ng-show="expAns">
+		  <div class="item item-text-wrap">
+		    {{questions[QuestionNumber].explanation}}
+		  </div>
+		</div>
+	  </div>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-calm">
+	<i ng-click="changeQuestion('Prev')" ng-show="prevEnd" class="button button-dark ion-chevron-left ion-left abs btn-padding"></i>
+	<i ng-click="changeQuestion('Next')" ng-show="nextEnd" class="button button-dark ion-chevron-right ion-right btn-padding"></i>
+  </ion-footer-bar>
+</ion-view>

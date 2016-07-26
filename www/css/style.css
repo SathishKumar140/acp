@@ -1,0 +1,84 @@
+/* Empty. Add your own CSS if you like */
+.acp-content-bg{
+	background: #eaeff9;
+}
+.tab-title{
+	color: #37474F;
+}
+.width-100{
+	width: 100px;
+}
+.width-145{
+	width: 144px;
+}
+.vertical{
+	margin-top:50%;
+}
+.auto{
+	margin:auto;
+}
+.abs{
+	position: absolute;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.acp-exam-btn{
+	margin-top: 1%;
+}
+.acp-correct-ans{
+	color:#2a2a2a;
+	font-weight: bold;
+}
+.acp-submit{
+	margin-left: 43%;
+}
+.btn-padding{
+	padding: 0px 20px !important;
+}
+.acp-score-display{
+	margin:auto;
+	width: 150px;
+	height: 150px;
+	margin-top: 3%;
+}
+.acp-score-text{
+	font-style: italic;
+	color: #37474F;
+	font-weight: bold;
+	font-size: 18pt;
+	padding:0 5px;
+	text-align: center;
+}
+.acp-score-circle{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	border: 3px solid #000;
+}
+.acp-line{
+	min-width: 150px;
+	min-height: 2px;
+	max-width: 150px;
+	max-height: 2px;
+	content: '';
+	background: #000;
+	margin-top: 75px;
+	transform:rotate(-25deg);
+}
+.acp-actual-score{
+	margin-left: 50px;
+	margin-top: 45px;
+	font-size: 22pt;
+	font-style: italic;
+}
+.acp-total-score{
+	margin-top:100px;
+	margin-left: 75px;
+	font-size: 22pt;
+	font-style: italic;
+	color: green;
+}
