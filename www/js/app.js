@@ -37,6 +37,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','t
   // Each tab has its own nav history stack:
 
   .state('tab.test', {
+    cache: false,
     url: '/test',
     views: {
       'menu': {
@@ -45,7 +46,6 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','t
       }
     }
   })
-
   .state('tab.simulate', {
       url: '/simulate',
       views: {

@@ -1,7 +1,9 @@
 <ion-view view-title="Agile Certified Practitioner (ACP)">
   <ion-content class="acp-content-bg">
   	<div class="item item-divider" ng-show="testMode">
-		<timer class="right" autostart="false" interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
+  		<div class="right">
+  			Exam Time : <timer autostart="false" interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
+  		</div>
 	</div>
   	<div ng-show="timerTemplate" class="auto width-100">
   	  	<img class="vertical" width="100" height="100" src="img/clock.ico"/>
