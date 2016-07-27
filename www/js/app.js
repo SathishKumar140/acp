@@ -47,6 +47,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','t
     }
   })
   .state('tab.simulate', {
+      cache: false,
       url: '/simulate',
       views: {
         'menu': {

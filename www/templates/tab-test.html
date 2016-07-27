@@ -1,25 +1,25 @@
 <ion-view view-title="Agile Certified Practitioner (ACP)">
   <ion-content class="acp-content-bg">
-  	<div class="item item-divider" ng-show="testMode">
+  	<div class="item item-divider" ng-show="timer">
   		<div class="right">
   			Exam Time : <timer autostart="false" interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
   		</div>
 	</div>
-  	<div ng-show="timerTemplate" class="auto width-100">
-  	  	<img class="vertical" width="100" height="100" src="img/clock.ico"/>
-  	</div>
-  	<div ng-show="timerTemplate" class="auto width-145 acp-exam-btn">
-  	  	<button ng-click="startTest()" class="button button-dark">
-			  Start Your Exam
+  	<div ng-show="timerTemplate" class="auto width-200 acp-exam-btn">
+  	  	<button ng-click="startTest()" class="button button-dark width-200 acp-buy-more">
+			  Exam 1
+		</button>
+		<button class="button button-dark width-200 acp-buy-more">
+			  Buy More Exam
 		</button>
   	</div>
 	  <div ng-show="testMode">
 	  	<div  class="padding">Q{{count}}. {{questions[QuestionNumber].question}}</div>
 		<ion-list>
-			<ion-radio class="item-text-wrap" ng-model="options.choice" value="a">a. {{questions[QuestionNumber].options.a}}</ion-radio>
-			<ion-radio class="item-text-wrap" ng-model="options.choice" value="b">b. {{questions[QuestionNumber].options.b}}</ion-radio>
-			<ion-radio class="item-text-wrap" ng-model="options.choice" value="c">c. {{questions[QuestionNumber].options.c}}</ion-radio>
-			<ion-radio class="item-text-wrap" ng-model="options.choice" value="d">d. {{questions[QuestionNumber].options.d}}</ion-radio>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_a" value="a">a. {{questions[QuestionNumber].options.a}}</ion-radio>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_b" value="b">b. {{questions[QuestionNumber].options.b}}</ion-radio>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_c" value="c">c. {{questions[QuestionNumber].options.c}}</ion-radio>
+			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_d" value="d">d. {{questions[QuestionNumber].options.d}}</ion-radio>
 		</ion-list>
 	  </div>
 	  <div ng-show="showScoreCard" class="acp-score-display">
@@ -28,11 +28,14 @@
 	  	<div class="acp-line abs"></div>
 	  	<div class="abs acp-actual-score">{{score}}</div>
 	  	<div class="abs acp-total-score">{{numberOfQuestions}}</div>
+	  	<button ng-click="reviewAnswers()" class="button button-dark acp-review-answer">
+			  Review Your Answers
+		</button>
 	  </div>
   </ion-content>
   <ion-footer-bar align-title="left" class="bar-calm">
 	<i ng-click="changeQuestion('Prev')" ng-show="prevEnd" class="button button-dark ion-chevron-left ion-left abs btn-padding"></i>
-	<button ng-show="testMode" ng-click="completeTest()" class="button button-dark acp-submit abs">Submit</button>
+	<button ng-show="submitBtn" ng-click="completeTest()" class="button button-dark acp-submit abs">Submit</button>
 	<i ng-click="changeQuestion('Next')" ng-show="nextEnd" class="button button-dark ion-chevron-right ion-right btn-padding"></i>
   </ion-footer-bar>
 </ion-view>

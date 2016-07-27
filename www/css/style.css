@@ -11,6 +11,9 @@
 .width-145{
 	width: 144px;
 }
+.width-200{
+	width: 200px;
+}
 .vertical{
 	margin-top:50%;
 }
@@ -25,6 +28,17 @@
 }
 .right{
 	float: right;
+}
+.green{
+	color: coral;
+}
+.acp-buy-more{
+	margin-top:5%;
+}
+.acp-review-answer{
+	margin-top:170px;
+    margin-left: -1%;
+    position: absolute;
 }
 .acp-exam-btn{
 	margin-top: 1%;
