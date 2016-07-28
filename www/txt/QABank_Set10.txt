@@ -1,0 +1,1059 @@
+
+1. If a task is said to have the characteristic of being specific, what does it indicate?
+A. That it has been specified in the product backlog.
+B. That is has been specified in the work breakdown structure.
+C. That is meets specific customer criteria.
+D. That it clearly contributes to the development of a user story and is not vague.
+
+Answer: D 
+Explanation: The acronym SMART (specific, measurable, achievable, relevant, and timeboxed) helps the agile practitioner remember the characteristics of a well-defined task. S – Specific tasks are ones that clearly contribute to the development of a user story. It should not be vague. M – Measurable tasks are ones that the team and customer can verify. A - Achievable tasks are ones that developers may realistically implement and understanAnswer: D Explanation: R - Relevant tasks are ones that unequivocally add value to the user story. T - Timeboxed tasks are ones that can have an estimate assigned of the amount of effort or time needed for development. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Planning, monitoring, and adapting]
+
+2. In which of the following ways is Agile project management like waterfall project management?
+A. Both welcome changing requirements.
+B. Both practice short cycles or iterations.
+C. Both divide the project up into phases.
+D. Both perform analysis and planning.
+
+Answer: D 
+Explanation: Both approaches perform planning and analysis; they just do it in very different ways.
+‘A’ is incorrect since waterfall projects do not welcome changing requirements. Instead they seek influence the factors that cause change. ‘B’ is not a good answer because Agile practices short iteration, but waterfall does not. ‘C’ is not correct since Agile practices releases and not phases.
+
+3. The team has been using person as for the past two days on the project. On day three, someone suggests that they switch to extreme personas. Why might this make sense?
+A. Extreme personas can help eliminate waste.
+B. Extreme personas can help elicit requirements that regular personas might miss.
+C. Extreme personas can help move the team beyond conflict.
+D. Extreme personas can help introduce healthy conflict into the team.
+
+Answer: B 
+Explanation: Extreme personas are exaggerated fictional characters that would use the system (often in extreme ways). This helps the team capture requirements that might otherwise be missed when focusing on typical users.
+
+4. The purpose of an iteration retrospective is:
+A. To analyze the release and determine what could have been improved.
+B. To provide an opportunity for the team to re-organize.
+C. To explore ways to add more value to the customer.
+D. To improve future iterations.
+
+Answer: D 
+Explanation: Iteration retrospectives are held to make future iterations more efficient. They look at the process and suggest what could be done mere effectively in the future.
+
+5. Which of the following is not a value pair expressed in Agile Manifesto?
+A. Individuals and interactions over processes and tools.
+B. Working software over comprehensive documentation.
+C. Customer collaboration over meetings.
+D. Responding to change over following a plan.
+
+Answer: C 
+Explanation: This was close, but the correct pair is that Agile projects value “Customer collaboration over contract negotiation.”
+
+6. In the Principles behind the Agile Manifesto, what timeframe is expressed to deliver working software?
+A. One week.
+B. A couple of days to a couple of weeks.
+C. One month.
+D. A couple of weeks to a couple of months.
+
+Answer: D 
+Explanation: Take note that several questions here can be answered by knowing the principle Behind the Agile Manifesto. Principle three states that Agile projects “Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale”.
+‘A’ would have been a good answer if the question were about XP, buy it was not an appropriate choice the way the question was worded.
+
+7. Units of work that do not necessarily add value but need to be done are known as:
+A. Capabilities.
+B. Story points.
+C. Work packages.
+D. Tasks.
+
+Answer: D 
+Explanation: The wording on this question is a bit tricky. Tasks are subdivisions of user stories that need to be done but do not necessarily add value.
+‘A’ is a poor choice since capabilitis (also known as epics) are very large user stories and would certainly add value. ‘B’ is close(this was the trap), but story points are estimates of effort, not units of work that need to be done. ‘C’ is a waterfall term to catch all of the people who are falling back on the PMBOK Guide here.
+
+8. Osmotic Communication describes.
+A. The way team members over hear and absorb communication in their environment.
+B. The set of tools and practices established to distribute communication to the team.
+C. The information posted in the public area that the team and stakeholders can see.
+D. One team member orally repeating relevant communication to the rest of the team to ensure it is distributed.
+
+Answer: A 
+Explanation: Osmatic communication describes how team members hear and absorb information just from working in the environment.
+
+9. If a team member is not performing up to team expectations, who should address this?
+A. The Scrum Master.
+B. The Team.
+C. The Customer.
+D. The person or group that recruited the team member.
+
+Answer: B 
+Explanation: The team is self-organizing and self-managing and part of that means addressing poor performance.
+
+10. During early requirements-gathering, an important stakeholder repeatedly brings up concers that are off-topic to the current requirements discussion. How should the team handle this?
+A. The team should add the stakeholder’s concerns to a parking lot chart.
+B. The team should call a break to allow the stakeholder to refocus.
+C. The team should ask the stakeholder to table any issues that are not related to the current discussion.
+D. The team should consider using a more concrete approach such as wireframes to provide a stronger point of focus for the stakeholder.
+
+Answer: A 
+Explanation: This is the very purpose of the parking lot chart. It is used to capture off-topic information that may be important but should be looked at later.
+‘B’ is not a very good choice since it may not solve the problem at all (the stakeholder may not feel that he or she needs to refocus.) ‘C’ is close to correct, but the way this is accomplished is through the parking lot chart, making ‘A’ the better answer. ‘D’ isn’t a good choice because we are not told what approach the team has been using, so we do not have enough information to know that changing to wireframes would have a positive impact.
+
+11. Estimates of a user story used for estimating are known as:
+A. Feature score.
+B. Fibonacci sequences.
+C. Story points.
+D. Planning poker.
+
+Answer: C 
+Explanation: This was an easier question. User stories are estimated in story points.
+‘A’ is a made up term. ‘B’ and ‘D’ are among the severa tools used to come up with story points, but they are not the estimate itself.
+
+12. If a defect is detected on an Agile project, whose responsibility is it to correct the problem?
+A. The person or pair that coded it.
+B. The Team’s.
+C. The Product Owner’s.
+D. The Scrum Master’s.
+
+Answer: B 
+Explanation: This was another easier question. The team is collectively responsible for the quality of the product.
+‘A’ might have been a tempting answer, but it is not really the case. The responsibility lies with the team.
+
+13. A key difference between a work breakdown structure (WBS) and an Agile story map is:
+A. A WBS is broken down, but a story map is not.
+B. A WBS is a two-dimentional model, but a story map is generally a three-dimentional moel.
+C. A WBS should be complete, but a story map does not need to be.
+D. A WBS includes hammocks, but a story map includes hangers.
+
+Answer: C 
+Explanation: The WBS is a traditional, waterfall instrument, while an Agile story map is associated with Agile Projects. The WBS has to be complete, meaning tht it is all of the work and only the work to be done on the project. An Agile story map does not have to (and should not) be complete. It is a higher-level map than the WBS.
+
+14. Which statement is not true regarding user stories?
+A. User stories should be aligned.
+B. User stories should be valuable.
+C. User stories should be small.
+D. User stories should be testable.
+
+Answer: A 
+Explanation: The question asked for the false statement. To answer this question you needed to remember the INVEST acronym (hopefully you are realizing this acronym is important by now)..
+‘B’ ‘C’ and ‘D’ all come directly from INVEST.
+
+15. George and Karen are working together on an Agile project. They have looked at the acceptance criteria and have built those into their modules first so that it must meet certain conditions to pass. George and Karen are practicing:
+A. Scrum.
+B. eXtreme Programming.
+C. Discrete Programming.
+D. Test-Driven Development.
+
+Answer: D 
+Explanation: The key to answering this question is that they looked at the acceptance criteria and have built those into their modules first. This is what test-driven development does. It begins with the test.
+‘A’ and ‘B’ are methodologies that do not prescribe that the tests have to be written first. ‘C’ is a practice that does incorporate testing like this, but it is not an Agile practice.
+
+16. Which statement below is true regarding the definition of “done”?
+A. It should be reconsidered after each iteration.
+B. It should be agreed upon in advance by the entire team.
+C. It changes for different modules.
+D. It is ground rule.
+
+Answer: B 
+Explanation: The definition of “done” has to be agreed upon in advance by the entire team so that they all use it in the same way. When something is marked as “done”, everyone on the team needs to understand what that means.
+‘A’ is not necessary or even a good ideAnswer: A Explanation: It could be redefined, but certainly not after every iteration. ‘C’ is certainly not true. It needs to be the same for all deliverables. ‘D’ is not correct since ground rules may be unwritten and passed along more informally. The definition of done is more formal than a ground rule.
+
+17. Who is primarily responsible for creating the product roadmap?
+A. The Product Owner.
+B. The Team.
+C. The Project Manager.
+D. The Stakeholders.
+
+Answer: A 
+Explanation: This is an important role question. But if you know the roles, it is not difficult. The product owner is primarily responsible for the product roadmap.
+
+18. The team is working on a group of user stories, but as they begin development they find they are unsure how to tell when the software works, How should the team manage this?
+A. The Team should get the software in the customer’s hands and solicit feedback.
+B. The Team is empowered to write acceptance criteria.
+C. The Team should consult the test plan.
+D. Ask the Customer to provide acceptance criteria before developing the user stories.
+
+Answer: D 
+Explanation: The Customer should be clear about when something “works” before it is developed.
+‘A’ is not a good choice since delivering software that is likely not right is not a good practice. ‘B’ is not a good choice since it is the Customer or product owner who should do this and not the team. ‘C’ is not a good choice since no “test plan” is formally prescribed in Agile. This feels like a waterfall approach.
+
+19. When is the appropriate time to play Planning Poker?
+A. After the features have been requested but before the user stories have been written.
+B. After the epics have been written but before the story map has been created.
+C. After the user stories have been written but before the story points have been determined.
+D. After the story points have been determined but before the acceptance tests have been created.
+
+Answer: C 
+Explanation: Planning poker should be played after the user stories have been developed and before the story points. This is because planning poker uses the user stories to create story points. ‘A’ is incorrect since the user stories are needed to play planning poker. ‘B’ is not a good choice because the story map comes before the epics, so this does not make sense. ‘D’ is not a good choice since the acceptance criteria should already be in place when the user stories are finished.
+
+20. In what way does Wideband Delphi differ from traditional Delphi?
+A. The experts are aware of the other estimators in traditional Delphi.
+B. Wideband Delphi produces a range of estimates.
+C. Traditional Delphi produces a range of estimates.
+D. The experts are aware of the other estimators in Wideband Delphi.
+
+Answer: D 
+Explanation: With the wideband Delphi technique, experts giving estimates are aware of the other experts, while in traditional Delphi, they do not know who the others are. This is a key difference. ‘A’ has it backwards. ‘B’ and ‘C’ may be true, but they may not. It is typical that both wideband Delphi and Delphi produce a best estimate, so these are not good answers.
+
+21. A team member has communicated that she believes she can complete a user story in three days if there are no interruptions or distractions. This team member is:
+A. Time boxing the user story.
+B. Communicating in ideal time.
+C. Not following Agile principles.
+D. Disaggregating.
+
+Answer: B 
+Explanation: This should have been fairly easy. Ideal time(also called ideal days) is an estimate of time if there are no distractions or interruptions.
+
+22. Which practice listed below best reflects “continuous integration”?
+A. Checking in new features daily.
+B. Getting software into the customer’s hands frequently.
+C. Frequent unit tests of all features.
+D. Regularly reminding all team members of Agile practices.
+
+Answer: A 
+Explanation: You should be prepared to see more questions like this. Checking in new features daily is the closest reflection of continuous integration, which makes sure that updates are regularly folded back into the system to detect systemic issues quickly. ‘B’ is not a bad answer, but getting them into the customer’s hands is not the goal. Checking them into the system, building and regression testing is what we are after here. ‘C’ is not a good answer, since unit testing is not the goal (regression testing and integration testing are). Hopefully you eliminated ‘D’ as not the right answer quickly.
+
+23. If an empowered team had drifted away from Agile practices, whose job is it to help them refocus?
+A. The coach.
+B. The project management office(PMO).
+C. The sponsor.
+D. The team has to do this on its own.
+
+Answer: A 
+Explanation: This should have been an easy question to answer. It is squarely the coach’s job to remind the team and help them focus on Agile principles and practices.
+
+24. What primary role does the sponsor play on an Agile project?
+A. To provide product information and a product road map.
+B. To approve a summary project plan.
+C. To provide project funding and milestone-level goals.
+D. To help define customer value.
+
+Answer: C 
+Explanation: Roles are very important for this exam! The sponsor’s job is to fund the project and provide milestone-level goals for functionality and schedule. ‘A’ is the responsibility of the customer or product owner. If you guessed ‘B’ you have probably been reading the PMBOK guide lately. This is not a very Agile role. ‘D’ is also the responsibility of the customer and the product owner.
+
+25. On an Agile project, which of the following should happen over time?
+A. Interactions should become shorter.
+B . Velocity should remain the same.
+C. Cycle times should become shorter.
+D. Customer change-requests should become fewer.
+
+Answer: C 
+Explanation: The cycle time (the time it takes for a user story to make it through to be completed) should get shorter over time until it reaches an optimal level. ‘A’ is not true since iterations are fixed in duration. You may get more done in an iteration, but you should not have shorter iterations. ‘B’ is not a good answer, because you would hope that velocity (how many story points a team can complete in an iteration) would increase. ‘D’ is not a good choice, because customer change requests is not a bad thing in Agile. In fact, once the customer understands how easy it is to request and affect change on the product, changes are likely to increase.
+
+26. Who manages the iteration backlog?
+A. The Scrum Master.
+B. The Product Owner.
+C. The Sponsor.
+D. The Team.
+
+Answer: D 
+Explanation: The Team manages the iteration backlog, and the customer or product owner manages the product backlog.
+
+27. The Y-axis of burn-up chart represents which of the following?
+A. Resources.
+B. Quality
+C. Functionality.
+D. Time.
+
+Answer: C 
+Explanation: A burn-up chart shows story points on the Y-axis, which equates to functionality. ‘D’ would have been for the X-axis.
+28. In Agile terminology, a “theme” is best described as:
+
+28. In Agile terminology, a “theme” is best described as:
+A. The functional thrust behind a group of stories, an iteration, or a release.
+B. The main business need driving or justifying the project.
+C. An epic story.
+D. The most prominent capability of the system.
+
+Answer: A 
+Explanation: Agile themes are groups of stories, iterations or releases. For example, the theme of one iteration might be ‘reporting’, and most (or all) of the user stories might have to do with generating reports. ‘B’ is a business justification. ‘C’ equates to a capability, and ‘D’ might have sounded good but it has no practical meaning.
+
+29. The Product Roadmap:
+A. Provides more information than the charter but less than the vision.
+B. Is tailored to communicate with stake holders.
+C. It is most beneficial during requirements-gathering activities.
+D. Provides more information than the Vision but less information than User Stories.
+
+Answer: D 
+Explanation: The product roadmap is the document that is created after the vision statement. It has more detail than the vision statement, but it does not yet have the detail of the user stories in it. The product roadmap will show high-level features mapped to targeted releases, which has more detail than the vision statement has.
+
+30. Which of the following meetings would a Product Owner most likely not be Invited to?
+A. Iteration retrospective.
+B. Release Planning meeting.
+C. Daily stand-up meeting.
+D. Iteration planning meeting.
+
+Answer: A 
+Explanation: Product owners are important part of an Agile project. The term “Product Owner” is specific to Scrum, but it is similar to the Customer role in other methodologies. Because the Product Owner is so involved, he/she will be invited to many meetings, so this question was a bit difficult. Iteration retrospectives are for the core team, and they look at what was done in the preceding iteration and what could be done better in the next iteration. The team is looking at their own work, and it would not generally be productive to have a Product Owner attend this meeting. “B” is not a good choice since the Product Owner has a huge role to play in this meeting. ‘C’ is incorrect, since the Product Owner would likely attend and listen at the daily stand-up. ‘D’ is incorrect since the Product Owner runs the first half of the iteration planning meeting.
+
+31. Which of the following best represents Scrum values?
+A. Collection, Introspection, Adaptation.
+B. Communication, Coordination, Adaptation.
+C. Realism, Sustainability, Adaptation.
+D. Visibility, Inspection, Adaptation.
+
+Answer: D 
+Explanation: This was a tough one unless you paid attention, as any of the four potential answers could have applieAnswer: D Explanation: The three pillars of the scrum, as described in chapter 9, are Visibility, Inspection, and Adaptation.
+
+32. The team has released a build that is not in compliance with their organization’s coding standards. Which statement below is true?
+A. This contributes to technical debt/
+B. This represents a violation of the ground rules.
+C. This is outside of the definition of “done”.
+D. This is acceptable as long as value is delivered to the customer.
+
+Answer: A 
+Explanation: Technical Debt occurs when the team postpones decisions or actions that will need to be made eventually, and it is frowned upon. In this example, the team released software that presumably functioned but still needed work. This ultimately creates a backlog of work that will have to be done that will not add Customer value. ‘B’ is not correct since ground rules may or may not cover coding standards. ‘C’ should probably be true, but each team creates its own definition of done, and this may or may not be part of it. ‘D’ is completely wrong. Customer Value is important, but not at the expense of everything else. The team still has to function within an organization, and coding standards can be important part of that.
+
+33. During planning poker, the Team provides estimates in:
+A. Days.
+B. Hours.
+C. Story Points.
+D. Dollars.
+
+Answer: C 
+Explanation: Planning Poker uses a set of cards, traditionally labeled with 0, 1, 2, 3, 5, 8, 13, 20, 40, 100 and ‘?’. These represent story points, which are a measure of difficulty. If “Ideal days” had been a choice, that would have worked also, but among the choices present, ‘C’ was the best.
+
+34. The smallest set of functionality that has value to the customer is:
+A. A story point.
+B. A minimal marketable feature.
+C. A user story.
+D. Dollars.
+
+Answer: B 
+Explanation: The concept of the minimal marketable feature (MMF) is a very important one for the exam. It is the smallest unit of value to the customer. ‘A’ does not work since it is an estimate and not a unit of value. ‘C’ was the next best guess here, but it does not fit as well as the MMF because of the word “set” in the question. ‘D’ is not a particularly Agile term, and all functions do not directly add value to the customer.
+
+35. A Sprint has ended. What comes next?
+A. The release.
+B. The retrospective.
+C. The next Sprint.
+D. The Scrum of Scrums.
+
+Answer: B 
+Explanation: Choice ‘B’ would have been even clearer if it stated whether it was a release retrospective or a sprint retrospective, but its still the best answer. ‘A’ is sometimestrue, but not always. Not every sprint has a subsequent release. ‘C’ is close as well, but the retrospective comes first. ‘D’ doesn’t work for this. The scrum of scrums is for groups of scrum teams to get together and discuss what has been accomplished since the last meeting. They are often held daily.
+
+36. A project stakeholder has asked for a current status on the project. What is the best way to address this request?
+A. The Coach should gather statuses at the daily stand-up and provide them.
+B. Ask the Product Owner to provide the information to the stakeholder.
+C. Hold a status meeting with the stakeholder and the Team.
+D. Direct the stakeholder to the information radiator.
+
+Answer: D 
+Explanation: The information radiator is a great resource for current information. It may be inadequate for the stakeholder’s particular needs, but it is a great place to start. ‘A’ is not really the job of the coach. While the coach may be asked to give statuses, he/she won’t gather them at daily stand-ups as this answer suggests. ‘B’ is not a good answer. This is not the product Owner’s joAnswer: B Explanation: ‘C’ is not a great answer since it is not productive for the team to stop working and give a status every time a stakeholder requests one.
+
+37. The Team has just begun Iteration H. Which of the following would be expected during this iteration?
+A. No new functionality is being developed.
+B. The Team is primarily engaged in planning and estimating.
+C. The Team is demonstrating the product.
+D. The Team considering process improvement.
+
+Answer: A 
+Explanation: This is slightly tricky. Iteration H is also known as a hardening iteration, where no new functionality is developed but the functionality that is there is tested.
+
+38. A program has been broken down into multiple Agile projects. The project management organization (PMO) has asked that the various teams coordinate. What is the best way to accomplish this?
+A. Agile tooling.
+B. Colocate all teams.
+C. Initiate Scrum of Scrums meetings.
+D. Aggregate information radiators.
+
+Answer: C 
+Explanation: The scrum of scrum meetings allows for the various teams to meet and coordinate their work. This would be ideal (and probably necessary) on a scrum program.
+
+39. On a Scrum project, The single voice of the user is represented by:
+A. The Scrum Master.
+B. The Product Owner.
+C. The Team.
+D. The Sponsor.
+
+Answer: B 
+Explanation: The Product Owner is the single voice of the customer and users on the project.
+
+40. The team is halfway through an iteration when the customer asks to introduce new functionality into the iteration backlog. What is the most appropriate response by the team, and why?
+A. Allow this, since Agile welcomes changing requirements.
+B. Allow this, since the customer has the final say.
+C. Oppose this since the iteration backlog is fixed.
+D. Ask the Scrum Master or Coach to decide since he or she has the final say.
+Answer: C 
+Explanation: This one was not easy. Iterations are commitments by the team to accomplish a set package of work, and once an iteration is begun, it is important to try to protect it so that the team can meet that commitment. The customer can always add functionality to the product backlog, but the iteration backlog should be static once the iteration has begun. ‘A’ was a tricky answer. Welcoming change is a good thing, but not when it involves changing an iteration in the middle of that iteration. ‘B’ is not a good answer, since the team has interests here as well. ‘D’ is the worst of the four answers. The scrum master or coach does not have the final say about this (or much else) on the project.
+
+1. Which statement best represents why Agile welcomes changing requirements?
+A. Embracing change in concept will likely reduce change requests.
+B. To give the customer a competitive advantage.
+C. Self-Organizing teams can adapt to changes almost instantly.
+D. Kaizen.
+
+Answer: B 
+Explanation:  Principle#2 in The Principles Behind the Agile Manifesto States “(we) welcome changing requirements, even late in development. Agile processes harness change for the Customer’s competitive advantage”. Answer ‘A’ really doesn’t work well. If you embrace change, you will likely receive more change requests. ‘C’ is not a good choice since self-organizing teams can likely adapt better than traditional teams, but it would not be instant. ‘D’ is not correct since Kaizen stands for continuous improvement, which is not necessarily strongly aligned to change.
+
+2. According to Scrum, an iteration planning meeting should last no longer?
+A. One hour.
+B. Four hours.
+C. Eight hours.
+D. One week.
+
+Answer: C 
+Explanation:  Scrum specifies that the iteration planning meeting (held at the beginning of each iteration) should last no longer than eight hours.
+
+3. Which statement below is true concerning refactoring?
+A. After refactoring, the software should be more efficient.
+B. After refactoring, the software should be done.
+C. After refactoring, the software should be better organized.
+D. After refactoring, the software should be more effective.
+
+Answer: C 
+Explanation:  Refactoring simply reorganizes the code to make it more logical and maintainable by the team. It does not affect efficiency or effectiveness. Answer ‘B’ could not be correct (i.e. it may well be done), but that would vary depending on the team’s definition of “done,” leaving ‘C’ as the best answer.
+
+4. In order to write a feature, a team member needs to get more requirements from a particular user, but the user has canceled the meeting four different times. How should this be addressed?
+A. The team member should raise this in the daily stand-up.
+B. The team member should bring the situation to the Product Owner.
+C. The team member should escalate the situation to the Scrum Master.
+D. The team member should flag the feature and proceed to the next item in the backlog if possible.
+
+Answer: A 
+Explanation:  The Team member needs to communicate this. It is an obstacle that should be brought up in the daily stand-up meetings. ‘B’ would not be the right role if the Team member were to escalate this. ‘C’ is close to being correct. But Team members bring up obstacles to the entire Team, and the Scrum Master then works to eliminate them.
+
+5. An example of high-bandwidth communication is:
+A. A virtual product demonstration.
+B. Face-to-face communication.
+C. A voice over IP phone call.
+D. An email with a multimedia attachment.
+
+Answer: B 
+Explanation:  Reading the glossary (more than once) will pay big dividends on the exam. Face-to-face communication is a form of high- bandwidth communication.
+
+6. Which choice below best defines a story point?
+A. A unit of measure assigned by the customer.
+B. A unit of measure assigned by the release backlog.
+C. A unit of measure assigned to the task backlog.
+D. A unit of measure assigned to the iteration backlog.
+
+Answer: D 
+Explanation:  Story points are assigned to the iteration backlog. They are applied to each user story (if user story had been a choice here, it would have been the best choice).
+
+7. What is a difference between present value (PV) and net present value (NPV)?
+A. PV considers the time value of money, while NPV does not.
+B. PV does not consider costs, while NP V does.
+C. PV will usually return a smaller value than NPV.
+D. A higher PV is always desirable, but a higher NPV is not.
+
+Answer: B 
+Explanation:  Present Value calculates current value without considering costs. While Net Present Value does the same thing but subtracts costs out at the end.
+
+8. Which statement is false concerning the project charter?
+A. It is more applicable to traditional projects than to Agile projects.
+B. It gives the team the authority to work on the project.
+C. It authorizes budget for the project.
+D. It provides milestones that the team needs to consider.
+
+Answer: A 
+Explanation:  Each other answer is true; however, the charter is just as applicable to Agile projects as it is to traditional ones. Regardless of the methodology, projects that bypass the chartering process run a higher risk of cancellation and other problems than those that do have a charter.
+
+9. The Scrum Master’s primary role on the project is:
+A. To manage the project.
+B. To be the primary liaison with the customer.
+C. To measure and report progress to senior management.
+D. To keep the team focused on Agile principles.
+
+Answer: D 
+Explanation:  The Scrum Master’s primary role is to help the team stay focused on Agile principles. ‘A’ is the worst choice of the four, as the Scrum Master does not mange the team or the project. ‘B’ is incorrect since the product owner would likely fill this role. ‘C’ is not a bad answer, as the Scrum Master could, perhaps, be asked to measure and report progress to senior management; however, it is not always the case, and it is not the best answer of the four.
+
+10. Which answer below represents the ideal team size for a Scrum team?
+A. 4 to 12.
+B. It depends on the initial scope.
+C. 5 to 9.
+D. Any number that delivers maximum customer’s value.
+
+Answer: C 
+Explanation:  The Scrum Guide, by Agile Co-creaters Schwaber and Sutherland indicates that the optimal size is 7 team members #2, which translates to 5 to 9.
+
+11. Which of the following choices is false about team ground rules?
+A. They may pertain to anything on the project.
+B. They should be written by the Coach and approved by the team.
+C. They apply to all team members.
+D. They communicate project expectations.
+
+Answer: B 
+Explanation:  Ground rules are not written by the Scrum Master. They are rules that apply to all team members, and they are often informal. ‘A’, ‘C’ and ‘D’ all apply to ground rules (this question asked which was false).
+
+12. Which choice represents the best definition of a stakeholder?
+A. Anyone whose job might be affected by the project’s product.
+B. Anyone who is committed and not merely involved in the project.
+C. Anyone with an interest in the project’s outcome.
+D. Anyone who engages on the project in anyway.
+
+Answer: C 
+Explanation:  A stakeholder is anyone with an interest in the project. ‘A’ and ‘D’ could work under certain circumstances. ‘B’ describes into the difference between “pigs” and “chickens” (see glossary) but a stakeholder encompasses both of these. ‘C’ is closest to the actual definition, making it the best answer.
+
+13. The project’s stakeholders are all assembled together. They are participating in an exercise where they are shown features and estimated prices. They use pretend currency to purchase features they like. This is an example of:
+A. An innovation game.
+B. A product-based market analysis.
+C. Pure product mapping.
+D. Economic feature enrichment.
+
+Answer: A 
+Explanation:  There are several “innovation games” covered in Chapter 6. This one is a game called “Buy a Feature”. You should know the different games presented in that section before sitting for the exam.
+
+14. A team is analyzing factors that drive change and factors that restrain change. These factors are given numbers that are added up. This is an example of:
+A. Root cause analysis.
+B. Product road mapping.
+C. Force field analysis.
+D. Agent-of-Change analysis.
+
+Answer: C 
+Explanation:  Force field analysis looks at the factors for and against change and assigns a number to them to understand the aggregate force on each side. ‘A’ is not a good choice, since root cause analysis is not a numerical analysis like the question described, ‘B’ occurs early in the project and does not do numerical analysis either, and ‘D’ is a made-up term.
+
+15. The team is trying to consider how different groups will interact with their product. Which technique might be most appropriate in this situation?
+A. Stakeholder analysis.
+B. Creating personas.
+C. Root cause analysis.
+D. Wireframes.
+
+Answer: B 
+Explanation:  The best techniques here would be to create personas. These personas are used to elicit requirements by imagining how fictional users would interact with the product or system. ‘A’ is not a bad answer, but it doesn’t solve the problem the way personas would, ‘C’ does not work well for this situation, since you have to have a problem to analyze to do root cause analysis, and no problem is presented here. ‘D’ is another “almost “ answer, but it is not the best answer since wireframes might be something you create after you understand how users will use your system, and you really aren’t to that point yet.
+
+16. In Agile terminology, an epic is also known as:
+A. A capability.
+B. A node.
+C. An iteration span.
+D. A root feature.
+
+Answer: A 
+Explanation:  An epic story is a large story that may span iterations. It is also known as a capability.
+
+17. Which philosophy drives test-first development?
+A. Creating the test cases first will save time on the project.
+B. Software should be written in the context of how it will be accepted and validated.
+C. Developers should be the ones to create the tests that their software must pass.
+D. Error free software is possible if tests are properly constructed and the code is strictly written to pass those tests.
+
+Answer: B 
+Explanation:  Test-first development is implemented by writing the test cases first and designing the modules, classes, and functions around these tests. Software is written in the context of how it will be accepted. When this is done correctly, the software should be acceptable when it passes the tests around which it is constructed.
+
+18. The team is estimating effort needed to create software. They are placing stories on the wall in order of effort from greatest to least. This is an example of:
+A. Fibonacci sequencing.
+B. Planning poker.
+C. Relative sizing.
+D. Affinity estimating.
+
+Answer: C 
+Explanation:  Relative sizing is the practice of estimating something as requiring more effort or less effort than something else. ‘A’ is a different technique using the Fibonacci number sequence, 0, 1,2,3,5,8,13,… It does not fit the description here well. ‘B’ is not a good answer since the team is placing things on the wall, and in planning poker the team generally uses playing cards. ‘D’ is not a good answer since affinity estimating generally uses coffee cup sizes or shirt sizes or some other measure that the team can relate back to their effort.
+
+19. Jerry has just checked in a module of code that was so technically challenging that he is the only person who understands it, nor has he written any documentation to explain it. One of the team members complained, but jerry has ignored this and has begun working on the next module. What is problematic about this situation?
+A. Code should not be checked in until sufficient documentation exists.
+B. All code is collectively owned and maintained by the team.
+C. Jerry should not have begun working on the next module until the previous one was validated.
+D. There is conflict on the team that should be dealt with immediately.
+
+Answer: B 
+Explanation:  One of the key tenets of Agile is that software is collectively maintained, and the team is responsible for all of it. The scenario in the question makes Jerry the only one who can maintain it, and this is a problem for everyone involved. ‘A’ is not necessarily correct. Some teams may have this rule, and some may not. ‘C’ is also a rule that may vary from team to team, depending on the definition of done. ‘D’ is not the best answer, since not all conflict but that jerry is operating in his own silo, and the team is not working as a team.
+
+20. If the team is rapidly estimating work by assigning sizes such as ‘XS’ ‘S’ ‘M’ ‘L’ or ‘XL’ to user stories, what method are they likely using?
+A. Fibonacci sequencing.
+B. Planning poker.
+C. Affinity estimating.
+D. Relative sizing.
+
+Answer: C 
+Explanation: This is a classic example of affinity estimating where the team compares their effort to something else they can relate to Common usages include shirt sizes or coffee cup sizes.
+
+21. Wireframes may be useful because:
+A. The team can create them rapidly with no code.
+B. They provide the customer with a working prototype.
+C. They can serve as lightweight documentation.
+D. They help the team remove clutter from the interface.
+
+Answer: A 
+Explanation:  A wireframe is a quick way to mock up a screen without any real functionality or code. It’s a fast way to show the users a concept that they can understand. ‘B’ is a description of a prototype and nota a wireframe, since wireframes do not function. ‘C’ is not good, since a wireframe is not a substitute for documentation. ‘D’ is not a good choice, since the point of a wireframe is to let the user see it and not to streamline theinterface.
+
+22. Which statement is false concerning time boxing?
+A. Time boxed projects still uses iterations to accomplish the work.
+B. Time boxing helps the team maintain a sense of urgency.
+C. Time boxing risks shifting the focus from customer value to technical difficulty.
+D. Only the features that are complete when the time limit is reached are included.
+
+Answer: D 
+Explanation:  Time boxing is a means of managing a project where the time is firmly established. Only the features that have been accepted when the time limit is reached are included. ‘A’ is not a good answer, since time boxing still uses iterations just like other methods. ‘B’ is accurate. But the question asks for the false statement. ‘C’ is also accurate ( remember, the question asks for the false statement) because time boxing can cause the team to shift their focus from Customer value to what can be accomplished technically.
+
+23. Who popularized the Plan-Do-Check-Act cycle?
+A. Ishikawa.
+B. Schwaber.
+C. Deming.
+D. Taylor.
+
+Answer: C 
+Explanation:  Ed Deming is credited with documenting and popularizing the now-famous plan-do-check-act cycle.
+
+24. On Agile projects, unless otherwise indicated, documentation should be:
+A. Nonexistent.
+B. Barely sufficient.
+C. Thorough but not exhaustive.
+D. Enough for someone new to complete your work if you left unexpectedly.
+
+Answer: B 
+Explanation:  The idea is that working software is favored over comprehensive documentation, and the desired level of documentation is often described as “barely sufficient” on Agile projects. ‘A’ is completely unrealistic, ‘C’ does not capture the spirit of Agile, since the word “thorough” is too close to “comprehensive”. ‘D’ is what you would want on a traditional project or if the team were siloed, but since Agile teams are all in the same space, this kind of documentation is likely overkill.
+
+25. Continuous integration means.
+A. All code changes are checked in and tested each day.
+B. The team shares a single codebase.
+C. The customer receives all development in real time.
+D. All code should be integrated as soon as it is “feature complete”.
+
+Answer: A 
+Explanation:  The closest match to continuous integration is that code should be checked in and tested each day. This was a tricky question, since this is a very imperfect answer, but is was the best choice. Continuous integration may mean that changes are checked in each hour (not necessarily each day). ‘B’ is incorrect, since each team member could have a local copy of the code, creating multiple temporary codebases ‘C’ is not good answer since the Customer would neither want nor benefit from receiving code in real time. ‘D’ is not a bad guess, but the words “feature complete” do not appear in this book (one clue that it was not a good answer), and this depends on the definition of done.
+
+26. A small unit that adds value to the customer is known as:
+A. A story point.
+B. A minimal marketable feature.
+C. A function point.
+D. A use case.
+
+Answer: B 
+Explanation:  Make sure you understand a minimal marketable feature (MMF) before sitting for the exam. It is the smallest bit of functionality that adds value to the Customer or use, and it is desirable on Agile projects, since it provides a good-sized unit for the team to work with ‘A’ is not a good answer, since a story point is something the team uses to estimate, but it is not a solid choice for this question. ‘D’ is not a good answer since use cases show how users will interact, but they are not necessarily small, and they do not necessarily add value.
+
+27. An iteration would be the same as:
+A. A Sprint.
+B. A Cycle.
+C. Velocity.
+D. A Release.
+
+Answer: A 
+Explanation:  An iteration in generic Agile is the same as a Sprint in the methodology, Scrum. ‘B’ and ‘C’ do not fit well since they are about speed and an iteration is closer to a duration. ‘D’ is not a good choice, since a release may have many iterations.
+
+28. Which statement is false regarding eXtreme Programming (XP)?
+A. XP programmers work in pairs.
+B. XP encourages programmers to take on slightly more strory points than they were able to complete in the previous iteration.
+C. XP practices shorter iterations than most other methodologies.
+D. XP encourages the team to do things “once and only once”.
+
+Answer: B 
+Explanation:  XP is firm that a pair of developers may ;not commit to more story points than they were able to complete in the previous iteration. The question asked which statement was false, making ‘B’ the best choice. ‘A’ is not a good choice, since XP does pair programmers. ‘C’ is not a good choice since the iterations are shorter than other methodologies (usually one week) in XP. “D” is also true about XP (and the question asked for the false statement).
+
+29. If Earned Value Management is practiced on the project, what is the appropriate level to measure and communicate it?
+A. Continuous.
+B. Iteration.
+C. Feature.
+D. Release.
+
+Answer: B 
+Explanation:  Earned Value Management (EVM) is captured and communicated at the iteration level.
+
+30. On an eXtreme Programming (XP) project, a stakeholder is regularly coming into the team’s space, taking valuable time and causing minor distractions. How should this be handled?
+A. The stakeholder should be invited to join the team and participate as a member.
+B. The empowered team should address the stakeholder.
+C. Senior management should be brought in to enforce the Cone of Silence.
+D. The Coach should take the stakeholder aside and explain XP principles to the stakeholder.
+
+Answer: D 
+Explanation:  The fact that it is XP is not particularly important in answering this question. The answer would be the same regardless of the methodology. It is the Coach’s job to keep the team focused on Agile principles and to remove obstacles. In this case, the stakeholder is an obstacle through the distraction. The coach should take the person aside and explain how focus and the need for a distraction-free environment are so important. ‘A’ is the worst answer here. Not everyone needs to be on the team. ‘B’ is closer, but this is the coach’s job and not the team’s job. ‘C’ is not a good answer since it is the Coach’s responsibility.
+
+31. Which represents roles on an eXtreme Programming (XP) project?
+A. Coach, Product Owner, Programmer, Tester, Tracker.
+B. Coach, Customer, Programmer, Tester, Tracker.
+C. Coach, Customer, Product owner. Programmer. Tester.
+D. Coach, Customer, Product Owner. Programmer. Inspector.
+
+Answer: B 
+Explanation:  The defined roles on the XP project are Coach, Customer, Programmer, Tester, and Tracker.
+
+32. Which statement concerning iterations is false?
+A. Iterations should begin early and should continue throughout the life of the project.
+B. One iteration may include multiple releases.
+C. An iteration should deliver working software at the end.
+D. The first iteration is often called iteration zero.
+
+Answer: B 
+Explanation:  iterations are smaller than releases, so a release may (and probably does) contain multiple iterations, but an iteration cannot contain multiple releases. ‘A’ ‘C’ and ‘D’ are all correct statements, and the question asked for the one that is false.
+
+33. A team is engaged in the activity of documenting a series of processes to understand them better so they can be streamlined. This is known as:
+A. Flow chain Mapping.
+B. Systemic Analysis.
+C. Cumulative Flow Diagramming.
+D. Value Stream Mapping.
+
+Answer: D 
+Explanation:  Value Stream Mapping looks at a series of processes and follows them through the entire system to understand them better and analyse the value they delier. ‘C’ is not a good match, since a Cumulative Flow Diagram shows workflow of tasks but not of processes. ‘A’ and ‘B’ were made-up terms.
+
+34. There are two Agile teams within an organization. Team A has a velocity of fifteen, while Team B team has a velocity of twenty. Management has taken notice and wishes for Team A to take steps to increase their velocity to match Team B’s performance. What is the appropriate action?
+A. Ask the Scrum Masters to cross-attend daily and stand-ups so that best practices may be spread across both teams.
+B. Take an earned value measurement as a second measure of performance.
+C. Redistribute team members between the two teams.
+D. Explain to senior management why the request does not make sense.
+
+Answer: D 
+Explanation:  You cannot compare the velocity of one team to another for the simple reason that velocity is based on story points, and he meaning of a story point can and will vary widely among teams. The best choice is to explain this to senior management. ‘A’ assumes that one team is performing better than the other, but this is not evident here. ‘B’ is not a particularly bad answer, except that senior management did not ask for that,, and they may not know what to do with the earned value measurements that you collect. ‘C’ also assumes that a problem needs to be solved, but there may not be.
+
+35. Lean seeks to:
+A. Maximize the work not done.
+B. Maximize sustainability.
+C. Maximize story velocity.
+D. Maximize the rate at which value is delivered.
+
+Answer: A 
+Explanation:  Lean is fanatical about reducing waste. One of the ways it accomplishes this is by seeking to maximize the work that is not done.
+
+36. If the product backlog is not up to date, whose primary responsibility is it to address this?
+A. The Scrum Master.
+B. The Team.
+C. The Product Owner.
+D. The Sponsor.
+
+Answer: C 
+Explanation:  The capitalized words are one clue that we are talking about Scrum, but you should have answered correctly even if you did not pick up on that. The Product Owner is primarily responsible for creating, updating, and grooming the product backlog.
+
+37. Which principle below is least Agile?
+A. Incremental delivery.
+B. Small releases.
+C. Scalable teams.
+D. Progressive elaboration of requirements.
+
+Answer: C 
+Explanation:  While some agile theorists may bristle at this, Agile is generally considered to be very challenging to scale to large. ‘A’,’B’, and ‘D’ are all very agile. (The question is asked for the one which is least Agile).
+
+38. Who is responsible for updating the Kanban board?
+A. The Scrum Master as work is completed.
+B. The Customer, as work is accepted.
+C. The Tester, as work is verified.
+D. The Team, as work progresses.
+
+Answer: D 
+Explanation:  The team is responsible for tracking its own progress. Kanban boards show status, and no one knows status better than a team member doing the work. If the choice had been there for “The Tracker” (a role in XP) that would have been the better choice, but it was not present.
+
+39. How does a cumulative flow diagram differ from a burn-down chart?
+A. A cumulative flow diagram shows work-in-progress, and a burn-down chart does not.
+B. A cumulative flow diagram communicates the addition of new user stories more clearly than a burn down chart.
+C. A cumulative flow diagram shows individual user stories, while a burn-down chart does not.
+D. A cumulative flow diagram is release-based, while burn-down charts are iteration-based.
+
+Answer: D 
+Explanation:  This requires the relatively deep understanding of what these charts are and what how they are used. ’A’ is not correct because neither chat shows the addition of new user stories particularly well. This would be something the backlog would show. ’B’ is not a good choice both a burn-down chart and a cumulative flow diagram would show the addition of new user stories clearly. ‘C’ is not a good choice since they are updated as needed during iteration. This leaves ‘D’ as the best answer since a cumulative flow shows work as it progresses through the system, so work that has been begun but not finished is shown. A burn down chart would not show work until it is done, so this would be one key area in which they differ.
+
+40. Which Agile methodology is most widely used?
+A. XP.
+B. Scrum.
+C. Lean.
+D. Crystal.
+
+Answer: B 
+Explanation:  Scrum has majority of the market share and is the most popular Agile methodology in use at this time. See chapter 9 for the breakdown and percentages.
+
+1. The amount of time it takes for a feature to move from inception to completion is known as:
+A. Velocity.
+B. Time –to-value.
+C. Cycle Time.
+D. Burn Rate.
+Answer: C 
+Explanation:  This is the definition of cycle time. ‘A’ represents the number of story points a team cam complete in an iteration. B is not a term form this book (nor is it particularly Agile). And ‘D’ represents the cost of the team per iteration.
+
+2. The number of story points a team can complete in a single iteration is known as:
+A. Velocity.
+B. Cycle Time.
+C. Release density.
+D. Burn Rate.
+Answer: A 
+Explanation:  The number of story points the team can complete in an iteration is known as the team’s velocity.
+
+3. Senior management has asked the Scrum Master to calculate the team labor costs for the next iteration. They are asking for:
+A. Earned Value.
+B. Cost performance index.
+C. Budget.
+D. Burn Rate.
+Answer: D 
+Explanation:  The burn rate reflects the labor costs for a given iteration and could be used to calculate future iterations.
+
+4. The custormer has reported an error in a software module the team delivered. This is:
+A. An issue with acceptance.
+B. A problem with validation.
+C. A problem with verificatio .
+D. An Escaped Defect.
+Answer: D 
+Explanation:  Escaped defects are those errors that the Customer finds. If they are detected by the team before they get to the Customer, they are not escaped defects. ‘A’, ‘B’, and ‘C’, could be correct to varying levels, but the question is the very definition of an escaped defect.
+
+5. Which choice below most closely expresses the Japanese management term “Kaizen”?
+A. Signal.
+B. Small changes.
+C. Plan-Do-Check-Act.
+D. Embrace change.
+Answer: B 
+Explanation:  Kaizen is the Japanese philosophy of continuous improvement, which is carried out through small changes. ‘A’ is the translation for another Japanese management term (Kanban). ‘C’and ‘D’ are both Agile concepts, but they do not reflect the philosophy of Kaizen.
+
+6. Test Driven Development is characterized by which of the following:
+A. Test, Code, Refactor, Deliver.
+B. Code, Test, Refactor, Deliver.
+C. Code, Refactor, Test, Deliver.
+D. Test, Code, Deliver, Refactor.
+Answer: A 
+Explanation:  The right order of Test-driven development is test, code, refactor, deliver. If it seems impossible to test before you code, consider that you are creating the test cases and building them into the module before you write it. The module is then written to pass the tests. After that it is refactored and delivered to the Customer.
+
+7. A spike is:
+A. A small experiment to help the team determine a course of action.
+B. An increase in the number of user stories within a release or an iteration.
+C. A technique used to motivate the team.
+D. A dividing question to assist the customer in the requirements process.
+Answer: A 
+Explanation:  A spike (also called a spike solution) is a small experiment used to determine a course of action when there is a question about how to proceed.
+
+8. Which of the following is true regarding iteration zero?
+A. The team selects the items of highest value to the customer.
+B. The team attempts to lock down the product scope.
+C. The team typically does not deliver any value to the customer.
+D. The team has a retrospective to discuss other iterations in the release.
+Answer: C 
+Explanation:  In iteration Zero, the team generally plans, and no working software is delivered to the Customer. Remember that in Agile, a plan does not hold intrinsic value. It is working software that conveys value.
+
+9. Limiting work-in-progress (WIP) is most closely associated with:
+A. Deming.
+B. Ishikawa.
+C. Kaizen.
+D. Kanban.
+Answer: D 
+Explanation:  Limiting WIP is most closely associated with Kanban. The Kanban board shows work progressing through the system, and it is used to limit WIP and help the team to maintain focus on a very few items.
+
+10. The team has a disagreement about the value a potential new feature might provide. What is the right way to resolve this?
+A. The team.
+B. The Users.
+C. The Product Owner.
+D. The Coach.
+Answer: C 
+Explanation:  The Product Owner or Customer is the final arbitrator of the value functionality dies or does not provide.
+
+11. An Agile Coach is involved in negotiations over space for the team with another manager. The Coach is working hard to relate to the manager and to understand her concerns and needs while explaining the team’s need for the space. The Coach is using:
+A. Emotional intelligence.
+B. Active Listening.
+C. Collaboration skills.
+D. Conflict Resolution.
+Answer: A 
+Explanation:  The Agile Coach is employing emotional intelligence. The key here is that the Coach is trying to understand the other’s concerns and to relate. While ’A’ is not a perfect fit for this question, it is the best of the four. ‘B’ does not work since there is no evidence of “active” listening (e.g., giving feedback, ensuring understanding). “C” does not fit since there is no evidence of Collaboration taking place. ‘D’ is the next best answer, but it is not a term used in this book, and the negotiation taking place is different than conflict resolution.
+
+12. An organization has just begun to embrace Agile principles. Which would be true about what they would expect to see?
+A. They should expect project risk to fall.
+B. They should expect more change requests.
+C. They should expect turnover to fall.
+D. They should initially expect more complaints to senior management.
+
+Answer: B 
+Explanation:  An organization that embraces Agile should expect more change requests, since Agile welcomes changing requirements, even if they are introduced late in the project.
+
+13. User stories should be:
+A. Dependent.
+B. Comprehensive.
+C. Negotiable.
+D. High-value.
+Answer: C 
+Explanation:  Remember the INVEST acronym (you need to know it before sitting for the exam) User stories should be (I)ndependent,(N)egotiable, (V)aluable, (E)stimable, (S)mall, and (T)estable.
+
+14. What is the primary measure of progress?
+A. Function points.
+B. Working software.
+C. The burn down chart.
+D. The information radiator.
+Answer: B 
+Explanation:  Principle seven in The Principles Behind the Agile Manifesto states that “Working software is the primary measure of progress”. All other things may indicate progress, but nothing speaks louder than results, and results are expressed through working software on Agile products.
+
+15. Which methodology would you expect to find programmers working in pairs?
+A. Scrum.
+B. Lean.
+C. Waterfall.
+D. XP.
+Answer: D 
+Explanation:  eXtreme Programming (XP) projects have programmers work in pairs.
+
+16. In a scrum planning meeting, who discuss the highest-priority features with the team?
+A. The product owner.
+B. The Scrum Master.
+C. The Customer.
+D. The Users.
+Answer: A 
+Explanation:  The Product Owner is the person who lays out which user stories are the highest priority and provides functional specifics on those features or user stories. This takes place as part of the iteration planning meeting.
+
+17. All of the following statements regarding tasks are true on Agile projects except:
+A. They do not necessarily add customer value.
+B. They represent the smallest breakdown of work.
+C. They may be shown on an information radiator.
+D. They are assigned to individual or pairs for completion.
+Answer: D 
+Explanation:  You needed to read this one carefully. Tasks are not assigned. The team takes them on and self-organizes around them. They are agreed upon, but not assigned. ‘A’ is accurate (the question wanted the false statement) in that they do not necessarily add Customer value by themselves. ‘B’ is not a good choice, since tasks do represent the smallest breakdown of work. ‘C’ is not a good choice, because tasks may show up on a Kanban board or other form of information radiator.
+
+18. At the end of a Sprint, how long is the review?
+A. One hour.
+B. One half-day.
+C. One day.
+D. As long as value is being realized.
+Answer: B 
+Explanation:  Sprint review or retrospective is one half-day (four hours).
+
+19. Which of the following statements about Agile is the most accurate?
+A. Agile teams produce fewer issues than waterfall teams.
+B. Agile teams resolve fewer issues than waterfall teams.
+C. Agile teams escalate fewer issues than waterfall teams.
+D. Agile teams are aware of fewer issues than waterfall teams.
+Answer: C 
+Explanation:  Agile teams escalate fewer issues than waterfall teams because Agile teams are empowered to resolve issues, and because the Customer or product owner is likely collocated with them, so there is no need to escalate issues. Instead, most issues are rapidly resolved on the spot.
+20. Which value is not mentioned in the Agile Manifesto?
+A. Comprehensive Documentation.
+B. Continuous Improvement.
+C. Contract Negotiation.
+D. Processes and Tools.
+Answer: B Explanation:  Continuous improvement, while a very Agile concept, is not mentioned in the Agile Manifesto.
+
+21. The primary purpose of the daily stand-up meetings is:
+A. To allow the team to coordinate work and communicate issues.
+B. To make the Scrum Master or Coach aware of any issues.
+C. To communicate progress to the Customer.
+D. To implement continuous improvement for subsequent work.
+Answer: A 
+Explanation:  Daily stand-up meetings allow the team to coordinate work and communicate issues with each other by sharing information out in the open. ‘B’ and ‘C’ are great by products of the meetings, but they are not their primay purpose. ‘D’ is more descriptive of the retrospective or review meetings than the daily stand-ups.
+
+22. Product owners do which of the following?
+A. Prioritize the product backlog, serve as a single voice of the customer, accept the work.
+B. Prioritize the iteration backlog, coordinate team activities with the Coach or Scrum Master, communicate the value of user stories.
+C. Facilitate daily stand-ups, write the acceptance criteria for user stories, review completed user stories.
+D. Help the team self-organize, explain user stories to the team, help disaggregate epic stories.
+Answer: A 
+Explanation:  Understanding the roles is very important Product Owners need to help prioritize the product backlog, serve as the single voice of the Customer, and accept the work. ‘B’ is incorrect because they do not prioritize the iteration backlog (the team manages this), and they do not coordinate team activities. They do communicate the value of user stories to the team, however. ‘C’ is incorrect since they certainly do not facilitate daily stand-ups (the team does this itself). They do write user stories. “D” is incorrect since Tems don’t get outside help from Product Owners in self-organization.
+
+23. A feature was slated to be included in an iteration, but the team has encountered difficulty in getting the software to work. It is time for the iteration to end. How should this be resolved?
+A. The team should proceed to deliver software on time but explain to the customer that it does not work yet.
+B. The Team should ask the Coach for guidance.
+C. The Team should deliver the other features in the iteration but should not deliver this feature since it does not work.
+D. The Team should delay delivery of the software until the feature works as intended.
+Answer: C 
+Explanation:  When any component is not complete at the end of an iteration, it should be identified and restored to the Product Backlog as incomplete work. 'A” is a very poor choice for this scenario. ‘B’ is incorrect since it would be the Product Owner’s or the Customer’s decision and not the Coach’s. ‘D’ might should good if you don’t understand how an iteration works, but once the time limit is up, the iteration ends.
+
+24. Which statement is true concerning distributed teams in Agile?
+A. Under Agile, distributed teams are generally as effective or more effective than collocated teams.
+B. Under Agile, distributed teams are generally less effective than collocated teams.
+C. Under Agile, distributed teams follow a different model of organization than collocated teams.
+D. The Agile model does not support distributed items.
+Answer: B 
+Explanation:  Distributed teams may be a reality, but they are not ideal. Under Agile, distributed teams will probably be less effective than collocated teams.
+
+25. Which statement reflects the Agile principles?
+A. Projects are built around motivated individuals.
+B. Projects are built around superior requirements captured through user stories.
+C. Projects are built around the process rather than a product.
+D. Projects are built around the product rather than a process.
+Answer: A 
+Explanation:  Principle five in the Principles Behind the Agile Manifesto states that we should “build projects around motivated individuals”. ‘B’and ‘D’ are not very Agile choices. C is not a good choice, since Agile projects are both about the process and product.
+
+26. The Coach has become aware of an increase in the number of escaped defects. He believes they can be traced back to a single developer. What should he do?
+A. Address this issue with the team.
+B. Problem-solve by communicating directly with the developer.
+C. Post the information in the shared space to raise team awareness.
+D. Address this issue at the next iteration retrospective.
+Answer: A 
+Explanation:  Escaped defects are a problem, and the team has to be brought into this situation and made aware. ‘B’ is not good since the entire team is collectively responsible for the results. ‘C’ might be a good step, but it probably isn’t sufficient by itself.. ‘D’ would be insufficient since the team might not address this situation for quite some time if it waited until the next itration retrospective.
+
+27. Senior management in the performing organization has asked the Agile team for a detailed project plan. What is the best response?
+A. Provide senior management with a product roadmap.
+B. Take this opportunity to educate senior management on Agile principles.
+C. Have the team produce abbreviated versions of the key components of a project plan.
+D. Develop an information radiator for senior management.
+Answer: B 
+Explanation:  Agile teams do not produce “detailed project plans” , so it would be best to educate senior management that rather than doing this, the team will be delivering, working, valuable software. ‘A’ is not what senior management asked for, so this is not a good response. ‘C’ does not work well since they may not have these components, and developing abbreviated versions would not make sense. “D’ is not a good choice for this scenario since it is not what senior management requested, and it likely would not be well received.
+
+28. An Agile team’s workflow is:
+A. Developed by the Scrum Master.
+B. Represented in the product backlog.
+C. Agreed upon by the project team.
+D. The primary contributor to product quality.
+Answer: C 
+Explanation:  An Agile team’s workflow is agreed upon by the team. For example, it may be that tasks are “Started, Designed, Coded, Tested, Done” or they may create a different workflow entirely. The point is that it is defined by and belongs to the team. “A” is not a good choice, since that looks like the command and control model that Agile seeks to avoid. ‘B’ is incorrect since user stories are in the backlog, but the workflow is not. ‘D’ is not a good choice, because while the workflow would certainly contribute to quality. It is by no means the primary contributor.
+
+29. A project team has a velocity of 5, Given the product backlog represented by priority in the table below, what is the best combination of iterations?
+       --------------------------------
+         User Story  | 	Estimate
+       --------------------------------
+	A         |       2
+	B         |       3
+	C         |       1
+	D         |       1
+	E         |       3
+	F         |       5
+
+A. Iteration 1: AB; Iteration 2: CDE; Iteration 3: F.
+B. Iteration 1: AE; Iteration 2:BCDE; Iteration 3:F.
+C. Iteration 1: A; Iteration 2: BCD; Iteration 3: E; Iteration 4: F.
+D. Iteration 1: ABC; Iteration 2: DE; Iteration 3: F.
+
+Answer: A 
+Explanation:  The key to understanding this is to look at the velocity. By keeping it at 5, the combination of AB for iteration 1, CDE for iteration 2, and F for iteration 3 works perfectly. There is no need to rearrange the priorities or change the length of any iterations in this case.
+30. Issues that may indicate a common root problem are often referred to as:
+A. Hints.
+B. Symptoms.
+C. Action Items.
+D. Smells.
+Answer: D 
+Explanation:  The wording on this question and the corresponding answer is tricky. Agile smells are issues that might appear as something else on the surface. For example, if the coach has begun assigning work to the team, that might be classified as a “smell”. The underlying problem might be that self-organization has broken down.
+
+31. “Prune the Product Tree” is a technique used in:
+A. Requirement gathering.
+B. Release planning.
+C. Iteration planning.
+D. Integration testing.
+Answer: A 
+Explanation:  Prune the Product Tree is an innovation game used in requirements gathering.
+
+32. Ideally, team space should be configured so that:
+A. Team members face the information radiator.
+B. Team members have as much privacy as possible.
+C. Team members face each other.
+D. Team members can form smaller groups.
+Answer: C 
+Explanation:  Team space should be configured (ideally) so that team members are facing each other with low or no barriers. ‘A’ is not compatible with facing each other, and ‘B’ is against the principles of Agile. ‘D” may sound like a good idea at first glance, but the goal is not to form groups but for the team to be a single group.
+
+33. Which question would be appropriate to ask during a daily stand-up meeting?
+A. What are you planning to do tomorrow?
+B. What impediments are you encountering?
+C. What can the team do to become more effective?
+D. What can the team do to become more efficient?
+Answer: B 
+Explanation:  There are only three questions asked at a daily stand-up. 1. What did you work on yesterday? 2. What are you planning to work on today? 3. What obstacles or impediments are you encountering? ‘C’ is the only one that fits this list.
+
+34. An organization‘s Project Management Office (PMO) has three Agile projects, but each of the projects implements Agile principles very differently. How should the PMO respond to this?
+A. The PMO should focus only on earned value management and objective measures and should not be concerned with how the team performs their work.
+B. The PMO should define how Agile projects should be run within the organization.
+C. The PMO should accept that Agile is implemented differently on different projects.
+D. The PMO should collocate all of the Agile projects to allow the groups teams to self-organize.
+Answer: C 
+Explanation:  Agile does not look exactly the same on all projects. That is the tradeoff of having empowered teams. ‘A’ would be a communications disaster, and an unnecessary one at that, ‘B’ is a heavy-handed approach that might create more problems that it would solve. ‘D’ is not a very bad answer, but this is more of a command and control approach. If teams are truly self-organizing, it means they will likely have different definitions of “done” , different velocities, and different workflows. The organization should accept this and try to leverage the power of a rapidly-adapting, empowered team.
+
+35. When using Earned Value Management (EVM), Agile substitutes what in place of planned value?
+A. A calculation using the cycle time and the value of the user stories to be completed.
+B. A calculation using the return on investment (ROI) for the user stories to be completed.
+C. A calculation using the velocity and burn rate for an iteration.
+D. Agile projects do not use planned value in EVM calculations.
+Answer: C 
+Explanation:  Planned value, also known as the Budgeted Cost of Work Scheduled, is the earned value calculation that represents the work you expect to complete at a point in time. This can be calculated on an Agile project by using team velocity to calculate the work that should be completed and the burn rate to calculate the cost of that work.
+
+36. On the wall of an agile project are various items including a burn -down chart, a burn-up chart, a feature backlog, and a velocity chart. These make up:
+A. Enterprise Environmental Factors.
+B. An Information Radiator.
+C. Organizational Process Assets.
+D. Agile Tooling.
+Answer: B 
+Explanation:  This describes clear example of an information radiator.
+
+37. The most efficient and effective method of conveying information to and within a development team is through:
+A. Osmotic communications.
+B. Using an approved method the team has agreed upon.
+C. Face-to-face.
+D. In writing.
+Answer: C 
+Explanation:  This is another one straight out of The Principles Behind the Agile Manifesto, Principle six states “the most efficient and effective method of conveying information to and within a development team is face-to-face conversation. “knowing the manifesto and the principles will serve you well on the exam!
+
+38. The practice of asking “5 whys” is most closely associated with which organization?
+A. General Electric.
+B. Motorola.
+C. Toyota.
+D. The Project Management Institute.
+Answer: C 
+Explanation:  Toyota is the originator of asking the 5 whys in order to determine a root cause.
+
+39. The Product Owner has indicated that “Feature A” would provide the greatest business value; however, the empowered Team believes that “Feature B” would provide significantly more business value. How should this be decided?
+A. The Scrum Master should break the tie.
+B. The Team should make the final decision.
+C. The group should not proceed until there is consensus.
+D. The product Owner should be the one to decide.
+Answer: D 
+Explanation:  Business value is clearly the domain of the Product Owner. His or her judgment on the matter trumps everyone else’s.
+
+40. Which of the following attributes should be applicable to User Stories?
+A. Validated, Economical.
+B. Verifiable, Editable.
+C. Valuable, Estimable.
+D. Vital, Elastic.
+Answer: C 
+Explanation:  The acronym INVEST, which represents attributes of user stories, stands for (I)ndependent, (N)egotiable, (V)aluable, (E)stimable, (S)mall, and (T)estable.

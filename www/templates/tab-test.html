@@ -1,19 +1,18 @@
-<ion-view view-title="Agile Certified Practitioner (ACP)">
+  <ion-nav-back-button class="button-clear"
+    ng-click="myGoBack()">
+    <i class="ion-arrow-left-c"></i> Back
+  </ion-nav-back-button>
+<ion-view>
+  <ion-nav-title>
+      Agile Certified Practitioner (ACP)
+  </ion-nav-title>
   <ion-content class="acp-content-bg">
   	<div class="item item-divider" ng-show="timer">
   		<div class="right">
-  			Exam Time : <timer autostart="false" interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
+  			Exam Time : <timer countdown="10800"  interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
   		</div>
 	</div>
-  	<div ng-show="timerTemplate" class="auto width-200 acp-exam-btn">
-  	  	<button ng-click="startTest()" class="button button-dark width-200 acp-buy-more">
-			  Exam 1
-		</button>
-		<button class="button button-dark width-200 acp-buy-more">
-			  Buy More Exam
-		</button>
-  	</div>
-	  <div ng-show="testMode">
+	<div ng-show="testMode">
 	  	<div  class="padding">Q{{count}}. {{questions[QuestionNumber].question}}</div>
 		<ion-list>
 			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_a" value="a">a. {{questions[QuestionNumber].options.a}}</ion-radio>

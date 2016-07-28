@@ -35,7 +35,26 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','t
   })
 
   // Each tab has its own nav history stack:
-
+  .state('tab.home', {
+    cache: false,
+    url: '/home',
+    views: {
+      'menu': {
+        templateUrl: 'templates/home.html',
+        controller: 'HomeCtrl'
+      }
+    }
+  })
+  .state('tab.mode', {
+    cache: false,
+    url: '/mode',
+    views: {
+      'menu': {
+        templateUrl: 'templates/tab-mode.html',
+        controller: 'ModeCtrl'
+      }
+    }
+  })
   .state('tab.test', {
     cache: false,
     url: '/test',
@@ -67,6 +86,6 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','t
   });
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/simulate');
+  $urlRouterProvider.otherwise('/tab/home');
 
 });

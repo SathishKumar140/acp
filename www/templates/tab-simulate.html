@@ -1,5 +1,13 @@
-<ion-view view-title="Agile Certified Practitioner (ACP)">
+<ion-view>
+  <ion-nav-title>
+      Agile Certified Practitioner (ACP)
+  </ion-nav-title>
   <ion-content class="acp-content-bg">
+  	<div class="item item-divider">
+  		<div class="right">
+  			Exam Time : <timer countdown="10800"  interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
+  		</div>
+	</div>
 	  <div>
 	  	<div class="padding">Q{{count}}. {{questions[QuestionNumber].question}}</div>
 		<ion-list>

@@ -1,0 +1,953 @@
+1. What person in the agile framework "adapts the leadership style to the working environment?"
+A. Release planner
+B. Project leader
+C. Project scheduler
+D. Product owner
+Answer: B 
+Explanation: A common misconception in agile is that an agile team does not need a leader. In fact, all agile teams need a leader, but the way in which the leader leads is fundamentally different than the typical traditional project manager/project leader method. Some have theorized that this misconception stems from the desired 'self-organizing' quality of the agile team. And although the 'self-organizing' agile team is empowered to take ownership and responsibility of the product and make some decisions itself, it nevertheless requires a leader to help provide guidance, mentoring, coaching, problem solving, and decision making. Some key aspects required of an agile leader include: empowering team members to decide what standard agile practices and methods it will use; allowing the team to be self-organized and self-disciplined; empowering the team members to make decisions collaboratively with the customer; inspire the team to be innovative and explore new ideas and technology capabilities; be a champion of and articulate the product vision to team members so it will be motivated to accomplish the overall objective; remove any obstacles and solve any problems the team may face in its effort; communicate and endorse the values and principles of agile project management to stakeholders that may be unfamiliar with agile; ensure that all stakeholders, including business managers and developers, are collaborating effectively; and, be able to adapt the leadership style to the working environment to ensure that the agile values and principles are effectively upheld. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+2. Select the response that lists the three main levels of agile planning.
+A. Release planning, daily planning, daily stand-up planning
+B. Release planning, rolling waveform planning, daily planning
+C. Release planning, iteration planning, daily planning
+D. Sprint planning, iteration planning, iteration planning
+Answer: C 
+Explanation: The three main levels of agile planning are release planning, iteration planning, and daily planning. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting]
+
+3. Reggie realizes that the timeboxed value for the current user story he is developing is too short a duration. What should Reggie do?
+A. Aggregate the task with other tasks that are equally as difficult
+B. Take a corrective measure as soon as possible and notify the team about the realization
+C. Remove the user story from the current iteration and place it in the product backlog
+D. Simply update the timebox to what he thinks is appropriate and continue to work without notifying the team
+Answer: B 
+Explanation: When a developer notices that a user story/task is taking longer than the timebox indicates, he or she should notify the team and take a corrective measure. Corrective measures include splitting the task into smaller user stories or changing team members. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting]
+
+4. Which of the following is an agile principle per the Agile Manifesto?
+A. Defect reduction
+B. Test-driven development
+C. Paying continuous attention to technical excellence and good design.
+D. Removing waste
+Answer: C 
+Explanation: The Agile Manifesto defines 12 supporting principles. Agile principles include 1) Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. 2) Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. 3) Deliver working software frequently, from a couple of weeks to a couple of months, with preference to the shorter timescale. 4) Business people and developers must work together daily throughout the project. 5) Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. 6) The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. 7) Working software is the primary measure of progress. 8) Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. 9) Continuous attention to technical excellence and good design enhances agility. 10) Simplicity--the art of maximizing the amount of work not done--is essential. 11) The best architectures, requirements, and designs emerge from self-organizing teams. 12) At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. [Manifesto for Agile Software Development. Agile Alliance.] [Knowledge and Skills: Level 1]
+
+5. Which of the following is a key soft skill negotiation quality?
+A. Conflict resolution
+B. Requirement resolution
+C. Negotiation resolution
+D. Specification resolution
+Answer: A 
+Explanation: Key soft skills negotiation qualities for the effective implementation and practice of agile are: emotional intelligence, collaboration, adaptive leadership, negotiation, conflict resolution, servant leadership. [Coaching Agile Teams. Lyssa Adkins.] [Soft skills negotiation]
+
+6. What is an essential knowledge and skill area of the agile team?
+A. Problem-prioritization tools
+B. Problem-solving tools
+C. Problem-mitigation tools
+D. Problem-first tools
+Answer: B 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+7. Lisa is describing the four Agile Manifesto values to her co-workers. Which response lists a secondary value?
+A. Responding to change
+B. Customer collaboration
+C. Following a plan
+D. Individuals and interactions
+Answer: C 
+Explanation: The Agile Manifesto defines four values. The four values list primary values and secondary values, with primary values superseding secondary values. The values are 1) individuals and interactions over processes and tools, 2) working software over comprehensive documentation, 3) customer collaboration over contract negotiation, and 4) responding to change over following a plan. [Manifesto for Agile Software Development. Agile Alliance.] [Knowledge and Skills: Level 1]
+
+8. Two of the Agile Manifesto's four core values cover communication values. Select these values from the list.
+A. Individuals and interactions over processes and tools, and customer collaboration over contract negotiation
+B. Working software over comprehensive documentation, and individuals and interactions over processes and tools
+C. Individuals and interactions over processes and tools, and responding to change over following a plan
+D. Responding to change over following a plan, and individuals and interactions over processes and tools
+Answer: A 
+Explanation: The Agile Manifesto developed by the Agile Alliance covers 4 values and 12 principles. The four values are: 1) individuals and interactions over processes and tools, 2) working software over comprehensive documentation, 3) customer collaboration over contract negotiation, and 4) responding to change over following a plan. The 12 principles are: 1) focusing on satisfying the customer, 2) welcoming change, 3) delivering working software frequently, 4) ensuring that business people and developers work together, 5) motivating the individuals involved in development, 6) using face-to-face communication whenever possible, 7) working software as the primary measure of progress, 8) maintaining a constant pace of development, 9) paying continuous attention to technical excellence and good design, 10) aiming for simplicity, 11) using self-organizing teams, and 12) regularly reflecting on how to become more effective. [Manifesto for Agile Software Development. Agile Alliance.] [Communications]
+
+9. How is iterative customer evaluation of a product incorporated into iteration planning?
+A. Results from the customer evaluation help the team prioritize which user stories should be tested and integrated during the next iteration.
+B. Customer evaluation is used during release planning which holds the work breakdown structure of the iteration plan
+C. Customer evaluation is not incorporated into iteration planning. The agile team plans for the iteration independently of customer evaluation.
+D. Customer feedback helps the agile team plan for the next iteration.
+Answer: D 
+Explanation: Once completing an iteration, the team and customer evaluate the most recently developed product features. The customer's evaluation provides the agile team with key insights and objectives for the next iteration. Iteration planning is highly dependent on customer evaluation to ensure quality is built into the product. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting]
+
+10. Which of the following responses is a community value per the PMI agile community of practice community charter?
+A. Openness
+B. Introspective
+C. Weary
+D. Reticent
+Answer: A 
+Explanation: The following are community values of the PMI agile community of practice community charter: Vision, Servant Leadership, Trust, Collaboration, Honesty, Learning, Courage, Openness, Adaptability, Leading Change, Transparency [PMI Agile Community of Practice Community Charter. Project Management Institute.] [Knowledge and Skills: Level 1]
+
+11. Select a common agile problem-solving technique.
+A. Reflection listening
+B. Retrospective listening
+C. Passive listening
+D. Active listening
+Answer: D 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+12. Select a common agile problem-solving technique.
+A. Reflective listening
+B. Passive listening
+C. Reflection listening
+D. Retrospective listening
+Answer: A 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+13. Select the agile knowledge and skill area that concerns itself with effective communication.
+A. Brainstorm facilitation management
+B. Feedback management
+C. Retrospective management
+D. Communications management
+Answer: D 
+Explanation: Effective communication is a cornerstone of agile. Communication is the act of transferring information among various parties. Communications management is a knowledge and skill area of agile that highlights this importance. PMI has several definitions regarding communications management and agile builds on top of these to add its own perspective: 1) Communications Planning: Determining the information and communication needs of the projects stakeholders 2) Information Distribution: Making needed information available to project stakeholders in a timely manner, 3) Performance Reporting: Collecting and distributing performance information. This includes status reporting, progress measurement, and forecasting, and 4) Managing Stakeholders: Managing communications to satisfy the requirements and resolve issues with project stakeholders. From an agile perspective: communication among the team is built into the process and facilitated through collocation, information radiators, daily stand-up meetings, retrospectives etc.; Although it is hoped that the product owner, customer, and user can be heavily involved with the project and also use these communication techniques, a plan for conveying information to stakeholders may be needed if this is not the case. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 1]
+
+14. Select a key element of a project charter?
+A. Impact statement
+B. Return on investment
+C. Investment cost
+D. Vision
+Answer: D 
+Explanation: The project charter is an important governing document that requires all stakeholder participation. Although experts recommend it not be longer than a page in length, creating a project charter can be challenging, as all stakeholders must participate and come to a consensus. Three key elements should be included in a project charter: vision, mission, and success criteria. Vision is the 'why' or rationale of a project. Mission is the 'what' of the project and describes what the team will accomplish to reach the vision. Success criteria are management metrics that define 'how' the project will be deemed successful. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+15. Select a key element of a project charter?
+A. Stakeholder analysis
+B. Risk analysis
+C. Cost-to-value matrix
+D. Mission
+Answer: D 
+Explanation: The project charter is an important governing document that requires all stakeholder participation. Although experts recommend it not be longer than a page in length, creating a project charter can be challenging, as all stakeholders must participate and come to a consensus. Three key elements should be included in a project charter: vision, mission, and success criteria. Vision is the 'why' or rationale of a project. Mission is the 'what' of the project and describes what the team will accomplish to reach the vision. Success criteria are management metrics that define 'how' the project will be deemed successful. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+16. Gerald is working on a multi-national agile project. What is one thing Gerald should be sensitive of in a multi-national effort?
+A. Risk-based spike tasks
+B. Time zones
+C. Risk burndown chart
+D. Quality differences
+Answer: B 
+Explanation: A high-performance agile team is one that is ideally collocated for osmotic communication and face-to-face interaction. However, collocation isn't always feasible in today's multinational environment. For distributed teams, several practices are available to provide the best form of effective communication in the absence of being collocated: team intranet sites, virtual team rooms, and video conferencing over e-mail when possible. Geographic separation, especially on a world-wide scale, causes the team to consider language and cultural differences, and time zone differences. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 2]
+
+17. What agile artifact outlines the project's goals?
+A. Product roadmap
+B. Business case
+C. Risk burndown chart
+D. Iteration backlog
+Answer: B 
+Explanation: Business case development is an important initial step in agile project management. The business case is a concise document that outlines the project's vision, goals, strategies for achieving goals, milestones, required investment and expected return/payback. A business case articulates the why and how a project will deliver value to a customer. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+18. What agile estimation technique originates from the wideband Delphi estimation technique?
+A. Planning games
+B. Affinity poker
+C. Risk games
+D. Planning poker
+Answer: D 
+Explanation: Planning poker is based upon the wideband Delphi estimation technique. It is a consensus-based technique for estimating effort. Sometimes called scrum poker, it is a technique for a relative estimation of effort, typically in story points, to develop a user story. At a planning poker meeting, each estimator is given an identical deck of planning poker cards with a wide range of values. The Fibonacci sequence is often used for values for planning poker (i.e., 0, 1, 1, 2, 3, 5,8,etc.); another common sequence is (question mark, 0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, and 100). A planning poker meeting works as follows: 1) a moderator, not estimating, facilitates the meeting. 2) the product wner/manager provides a short overview of the user story and answers clarifying questions posed by the developers. Typically the product owner does not vote. 3) Each estimator selects an estimate of work effort by selecting a card, 4) Once everyone has selected a card, everyone overturns their card concurrently, 5) Estimators with high and low estimates are given a chance to defend positions. 6) The process repeats until there is consensus. The developer who owns the user story is typically given higher credence. [Agile Estimating and Planning. Mike Cohn.] [Agile estimation]
+
+19. What is typically plotted in a risk burndown graph?
+A. Risk impact
+B. Risk severity
+C. Risk mitigation factors
+D. Risk likelihood
+Answer: B 
+Explanation: A risk burndown chart is a risk management technique used to track project risk over time. It allows stakeholders to quickly review project risk management performance (e.g., increasing, decreasing, and by how much) over time. Severity (a product of impact and probability) is charted along the vertical axis with time on the horizontal axis. Impact typically takes a value from 0 to 5 in increasing order of risk and probability/likelihood typically takes a value from 0 to 5 in increasing order of probability. In this example, the worst severity a risk could have is 25 (5 x 5 = 25) and the least harmful severity a risk could have is 0. The agile team and customer/product owner identifies its risks and assigns severity values in a risk register and tracks those values over time. Ideally, risk severity will decrease over time. [The Art of Agile Development. James Shore.] [Risk management]
+
+20. Which of the following agile knowledge and skill areas involves the management of effective communication?
+A. Risk management
+B. Communications management
+C. Operations research
+D. Timeboxing management
+Answer: B 
+Explanation: Effective communication is a cornerstone of agile. Communication is the act of transferring information among various parties. Communications management is a knowledge and skill area of agile that highlights this importance. PMI has several definitions regarding communications management and agile builds on top of these to add its own perspective: 1) Communications Planning: Determining the information and communication needs of the projects stakeholders 2) Information Distribution: Making needed information available to project stakeholders in a timely manner, 3) Performance Reporting: Collecting and distributing performance information. This includes status reporting, progress measurement, and forecasting, and 4) Managing Stakeholders: Managing communications to satisfy the requirements and resolve issues with project stakeholders. From an agile perspective: communication among the team is built into the process and facilitated through collocation, information radiators, daily stand-up meetings, retrospectives etc.; Although it is hoped that the product owner, customer, and user can be heavily involved with the project and also use these communication techniques, a plan for conveying information to stakeholders may be needed if this is not the case. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 1]
+
+21. John and his agile team are planning an iteration with several tasks having high risk. To manage the risk, what type of task can John and his team build into the iteration plan?
+A. Risk-based spike tasks.
+B. Risk-mitigation reflection tasks.
+C. Risk-seeking tasks.
+D. Risk-averse tasks.
+Answer: A 
+Explanation: Risked-based spike is a risk management technique and is often thought of as a task. A risked-based spike is a task used to gain knowledge in an area of uncertainty to reduce risk. For example, a development team may need to understand how migrating from Windows 7 to Windows 8 may impact the look and feel of the interface. Risked-based spikes typically are included in iteration planning directly before a the task that holds the uncertainty. [The Art of Agile Development. James Shore.] [Risk management]
+
+22. Calculate the return on investment of the following: Gain: $10,000; Cost: $1,000.
+A. 1000%
+B. 700%
+C. 900%
+D. 800%
+Answer: C 
+Explanation: Return on Investment (ROI): A metric used to evaluate the efficiency of an investment or to compare efficiency among a number of investments. To calculate ROI, the return of an investment (i.e., the gain minus the cost) is divided by the cost of the investment. The result is usually expressed as a percentage and sometimes a ratio. The product owner is often said to be responsible for the ROI. [Agile Estimating and Planning. Mike Cohn.] [Value based prioritization]
+
+23. Gerald is working on a multi-national agile project. What is one thing Gerald should be sensitive of in a multi-national effort?
+A. Language
+B. Quality differences
+C. Kanban board
+D. Risk-based spike tasks
+Answer: A 
+Explanation: A high-performance agile team is one that is ideally collocated for osmotic communication and face-to-face interaction. However, collocation isn't always feasible in today's multinational environment. For distributed teams, several practices are available to provide the best form of effective communication in the absence of being collocated: team intranet sites, virtual team rooms, and video conferencing over e-mail when possible. Geographic separation, especially on a world-wide scale, causes the team to consider language and cultural differences, and time zone differences. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 2]
+
+24. Select a method that is commonly used to help prioritize user stories.
+A. Risk-to-cost matrix
+B. Risk-to-mitigate matrix
+C. Risk-to-reward matrix
+D. Risk-to-value matrix
+Answer: D Explanation: An agile team must always face the prioritization of product features in its product backlog. From release planning to iteration planning, an agile team must prioritize the user stories/features of its product to ensure that high-quality and high-value features are developed first to help facilitate an optimized and early return on investment (ROI). An agile team typically prioritizes requirements or user stories/features in terms of relative value and risk; value is defined by the customer (i.e., customer-value prioritization). Two common methods to prioritize product features are: MoSCoW and Kano. The MoSCoW method categorizes features into 'Must have,' 'Should have,' 'Could have,' and 'Would have' features. The Kano method categorizes features into 'Must haves (threshold),' 'Dissatisfiers,' 'Satisfiers,' and 'Delighters.' Must haves are features that are requisite. Dissatisfiers are features that adversely impact perceived value and should be eliminated. 'Satisfiers' are features that increase perceived value linearly, where the more you add the more the customer is pleased, but are not required, and 'Delighters' are features that increase perceived value exponentially to please the customer. To prioritize features based on risk, a risk-to-value matrix can be used. A risk-to-value matrix has four quadrants, with the horizontal axis having low and high value, and the vertical axis having low and high risk. User stories are assigned to one of the four categories/quadrants: low-value, low-risk; low-value, high-risk; high-value, low-risk; high-value, high-risk. A cost-to-value matrix can also be made in this manner. All prioritization in agile is 'relative,' meaning that the priority of one user story is relative to other user stories and not prioritized on a fixed scale. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 1]
+
+25. What is one reason to perform a risk-based spike task?
+A. To learn more about release planning.
+B. To learn more about certain tasks.
+C. To learn more about uncertain tasks.
+D. To learn more about iteration delays.
+Answer: C 
+Explanation: Risked-based spike is a risk management technique and is often thought of as a task. A risked-based spike is a task used to gain knowledge in an area of uncertainty to reduce risk. For example, a development team may need to understand how migrating from Windows 7 to Windows 8 may impact the look and feel of the interface. Risked-based spikes typically are included in iteration planning directly before a the task that holds the uncertainty. [The Art of Agile Development. James Shore.] [Risk management]
+
+26. Jill has been tasked with exploring a release of the software product for any bugs or flaws in the system design. What type of testing is Jill performing?
+A. User testing
+B. Role testing
+C. Ad hoc testing
+D. Exploratory testing
+Answer: D 
+Explanation: Regular exploratory testing is encouraged to improve product quality. Typically, exploratory testing is performed on completed product software to test the system design for any bugs and to identify any new features that may add value to the customer. Exploratory testing should cover what a developer is unable to anticipate through the course of normal unit testing. A project charter is often used as a general overview of the product that exploratory testers use for testing guidance. [The Art of Agile Development. James Shore.] [Product quality]
+
+27. Select a common agile problem-solving technique.
+A. Sunk cost fallacy
+B. Root reflection
+C. 2Y
+D. Inspection
+Answer: A 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+28. Select a common agile problem-solving technique.
+A. Ask it loud
+B. Root reflection
+C. Root inspection
+D. Probe it loud
+Answer: A 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+29. Select a common agile problem-solving technique.
+A. Root inspection
+B. Root reflection
+C. Revisit the problem
+D. Probe it loud
+Answer: C 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+30. Select a common agile problem-solving technique.
+A. 5Y
+B. Root reflection
+C. Root inspection
+D. Probe it loud
+Answer: A 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+31. Of the following, which type of team is expected and trusted to make decisions to adapt to changing needs and requirements?
+A. Rehearsed team
+B. Revolving team
+C. Rotating team
+D. Empowered team
+Answer: D 
+Explanation: Empowered teams - ones that are self-organizing and know how to solve problems with minimal management involvement - are a cornerstone of the agile methodology. An agile team feels empowered when it collectively assumes responsibility for the delivery of the product (i.e., taking ownership). [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+32. What topic area within strategic management deals with promoting a work environment where the agile team and stakeholders collaborate?
+A. Schedule management
+B. Cooperative management
+C. Social management
+D. Stakeholder management
+Answer: D 
+Explanation: Stakeholder management is a growing topic area within strategic management that brings awareness to the importance of managing stakeholders (i.e., facilitating active participation of stakeholders and fostering a strong collaborative environment) for a project's success. Stakeholder management is typically defined in the context of guiding principles and values. R. E. Freeman's 'Managing for Stakeholders' includes 10 principles: 1) Stakeholder interests need to go together over time. 2) We need a philosophy of volunteerism - to engage stakeholders and manage relationships ourselves rather than leave it to government. 3) We need to find solutions to issues that satisfy multiple stakeholders simultaneously. 4) Everything that we do serves stakeholders. We never trade off the interests of one versus the other continuously over time. 5) We act with purpose that fulfills our commitment to stakeholders. We act with aspiration towards fulfilling our dreams and theirs. 6) We need intensive communication and dialogue with stakeholders – not just those who are friendly. 7)Stakeholders consist of real people with names and faces and children. They are complex. 8)We need to generalize the marketing approach. 9) We engage with both primary and secondary stakeholders. 10) We constantly monitor and redesign processes to make them better serve our stakeholders. Because stakeholder involvement is critical for the success of a project, where projects without active participation from stakeholders are prone to failure, stakeholder management should be a topic that every agile team knows well. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+33. What agile estimation technique is conducted using a deck of cards with nonsequential numbers for quickly estimating the relative work effort of developing user stories in a product backlog?
+A. Planning poker
+B. Affinity estimation
+C. Planning game
+D. SMART
+Answer: A 
+Explanation: Planning poker is based upon the wideband Delphi estimation technique. It is a consensus-based technique for estimating effort. Sometimes called scrum poker, it is a technique for a relative estimation of effort, typically in story points, to develop a user story. At a planning poker meeting, each estimator is given an identical deck of planning poker cards with a wide range of values. The Fibonacci sequence is often used for values for planning poker (i.e., 0, 1, 1, 2, 3, 5,8,etc.); another common sequence is (question mark, 0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, and 100). A planning poker meeting works as follows: 1) a moderator, not estimating, facilitates the meeting. 2) the product owner/manager provides a short overview of the user story and answers clarifying questions posed by the developers. Typically the product owner does not vote. 3) Each estimator selects an estimate of work effort by selecting a card, 4) Once everyone has selected a card, everyone overturns their card concurrently, 5) Estimators with high and low estimates are given a chance to defend positions. 6) The process repeats until there is consensus. The developer who owns the user story is typically given higher credence. [Agile Estimating and Planning. Mike Cohn.] [Agile estimation]
+
+34. In the SMART acronym, which is used to guide the creation of well-defined tasks, what does the T stand for?
+A. Tangible
+B. Testable
+C. Torrent
+D. Timeboxed
+Answer: D 
+Explanation: In the SMART acronym, the T stands for 'Timeboxed' meaning that a well-defined task can be performed in a specific duration. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Planning, monitoring, and adapting]
+
+35. Which of the following is the best definition of 'knowledge sharing?'
+A. The heavily controlled conveyance of information to only key team members.
+B. The tightly controlled flow of information among team members to maintain clear organizational hierarchies.
+C. The conveyance of data between refactored code modules.
+D. The conveyance of important information among all stakeholders and team members.
+Answer: D 
+Explanation: In agile, effective 'knowledge sharing' is a critical factor for success. It involves the near real time communication of key information among all team members and stakeholders. To promote knowledge sharing, agile uses standard practices built into its process, such as using generalized specialists/cross functional teams, self-organizing and self-disciplined teams, collocation, daily stand-up meetings, iteration/sprint planning, release planning, pair programming and pair rotation, project retrospectives/reflection, and on-site customer support. And, of course, the sixth principle of Agile is " The most efficient and effective method of conveying information to and within a development team is face-to-face conversation." In this sense, Agile prefers and encourages collocation for all stakeholders and team members for the simple fact that face-to-face conversation is the best method of communication and, in turn, effective knowledge sharing. [Becoming Agile: …in an imperfect world. Greg Smith, Ahmed Sidky.] [Knowledge and Skills: Level 1]
+
+36. EVM is a frequently used project management abbreviation. What does SPI stand for in the EVM technique?
+A. Schedule performance indicator
+B. Schedule performance index
+C. Specification performance indicator
+D. Schedule parametric index
+Answer: B 
+Explanation: EVM or earned value management is a management technique used to evaluate project performance with respect to cost and schedule. EVM relies on other common financial metrics like Budget At Completion (BAC), Actual Cost (AC), Planned Value (PV), Earned Value (EV), Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule Performance Index (SPI). [Agile Estimating and Planning. Mike Cohn.] [Metrics]
+
+37. EVM is a frequently used project management abbreviation. What does SV stand for in the EVM technique?
+A. Schedule value
+B. Specification value
+C. Specification variance
+D. Schedule variance
+Answer: D 
+Explanation: EVM or earned value management is a management technique used to evaluate project performance with respect to cost and schedule. EVM relies on other common financial metrics like Budget At Completion (BAC), Actual Cost (AC), Planned Value (PV), Earned Value (EV), Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule Performance Index (SPI). [Agile Estimating and Planning. Mike Cohn.] [Metrics]
+
+38. Patrick is reviewing an information radiator that shows the current progress of items in the product backlog. Unlike a traditional burnup chart, the information radiator that Patrick is reviewing shows the items' total scope, including completion details of 'not started,' 'started,' and 'completed.' What type of information radiator is Patrick most likely reviewing?
+A. Total scope diagram
+B. Cumulative flow diagram
+C. Done done diagram
+D. Schematic diagram
+Answer: B 
+Explanation: Like burnup charts, cumulative flow diagrams are information radiators that can track progress for agile projects. CFDs differ from traditional burnup charts because they convey total scope (not started, started, completed) of the entire backlog. Tracked items can be features, stories, tasks, or use cases. By tracking total scope, CFDs communicate absolute progress and give a proportional sense of project progress (e.g., On Day 14: 15% of features have been completed; 15% have been started; and, 70% have not been started). [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Planning, monitoring, and adapting]
+
+39. Gina's agile team is beginning a large, complex project estimated to last for three years. Her team has decided to only plan in detail for the next few iterations and keep iterations further removed at only a high-level of detail. Gina's team assumes that customer requirements and other details will change and become more detailed in the future. What project management technique is the basis of this assumption?
+A. Scope creep
+B. Progressive elaboration
+C. Rolling wave elaboration
+D. Scope bloat
+Answer: B 
+Explanation: Rolling wave planning (or rolling look ahead planning) involves planning in waves or phases and is especially useful for large, complex projects. Only the next few iterations are planned in detail and iterations more distant are planned only at a high-level. Progressive elaboration is continuous planning that assumes that details and requirements will be better refined later and will be incorporated into the planning process at the appropriate time. [Agile Estimating and Planning. Mike Cohn.] [Agile analysis and design]
+
+40. Which of the following helps an agile team promote simple and effective communication?
+A. Through focusing on quality
+B. Through focusing on constraints
+C. Through focusing on value
+D. Through retrospectives
+Answer: D Explanation: Effective communication is a cornerstone of agile. Communication is the act of transferring information among various parties. Communications management is a knowledge and skill area of agile that highlights this importance. PMI has several definitions regarding communications management and agile builds on top of these to add its own perspective: 1) Communications Planning: Determining the information and communication needs of the projects stakeholders 2) Information Distribution: Making needed information available to project stakeholders in a timely manner, 3) Performance Reporting: Collecting and distributing performance information. This includes status reporting, progress measurement, and forecasting, and 4) Managing Stakeholders: Managing communications to satisfy the requirements and resolve issues with project stakeholders. From an agile perspective: communication among the team is built into the process and facilitated through collocation, information radiators, daily stand-up meetings, retrospectives etc.; Although it is hoped that the product owner, customer, and user can be heavily involved with the project and also use these communication techniques, a plan for conveying information to stakeholders may be needed if this is not the case. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 1]
+
+1. If a team believes during sprint planning that a task is expected to take approximately 8 hours to complete, what would be a good timebox value to assign to the task?
+A. 16 hours
+B. 8 hours
+C. 4 hours
+D. 24 hours
+Answer: B 
+Explanation: Timeboxing is a realistic estimate or expectation of how long an action, task, or event will take to perform. Some tasks cannot be performed in the initial timeboxed estimate and are good candidates for reevaluation and possibly further decomposition into more tasks. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting]
+
+2. What topic area within strategic management deals with fostering a work environment to engage stakeholders?
+A. Stakeholder management
+B. Value management
+C. Scope management
+D. Executive management
+Answer: A 
+Explanation: Stakeholder management is a growing topic area within strategic management that brings awareness to the importance of managing stakeholders (i.e., facilitating active participation of stakeholders and fostering a strong collaborative environment) for a project's success. Stakeholder management is typically defined in the context of guiding principles and values. R. E. Freeman's 'Managing for Stakeholders' includes 10 principles: 1) Stakeholder interests need to go together over time. 2) We need a philosophy of volunteerism – to engage stakeholders and manage relationships ourselves rather than leave it to government. 3) We need to find solutions to issues that satisfy multiple stakeholders simultaneously. 4) Everything that we do serves stakeholders. We never trade off the interests of one versus the other continuously over time. 5) We act with purpose that fulfills our commitment to stakeholders. We act with aspiration towards fulfilling our dreams and theirs. 6) We need intensive communication and dialogue with stakeholders – not just those who are friendly. 7)Stakeholders consist of real people with names and faces and children. They are complex. 8)We need to generalize the marketing approach. 9) We engage with both primary and secondary stakeholders. 10) We constantly monitor and redesign processes to make them better serve our stakeholders. Because stakeholder involvement is critical for the success of a project, where projects without active participation from stakeholders are prone to failure, stakeholder management should be a topic that every agile team knows well. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+3. During the last iteration, Paula and her agile team completed 10 user stories worth 1 point each, 2 user stories worth 5 points each, and nearly completed one user story point worth 5 points. What was the team's velocity for the previous iteration?
+A. 30
+B. 20
+C. 5
+D. 10
+Answer: B 
+Explanation: The team's velocity is 20. 10 × 1 + 2 × 5 = 20. Story points for partially completed stories are not included in the velocity metric. [Agile Estimating and Planning. Mike Cohn.] [Metrics]
+
+4. Which of the following is a process analysis technique.
+A. Process mapping
+B. Reflection agenda
+C. Scrum
+D. Product roadmap
+Answer: A 
+Explanation: Value stream mapping is a collaborative process analysis technique where a diverse team depicts/maps a process to identify where waste occurs and where improvements can be made. It is an example of a process analysis technique. Like value stream mapping, process mapping is also used to map a process to identify bottlenecks (places where processing slows and inventory can build). [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+5. Which software development framework stresses the use of pair-programming and shared workspaces?
+A. Extreme programming (XP)
+B. Lean software development
+C. Agile unified process (AUP)
+D. Scrum
+Answer: A 
+Explanation: Extreme programming (XP) is a programmer-centric agile framework that focuses on small, ongoing releases. XP highlights several principles: pair programming, sustainable pace, ongoing automated testing, effective communication, simplicity, feedback, courage, collective ownership, continuous integration, energized work, shared workspaces, on-site customer representation, and the use of metaphor to describe concepts. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 2]
+
+6. What is a typical scrum timebox value for a sprint planning meeting?
+A. 16 hours
+B. 24 hours
+C. 4 hours
+D. 8 hours
+Answer: C 
+Explanation: In the agile framework scrum, sprint planning and sprint review meetings are often timeboxed at four hours. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting]
+
+7. What is the typical duration of a sprint?
+A. Three to five weeks.
+B. Two months.
+C. One week.
+D. Two to four weeks.
+Answer: D 
+Explanation: A cornerstone of Agile development is 'incremental delivery.' Incremental delivery is the frequent delivery of working products, which are successively improved, to a customer for immediate feedback and acceptance. Typically, a product is delivered at the end of each sprint or iteration for demonstration and feedback. In this feedback technique, a customer can review the product and provide updated requirements. Changed/updated/refined requirements are welcomed in the agile process to ensure the customer receives a valuable and quality product. A sprint or iteration typically lasts from two to four weeks and at the end a new and improved product is delivered, incrementally. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+8. The scrum framework what stakeholders compose the three "managers?"
+A. Scrum master, executive sponsor, and product owner
+B. Scrum master, executive sponsor, and business analyst
+C. Product owner, scrum master, and team
+D. Scrum master, product team, and development team
+Answer: C 
+Explanation: The three "managers" of the scrum framework include the product owner, scrum master, and team. [Agile Project Management with Scrum. Ken Schwaber.] [Knowledge and Skills: Level 2]
+
+9. Of the following, which is a key soft skill negotiation quality?
+A. Strong leadership
+B. Seismic leadership
+C. Servant leadership
+D. Safety leadership
+Answer: C 
+Explanation: Key soft skills negotiation qualities for the effective implementation and practice of agile are: emotional intelligence, collaboration, adaptive leadership, negotiation, conflict resolution, servant leadership. [Coaching Agile Teams. Lyssa Adkins.] [Soft skills negotiation]
+
+10. Having a high emotional intelligence is important to promote effective communication in an agile team. What is one of the seven components of emotional intelligence as defined by Higgs & Dulewicz?
+A. Emotional resilience
+B. Reticence
+C. Confidence
+D. Self-aggrandizement
+Answer: A 
+Explanation: Higgs & Dulewicz (1999) defines emotional intelligence using seven components: 1) Self-awareness, 2) Emotional resilience, 3) Motivation, 4) Interpersonal sensitivity, 5) Influence, 6) Intuitiveness, and 7) Conscientiousness. [Coaching Agile Teams. Lyssa Adkins.] [Soft skills negotiation]
+
+11. Having a high emotional intelligence is important to promote effective communication in an agile team. Which of the following\ is one of the seven components of emotional intelligence as defined by Higgs & Dulewicz?
+A. Conscientiousness
+B. Reticence
+C. Confidence
+D. Self-aggrandizement
+Answer: A 
+Explanation: Higgs & Dulewicz (1999) defines emotional intelligence using seven components: 1) Self-awareness, 2) Emotional resilience, 3) Motivation, 4) Interpersonal sensitivity, 5) Influence, 6) Intuitiveness, and 7) Conscientiousness. [Coaching Agile Teams. Lyssa Adkins.] [Soft skills negotiation]
+
+12. Jessica is using active listening to help her agile team member work through a design challenge she is facing. In this context, what agile knowledge and skill area does active listening fall under?
+A. Problem-mitigation strategies, tools, and techniques
+B. Problem-solving strategies, tools, and techniques
+C. Problem-reversing strategies, tools, and techniques
+D. Problem-saturation strategies, tools, and techniques
+Answer: B 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+13. Why is the quality of servant leadership desirable for agile team leaders?
+A. Self-organizing teams need a key enabler to remove obstacles and provide effective coaching.
+B. Self-organizing teams need an authoritative figure that assigns tasks and makes sure the project is on schedule and budget.
+C. Self-organizing teams do not need servant leadership.
+D. Self-organizing teams need an ambassador between it and the product owner to reduce interruptions.
+Answer: A 
+Explanation: Servant leadership has its roots with an essay written in 1970 by Robert K Greenleaf. Greenleaf defined servant leaders as humble stewards devoted to their company and work to serve their peers, teams, and customers. In a self-organizing team, a servant leader, as Greenleaf defined it, is ideal as the team leader is an enabler, listening to the agile team's needs, removing obstacles, and providing tools or other support to promote high productivity. [Coaching Agile Teams. Lyssa Adkins.] [Soft skills negotiation]
+
+14. Stacey intends to schedule a brainstorming session to generate ideas that may help solve some of the team's current issues. Which of the following is NOT a good brainstorming technique that Stacey should use?
+A. Leaving participants in the dark until the day of the meeting to add an element of surprise.
+B. Having a multi-disciplinary/diverse group so that many different perspectives are available.
+C. Sending participants preparatory material, so they know what to expect and what is expected of them.
+D. Having an engaging and experienced facilitator lead the brainstorming session.
+Answer: A 
+Explanation: A successful brainstorming event should strive to consider the following points - Host the meeting in a neutral and comfortable environment - Have an engaging and experienced facilitator lead the event - Send participants an overview, with goals, schedule, and what ground rules, beforehand - Have a multi-disciplinary/diverse team to get a broader perspective - Delay any criticism that may stifle idea generation. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+15. When are user stories initially defined?
+A. During iteration planning
+B. During release planning
+C. During project vision planning
+D. During sprint planning
+Answer: B 
+Explanation: Release planning is important because the customer and development team collaborate to create a high-level plan for product release. User stories are initially defined during release planning. The release plan typically includes a schedule that includes several iterations and an estimate for when the product will be released. The development team discusses each user story in detail to, along with the customer, assign them to the project's iterations. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting]
+
+16. Paula, as team leader, wants to design a comfortable, collaborative team space for her agile project. What can she do as a basic guideline?
+A. Separate of team members by function
+B. Collocate team members
+C. Rotate team member roles
+D. Isolate team members
+Answer: B 
+Explanation: A warm, welcoming environment that promotes effective communication, innovation, and motivated team members is an important aspect to consider when designing team space. Guidelines for a better agile team space include: collocation of team members; reduction of nonessential noise/distractions; dedicated whiteboard and wall space for information radiators; space for the daily stand-up meeting and other meetings; pairing workstations; and other pleasantries like plants and comfortable furniture. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Communications]
+
+17. Stephanie, as team leader, wants to design a comfortable, collaborative team space for her agile project. What can she do as a basic guideline?
+A. Reserve a space for daily stand-up meetings
+B. Arrange seating to group by team function
+C. Rotate team member roles
+D. Separate team members by function
+Answer: A 
+Explanation: A warm, welcoming environment that promotes effective communication, innovation, and motivated team members is an important aspect to consider when designing team space. Guidelines for a better agile team space include: collocation of team members; reduction of nonessential noise/distractions; dedicated whiteboard and wall space for information radiators; space for the daily stand-up meeting and other meetings; pairing workstations; and other pleasantries like plants and comfortable furniture. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Communications]
+
+18. In agile modeling, what is a good example of a name given to a persona?
+A. ATM user
+B. ATM maintainer
+C. Ronald Herbert
+D. ATM machine
+Answer: C 
+Explanation: A persona is a notional user of the system under development. Being much more detailed than actors in use case modeling where generic user names are assigned (e.g., end user), personas try to elaborate on users with detailed descriptions to provide context to the developers. Some personas have such notional details as name, address, age, income, likes and dislikes, and other specific details. [User Stories Applied: For Agile Software Development. Mike Cohn.] [Agile analysis and design]
+
+19. Christy is confused about the purpose of a product roadmap. She asks Thomas, her project manager, to identify a benefit of a product roadmap to help her understand a product roadmaps purpose. Select the benefit of a product roadmap.
+A. Helps facilitate daily stand-up meetings.
+B. Helps facilitate the organization of features into categories or themes.
+C. Helps facilitate reflection meetings.
+D. Helps facilitate iteration development.
+Answer: B 
+Explanation: The product roadmap - owned by the product owner - serves as a high level overview of the product requirements. It is used as a tool for prioritizing features, organizing features into categories, and assigning rough time frames. Creating a product roadmap has four basic steps: 1) Identify requirements (these will become part of the product backlog), 2) Organize requirements into categories or themes, 3) Estimate relative work effort (e.g., planning poker or affinity estimation) and prioritize (value), and 4) Estimate rough time frames (estimate velocity, sprint duration, and rough release dates). [The Art of Agile Development. James Shore.] [Agile analysis and design]
+
+20. In the lean manufacturing, just-in-time concept of kanban, is inventory control based on pull or push?
+A. Push
+B. Both pull and push
+C. Neither pull or push
+D. Pull
+Answer: D 
+Explanation: Kanban, Japanese for billboard or signboard, is a scheduling system for just-in-time (JIT) production developed by Toyota in the 1940s and 1950s. It is a way of controlling and reducing inventory by using cards or signs to order (demand signal) requisite parts for a manufacturing process from other dependent systems (supply). Kanban has been adopted by agile to help control workflow. Kanban is based on the concept of 'pull.' Where the demand signal for production originates from the end customer requesting a product. When the customer orders a product (e.g., car) it sends a cascading "pull" signal that triggers through the manufacturing process. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Planning, monitoring, and adapting]
+
+21. Jane and her team are demonstrating to the business stakeholder recently developed product code. At the demonstration, the team reviews what the expected behavior of the code is based on previous collaborative discussions with the stakeholders and also brings up any risks the team found during the development process (e.g., other ways the code may fail that were not thought of in previous discussions). What step is Jane on in the ATDD four step process?
+A. 2nd
+B. 4th
+C. 1st
+D. 3rd
+Answer: B 
+Explanation: Acceptance Test Driven Development (ATDD) is similar to Test-driven development (TDD) in that it requires programmers to create tests first before any product code. The tests in ATDD are aimed at confirming features/behaviors that the intended software will have. The iterative cycle of ATDD with its four steps can be remembered as the four Ds: 1) Discuss, 2) Distill, 3) Develop, and 4) Demo. 1) Discuss: The agile team and customer or business stakeholder discuss a user story in detail. Talking about the expected behaviors the user story should have and what it should not. 2) The development team takes those items learned from the discussion and distills them into tests that will verify and validate those behaviors. The distillation process is where the entire team should have a good understanding of what "done" (or completed) means for a user story. That is, what the acceptance criteria are. 3) After distillation, the team develops the test code and product code to implement the product features. 4) Once the product features have been developed, the team demonstrates them to the customer or business stakeholders for feedback. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Product quality]
+
+22. Of the following responses, which is NOT a community value per the PMI agile community of practice community charter?
+A. Peaceful
+B. Vision
+C. Trust
+D. Servant Leadership
+Answer: A 
+Explanation: The following are community values of the PMI agile community of practice community charter: Vision, Servant Leadership, Trust, Collaboration, Honesty, Learning, Courage, Openness, Adaptability, Leading Change, Transparency [PMI Agile Community of Practice Community Charter. Project Management Institute.] [Knowledge and Skills: Level 1]
+
+23. Which of the following is a key soft skill negotiation quality?
+A. Serial leadership
+B. Service leadership
+C. Servile leadership
+D. Servant leadership
+Answer: D 
+Explanation: Key soft skills negotiation qualities for the effective implementation and practice of agile are: emotional intelligence, collaboration, adaptive leadership, negotiation, conflict resolution, servant leadership. [Coaching Agile Teams. Lyssa Adkins.] [Soft skills negotiation]
+
+24. Jan is looking at an important agile document that includes the project mission and success criteria. What document is Jan most likely reviewing?
+A. Statement of work
+B. Team virtual page
+C. Project charter
+D. Mission statement
+Answer: C 
+Explanation: The project charter is an important governing document that requires all stakeholder participation. Although experts recommend it not be longer than a page in length, creating a project charter can be challenging, as all stakeholders must participate and come to a consensus. Three key elements should be included in a project charter: vision, mission, and success criteria. Vision is the 'why' or rationale of a project. Mission is the 'what' of the project and describes what the team will accomplish to reach the vision. Success criteria are management metrics that define 'how' the project will be deemed successful. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+25. What is one method that can be used to improve communication for a team that cannot be collocated?
+A. Setting up a team intranet site
+B. Setting up an RSS feed
+C. Setting up a listserv
+D. Setting up a message board
+Answer: A 
+Explanation: A high-performance agile team is one that is ideally collocated for osmotic communication and face-to-face interaction. However, collocation isn't always feasible in today's multinational environment. For distributed teams, several practices are available to provide the best form of effective communication in the absence of being collocated: team intranet sites, virtual team rooms, and video conferencing over e-mail when possible. Geographic separation, especially on a world-wide scale, causes the team to consider language and cultural differences, and time zone differences. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 2]
+
+26. According to Highsmith, what type of contract does agile lend itself well to?
+A. Firm fixed-price
+B. Fixed-budget and fixed-schedule
+C. Fixed-schedule and fixed-price
+D. Fixed-budget and fixed-price
+Answer: B 
+Explanation: Time, budget, and cost estimation is an important knowledge and skill area of agile. According to Highsmith, the nature of the agile method, whereby it welcomes changing scope, means that it lends itself well to fixed budgets and a fixed schedule because changing scope makes it difficult to estimate a total cost. Generally speaking, the budget and schedule constraints are known but before a project will commence there needs to be an agreed upon set of base product functionality defined in an initiation phase; fixing scope reduces an agile team's innovative tendency to provide improved value. For companies that are familiar with fixed-price contracts, where requirements are agreed upon before contract closing, adopting agile can be a weary initial venture. Instead, other contract vehicle types are recommended for agile efforts. These include: a general service contract for the initiation phase and separate fixed-price contracts for iterations or user stories; time-and-material contracts; not-to-exceed with fixed-fee contracts; and, incentive contracts (e.g., fixed price with incentive; cost-reimbursable with award fee). [Agile Project Management: Creating Innovative Products – 2nd Edition. Jim Highsmith.] [Knowledge and Skills: Level 1]
+
+27. How is risk severity, as used in a risk burndown chart, typically calculated?
+A. Severity = impact * planned cost
+B. Severity = impact * planned value
+C. Severity = impact * actual cost
+D. Severity = impact probability/likelihood
+Answer: D 
+Explanation: A risk burndown chart is a risk management technique used to track project risk over time. It allows stakeholders to quickly review project risk management performance (e.g., increasing, decreasing, and by how much) over time. Severity (a product of impact and probability) is charted along the vertical axis with time on the horizontal axis. Impact typically takes a value from 0 to 5 in increasing order of risk and probability/likelihood typically takes a value from 0 to 5 in increasing order of probability. In this example, the worst severity a risk could have is 25 (5 × 5 = 25) and the least harmful severity a risk could have is 0. The agile team and customer/product owner identifies its risks and assigns severity values in a risk register and tracks those values over time. Ideally, risk severity will decrease over time. [The Art of Agile Development. James Shore.] [Risk management]
+
+28. Which of the following is NOT a characteristic of agile project management?
+A. Short iterations
+B. Top-down decision making
+C. Cross-functional teams
+D. Continuous improvement
+Answer: B 
+Explanation: Key characteristics of agile project management include: continuous improvement, cross-functional teams, short iterations, an incremental approach, and business priorities and customer value. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+29. According to the PMI Code, unethical or illegal conduct
+A. Should be reported to the offending parties for resolution.
+B. Should be reported to appropriate parties.
+C. Should be reported to upper management.
+D. Should be reported to the human resources office.
+Answer: B 
+Explanation: The PMI Code of Ethics and Professional Conduct states that it is mandatory for a project manager to: inform yourself about and uphold the policies, rules, regulations, and laws that govern your work, including professional and volunteer activities; report unethical or illegal conduct to appropriate parties and, if necessary, to those affected by the misconduct; ensure that any allegations of misconduct or illegal activity are substantiated and file only complaints that are supported by facts; never take part or help someone else take part in illegal activities. [PMI Code of Ethics and Professional Conduct. Project Management Institute.] [Knowledge and Skills: Level 2]
+
+30. Stacey knows that feedback techniques are ubiquitous in agile projects. Which of the following lists an agile 'feedback technique for product?'
+A. Spike task
+B. Slam task
+C. Risk reduction task
+D. Sprint planning
+Answer: D 
+Explanation: There are several feedback techniques - techniques that facilitate constructive criticism to improve product value and quality - built into the agile process. In the classic definition, feedback is a dynamic process where past information influences the behavior of the same process in the future. Agile feedback techniques include prototyping, simulation, demonstration, evaluations, pair programming, unit testing, continuous integration, daily stand-up meetings, sprint planning. Because agile prides itself on a transparent and collaborative environment, feedback is essentially ubiquitous. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+31. What is the agile technique of affinity estimation notably useful for?
+A. Eliminating the need for task duration estimation
+B. Slowing down the estimation process
+C. Large product backlogs
+D. Small product backlogs
+Answer: C 
+Explanation: Affinity estimating is a method to predict the work effort, typically in story points, of developing a user story. It is particularly useful for large product backlogs. Although several methods exist, the basic affinity estimating model involves sizing user stories on a scale from small to large. The scale can be a Fibonacci sequence or t-shirt sizes and is typically taped to a wall in a large conference room. Participants then attach their user stories to the wall as estimates. It is often done in silence and has several iterations until the user stories have been estimated. [The Art of Agile Development. James Shore.] [Agile estimation]
+32. What acronym helps the agile practitioner remember the characteristics of a well-defined task?
+A. SPORT
+B. SMART
+C. STRONG
+D. SMALL
+Answer: B 
+Explanation: The acronym SMART (specific, measurable, achievable, relevant, and time-boxed) helps the agile practitioner remember the characteristics of a well-defined task. S – Specific tasks are ones that clearly contribute to the development of a user story. It should not be vague. M – Measurable tasks are ones that the team and customer can verify. A - Achievable tasks are ones that developers may realistically implement and understand. R - Relevant tasks are ones that unequivocally add value to the user story. T - Timeboxed tasks are ones that can have an estimate assigned of the amount of effort or time needed for development. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Planning, monitoring, and adapting]
+
+33. What topic area within strategic management deals with promoting a work environment where stakeholders are constantly engaged?
+A. Schedule management
+B. Stakeholder management
+C. Risk management
+D. Interaction management
+Answer: B 
+Explanation: Stakeholder management is a growing topic area within strategic management that brings awareness to the importance of managing stakeholders (i.e., facilitating active participation of stakeholders and fostering a strong collaborative environment) for a project's success. Stakeholder management is typically defined in the context of guiding principles and values. R. E. Freeman's 'Managing for Stakeholders' includes 10 principles: 1) Stakeholder interests need to go together over time. 2) We need a philosophy of volunteerism – to engage stakeholders and manage relationships ourselves rather than leave it to government. 3) We need to find solutions to issues that satisfy multiple stakeholders simultaneously. 4) Everything that we do serves stakeholders. We never trade off the interests of one versus the other continuously over time. 5) We act with purpose that fulfills our commitment to stakeholders. We act with aspiration towards fulfilling our dreams and theirs. 6) We need intensive communication and dialogue with stakeholders – not just those who are friendly. 7)Stakeholders consist of real people with names and faces and children. They are complex. 8)We need to generalize the marketing approach. 9) We engage with both primary and secondary stakeholders. 10) We constantly monitor and redesign processes to make them better serve our stakeholders. Because stakeholder involvement is critical for the success of a project, where projects without active participation from stakeholders are prone to failure, stakeholder management should be a topic that every agile team knows well. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+34. Of the following, select a method used in agile for the purpose of prioritization.
+A. SMART
+B. INVEST
+C. Kano
+D. WIDETOM
+Answer: C 
+Explanation: An agile team must always face the prioritization of product features in its product backlog. From release planning to iteration planning, an agile team must prioritize the user stories/features of its product to ensure that high-quality and high-value features are developed first to help facilitate an optimized and early return on investment (ROI). An agile team typically prioritizes requirements or user stories/features in terms of relative value and risk; value is defined by the customer (i.e., customer-value prioritization). Two common methods to prioritize product features are: MoSCoW and Kano. The MoSCoW method categorizes features into 'Must have,' 'Should have,' 'Could have,' and 'Would have' features. The Kano method categorizes features into 'Must haves (threshold),' 'Dissatisfiers,' 'Satisfiers,' and 'Delighters.' Must haves are features that are requisite. Dissatisfiers are features that adversely impact perceived value and should be eliminated. 'Satisfiers' are features that increase perceived value linearly, where the more you add the more the customer is pleased, but are not required, and 'Delighters' are features that increase perceived value exponentially to please the customer. To prioritize features based on risk, a risk-to-value matrix can be used. A risk-to-value matrix has four quadrants, with the horizontal axis having low and high value, and the vertical axis having low and high risk. User stories are assigned to one of the four categories/quadrants: low-value, low-risk; low-value, high-risk; high-value, low-risk; high-value, high-risk. A cost-to-value matrix can also be made in this manner. All prioritization in agile is 'relative,' meaning that the priority of one user story is relative to other user stories and not prioritized on a fixed scale. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 1]
+35. Becky and her agile team have just performed decomposition on several user stories and wants to prioritize them. What common technique might she and her team use to prioritize the user stories?
+A. SMART
+B. INVEST
+C. WoSCoM
+D. MoSCoW
+Answer: D 
+Explanation: In iteration planning, an agile team, collaboratively with the customer, chooses user stories to include for development. Although the user stories are prioritized in the product backlog initially during release planning, an agile team and customer should review prioritization based on progressive elaboration (i.e., gained knowledge and perspective). Prioritization is often based on value and risk and can be performed using the MoSCoW or Kano method and through the use of risk-to-value and cost-to-value matrices. An agile team performs decomposition to subdivide user stories into more manageable tasks so that it may estimate task time. Tasks for an iteration may also be prioritized based on value, similar to how user stories are prioritized. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 1]
+36. What is the fourth step of the ATDD four step process?
+A. Demo
+B. Develop
+C. Distill
+D. Discuss
+Answer: A 
+Explanation: Acceptance Test Driven Development (ATDD) is similar to Test-driven development (TDD) in that it requires programmers to create tests first before any product code. The tests in ATDD are aimed at confirming features/behaviors that the intended software will have. The iterative cycle of ATDD with its four steps can be remembered as the four Ds: 1) Discuss, 2) Distill, 3) Develop, and 4) Demo. 1) Discuss: The agile team and customer or business stakeholder discuss a user story in detail. Talking about the expected behaviors the user story should have and what it should not. 2) The development team takes those items learned from the discussion and distills them into tests that will verify and validate those behaviors. The distillation process is where the entire team should have a good understanding of what "done" (or completed) means for a user story. That is, what the acceptance criteria are. 3) After distillation, the team develops the test code and product code to implement the product features. 4) Once the product features have been developed, the team demonstrates them to the customer or business stakeholders for feedback. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Product quality]
+
+37. How might an agile team continuously improve its product?
+A. By performing work breakdown structure reviews.
+B. By performing ongoing integration testing.
+C. By using comprehensive documentation to define team values.
+D. By performing integration testing near the end of a release.
+Answer: B 
+Explanation: Agile project management places strong emphasis on 'continuous improvement.' Continuous improvement processes are built into the agile methodology, from customers providing feedback after each iteration to the team reserving time to reflect on its performance through retrospectives after each iteration. Ongoing unit and integration testing and keeping up with technological/industry developments also play a part in the continuous improvement process. Continuous improvement is also a key principle in the lean methodology, where a focus of removing waste from the value stream is held. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 2]
+
+38. Ginny has recently started an agile project where she is to be the project leader. What should Ginny aspire to be as agile leader?
+A. Someone who builds team trust and removes any obstacles a team may face during its effort.
+B. Someone that drives the team to maximum and unsustainable performance levels to exceed customer expectations.
+C. Someone who constantly criticizes team members so that they are aware of their defects and can improve their performance.
+D. Someone who builds an authoritative air so that team members know who is in charge.
+
+Answer: A 
+Explanation: A common misconception in agile is that an agile team does not need a leader. In fact, all agile teams need a leader, but the way in which the leader leads is fundamentally different than the typical traditional project manager/project leader method. Some have theorized that this misconception stems from the desired 'self-organizing' quality of the agile team. And although the 'self-organizing' agile team is empowered to take ownership and responsibility of the product and make some decisions itself, it nevertheless requires a leader to help provide guidance, mentoring, coaching, problem solving, and decision making. Some key aspects required of an agile leader include: empowering team members to decide what standard agile practices and methods it will use; allowing the team to be self-organized and self-disciplined; empowering the team members to make decisions collaboratively with the customer; inspire the team to be innovative and explore new ideas and technology capabilities; be a champion of and articulate the product vision to team members so it will be motivated to accomplish the overall objective; remove any obstacles and solve any problems the team may face in its effort; communicate and endorse the values and principles of agile project management to stakeholders that may be unfamiliar with agile; ensure that all stakeholders, including business managers and developers, are collaborating effectively; and, be able to adapt the leadership style to the working environment to ensure that the agile values and principles are effectively upheld. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+39. Victoria has recently started an agile project where she is to be the project leader. What should Victoria aspire to be as agile leader?
+A. Someone who constantly criticizes team members so that they are aware of their defects and can improve their performance.
+B. Someone that drives the team to maximum and unsustainable performance levels to exceed customer expectations.
+C. Someone who communicates and endorses the values and principles of agile project management to stakeholders that may be unfamiliar with agile.
+D. Someone who espouses agile project management as the best and therefore only management method that can succeed in today's volatile marketplace.
+Answer: C 
+Explanation: A common misconception in agile is that an agile team does not need a leader. In fact, all agile teams need a leader, but the way in which the leader leads is fundamentally different than the typical traditional project manager/project leader method. Some have theorized that this misconception stems from the desired 'self-organizing' quality of the agile team. And although the 'self-organizing' agile team is empowered to take ownership and responsibility of the product and make some decisions itself, it nevertheless requires a leader to help provide guidance, mentoring, coaching, problem solving, and decision making. Some key aspects required of an agile leader include: empowering team members to decide what standard agile practices and methods it will use; allowing the team to be self-organized and self-disciplined; empowering the team members to make decisions collaboratively with the customer; inspire the team to be innovative and explore new ideas and technology capabilities; be a champion of and articulate the product vision to team members so it will be motivated to accomplish the overall objective; remove any obstacles and solve any problems the team may face in its effort; communicate and endorse the values and principles of agile project management to stakeholders that may be unfamiliar with agile; ensure that all stakeholders, including business managers and developers, are collaborating effectively; and, be able to adapt the leadership style to the working environment to ensure that the agile values and principles are effectively upheld. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+40. Kyle knows that a delivery concept of agile is defined as "frequent delivery of working products, which are successively improved, to a customer for immediate feedback and acceptance." Which term is this delivery concept?
+A. Release delivery
+B. Incremental delivery
+C. Value stream delivery
+D. Sprint delivery
+Answer: B 
+Explanation: A cornerstone of Agile development is 'incremental delivery.' Incremental delivery is the frequent delivery of working products, which are successively improved, to a customer for immediate feedback and acceptance. Typically, a product is delivered at the end of each sprint or iteration for demonstration and feedback. In this feedback technique, a customer can review the product and provide updated requirements. Changed/updated/refined requirements are welcomed in the agile process to ensure the customer receives a valuable and quality product. A sprint or iteration typically lasts from two to four weeks and at the end a new and improved product is delivered, incrementally. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+1. Which of the following is the best definition of an agile leader?
+A. Someone that provides guidance, mentoring, coaching, and makes decisions when needed, but empowers the team to make its own decisions collaboratively a predominant amount of the time.
+B. Someone that makes all decisions in the face of team adversity to quell unfavorable team dynamics.
+C. Someone who is minimally available but present enough to make all decisions.
+D. Someone that provides minimal guidance, mentoring, coaching, but makes all decisions without informing the team until required.
+Answer: A 
+Explanation: A common misconception in agile is that an agile team does not need a leader. In fact, all agile teams need a leader, but the way in which the leader leads is fundamentally different than the typical traditional project manager/project leader method. Some have theorized that this misconception stems from the desired 'self-organizing' quality of the agile team. And although the 'self-organizing' agile team is empowered to take ownership and responsibility of the product and make some decisions itself, it nevertheless requires a leader to help provide guidance, mentoring, coaching, problem solving, and decision making. Some key aspects required of an agile leader include: empowering team members to decide what standard agile practices and methods it will use; allowing the team to be self-organized and self-disciplined; empowering the team members to make decisions collaboratively with the customer; inspire the team to be innovative and explore new ideas and technology capabilities; be a champion of and articulate the product vision to team members so it will be motivated to accomplish the overall objective; remove any obstacles and solve any problems the team may face in its effort; communicate and endorse the values and principles of agile project management to stakeholders that may be unfamiliar with agile; ensure that all stakeholders, including business managers and developers, are collaborating effectively; and, be able to adapt the leadership style to the working environment to ensure that the agile values and principles are effectively upheld. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+2. Edward has recently started an agile project where she is to be the project leader. What should Edward aspire to be as agile leader?
+A. Someone who empowers the team to be self-organized and self-disciplined.
+B. Someone who empowers the team to be self-sufficient and independent of any leadership.
+C. Someone who empowers the team to be self-scrumming and self-introspective.
+D. Someone who empowers the team to make all decisions by itself.
+Answer: A 
+Explanation: A common misconception in agile is that an agile team does not need a leader. In fact, all agile teams need a leader, but the way in which the leader leads is fundamentally different than the typical traditional project manager/project leader method. Some have theorized that this misconception stems from the desired 'self-organizing' quality of the agile team. And although the 'self-organizing' agile team is empowered to take ownership and responsibility of the product and make some decisions itself, it nevertheless requires a leader to help provide guidance, mentoring, coaching, problem solving, and decision making. Some key aspects required of an agile leader include: empowering team members to decide what standard agile practices and methods it will use; allowing the team to be self-organized and self-disciplined; empowering the team members to make decisions collaboratively with the customer; inspire the team to be innovative and explore new ideas and technology capabilities; be a champion of and articulate the product vision to team members so it will be motivated to accomplish the overall objective; remove any obstacles and solve any problems the team may face in its effort; communicate and endorse the values and principles of agile project management to stakeholders that may be unfamiliar with agile; ensure that all stakeholders, including business managers and developers, are collaborating effectively; and, be able to adapt the leadership style to the working environment to ensure that the agile values and principles are effectively upheld. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+3. Xavier has just verified and validated that the test code he just wrote fails as part of the four step process of TDD. What step is Xavier performing?
+A. 4th
+B. 1st
+C. 2nd
+D. 3rd
+Answer: C 
+Explanation: The TDD process has four basic steps: Write a test, 2) Verify and validate the test, 3) Write product code and apply the test, 4) Refactor the product code. An example may be that a user has to enter an age value. A good test is to make sure the user data entry is a positive number and not a different type of input, like a letter (i.e., write the test). The programmer would verify that entering a letter instead of a number would cause the program to cause an exception (i.e., v&v the test). The programmer would then write product code that takes user entry for the age value (i.e., write the product code). The programmer would then run the product code and enter correct age values and incorrect age values (i.e., apply the test). If the product code is successful, the programmer would refactor the product code to improve its design. Using these four steps iteratively ensures that programmers think about how a software program might fail first and to build product code that is holistically being tested. This helps produce high quality code. [The Art of Agile Development. James Shore.] [Product quality]
+
+4. In a self-assessment or reflection event, what is a likely topic a team will focus on?
+A. Team standards that failed
+B. The tester who caught the fewest bugs
+C. Customer inconsistencies in requirements
+D. Product owner values
+Answer: A 
+Explanation: During reflection or retrospectives, an agile team reserves time to reflect on the work it has completed with the objective of continuous improvement. In these self-assessment/team-assessment events, topics can include: lessons learned from successes and failures; team standards that worked, failed, or were not properly followed; and other areas of improvement. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 2]
+
+5. Calculate the Net Present Value of the following investment candidate. The initial investment cost is $2,000. The discount rate is 5%. At the end of year 1, $2000 is expected. At the end of year 2, $2000 is expected. At the end of year 3, $2000 is expected.
+A. $3,447
+B. $3,337
+C. $3,227
+D. $3,667
+Answer: A 
+Explanation: Net Present Value: A metric used to analyze the profitability of an investment or project. NPV is the difference between the present value of cash inflows and the present value of cash outflows. NPV considers the likelihood of future cash inflows that an investment or project will yield. NPV is the sum of each cash inflow/outflow for the expected duration of the investment. Each cash inflow/outflow is discounted back to its present value (PV) (i.e.,, what the money is worth in terms of today's value). NPV is the sum of all terms: NPV = Sum of [ Rt/(1 + i)^t ] where t = the time of the cash flow, i = the discount rate (the rate of return that could be earned on in the financial markets), and Rt = the net cash inflow or outflow. For example, consider the following two year period. The discount rate is 5% and the initial investment cost is $500. At the end of the first year, a $200 inflow is expected. At the end of the second year, a $1,000 is expected. NPV = - 500 + 200/(1.05)^1 + 1000/(1.05)^2 = ~$597. If NPV is positive, it indicates that the investment will add value to the buyer's portfolio. If NPV is negative, it will subtract value. If NPV is zero, it will neither add or subtract value. [Agile Estimating and Planning. Mike Cohn.] [Value based prioritization]
+
+6. Which is NOT a phase of Highsmith's agile project management?
+A. Envisioning
+B. Adapting
+C. Speculating
+D. Executing
+Answer: D 
+Explanation: The agile project management phases, in sequence, are: Envisioning, speculating, exploring, adapting, closing. [Manifesto for Agile Software Development. Agile Alliance.] [Knowledge and Skills: Level 1]
+
+7. Stephanie's agile team is always looking to improve its performance. Her team has decided to use an experienced agile practitioner and facilitator to come in and provide guidance to the team on how it may improve. What knowledge and skill area is this practitioner providing to the team?
+A. Speculating and closing
+B. Envisioning and elaborating
+C. Knowledge building and mentoring
+D. Coaching and mentoring
+Answer: D 
+Explanation: Coaching and mentoring within teams can be helpful for nascent agile teams and even for more experienced agile teams. Coaching and mentoring is the act of helping a person or team improve performance and achieve realistic goals. Because agile has a value of continuous improvement, coaching and mentoring is not solely for new or immature teams, but experienced ones too where coaching can help achieve higher levels of performance. The amount of coaching and mentoring an agile team needs is variable. Some newer teams will need a coach guiding the team nearly all the time while others may need a coach only for particularly challenging situations. A not uncommon scenario is to have a coach help the team collectively during sprint/iteration planning and then during the iteration help mentor individual team members. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+8. Jessica is using 'ask it loud' to help her understand the nature of an issue she is facing on the project. What agile knowledge and skill area does 'ask it loud' fall under?
+A. Problem-saturation strategies, tools, and techniques
+B. Problem-reversing strategies, tools, and techniques
+C. Problem-mitigation strategies, tools, and techniques
+D. Problem-solving strategies, tools, and techniques
+Answer: D 
+Explanation: Literally thousands of decisions are made in the course of a project. Many of these decisions are made in response to problems that inevitably arise and confront the agile team. Therefore it is essential that an agile team is properly versed in problem-solving strategies, tools, and techniques. Some common problem-solving techniques include: ask it loud; revisit the problem; 5Y; sunk cost fallacy; devil's advocate; be kind, rewind; asking probing questions; and reflective/active listening. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+9. EVM is a frequently used project management abbreviation. How is SPI calculated?
+A. SPI = EV / PV
+B. SPI = BAC / EV
+C. SPI = PV / EV
+D. SPI = BAC / PV
+Answer: A 
+Explanation: EVM or earned value management is a management technique used to evaluate project performance with respect to cost and schedule. EVM relies on other common financial metrics like Budget At Completion (BAC), Actual Cost (AC), Planned Value (PV), Earned Value (EV), Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule Performance Index (SPI). CV and SV can be converted into performance indicators of CPI and SPI, respectively, and tracked and charted to show progress over time. SPI = EV / PV. If SPI > 1, the project is ahead of schedule and if SPI < 1, the project is behind schedule. [Agile Estimating and Planning. Mike Cohn.] [Metrics]
+
+10. What person in the agile framework "empowers team members to decide what standard agile practices and methods it will use?"
+A. Business executive
+B. Project leader
+C. Business analyst
+D. sprint planner
+Answer: B 
+Explanation: A common misconception in agile is that an agile team does not need a leader. In fact, all agile teams need a leader, but the way in which the leader leads is fundamentally different than the typical traditional project manager/project leader method. Some have theorized that this misconception stems from the desired 'self-organizing' quality of the agile team. And although the 'self-organizing' agile team is empowered to take ownership and responsibility of the product and make some decisions itself, it nevertheless requires a leader to help provide guidance, mentoring, coaching, problem solving, and decision making. Some key aspects required of an agile leader include: empowering team members to decide what standard agile practices and methods it will use; allowing the team to be self-organized and self-disciplined; empowering the team members to make decisions collaboratively with the customer; inspire the team to be innovative and explore new ideas and technology capabilities; be a champion of and articulate the product vision to team members so it will be motivated to accomplish the overall objective; remove any obstacles and solve any problems the team may face in its effort; communicate and endorse the values and principles of agile project management to stakeholders that may be unfamiliar with agile; ensure that all stakeholders, including business managers and developers, are collaborating effectively; and, be able to adapt the leadership style to the working environment to ensure that the agile values and principles are effectively upheld. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+11. What is the typical unit of work effort used for sizing user stories in planning poker and affinity estimation?
+A. Story days
+B. Sprint points
+C. Story points
+D. Agile points
+Answer: C 
+Explanation: Story points is the typical unit used for estimating the relative work effort involved with developing a user story. [Agile Estimating and Planning. Mike Cohn.] [Agile estimation]
+
+12. David's agile team just finished building, testing, and releasing 12 user story points in its most recent 3 week iteration. What is the team's velocity?
+A. 0.8
+B. 4
+C. 36
+D. 12
+Answer: D 
+Explanation: Velocity is a measure of the number of user story points completed per iteration. An agile team can use its previous velocity recordings as a method of estimating how many user story points it may complete in the next iteration. David's team's velocity is 12. [Agile Estimating and Planning. Mike Cohn.] [Agile estimation]
+
+13. Of the following, which event is typically the one where acceptance criteria is first defined?
+A. Release planning
+B. sprint retrospective
+C. Product roadmapping
+D. Envisioning
+Answer: A 
+Explanation: Acceptance criteria is typically defined in tandem with user story definition during release planning; however, acceptance criteria can also be defined during iteration planning once a story has been picked for the iteration. The one steadfast rule is that acceptance criteria must be defined before development begins. Like agile planning, the definition of acceptance criteria is constantly evolving as the conversation with the product owner matures. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting]
+
+14. What type of team uses collaboration to solve problems and decides on the path forward?
+A. Sprint team
+B. Empowered team
+C. Parry team
+D. Iteration team
+Answer: B 
+Explanation: Empowered teams - ones that are self-organizing and know how to solve problems with minimal management involvement - are a cornerstone of the agile methodology. This is the antithesis to the classic viewpoint of the traditional project manager who is seen as someone that controls all decisions and delegates tasks to a team with little feedback. An agile team must include all members and stakeholders to make decisions, and make decisions expediently. Because it is essential that the user/customer be involved with development, it is encouraged that the user/customer is closely integrated with the agile team with collocation/on-site support being ideal. An agile team feels empowered when it collectively assumes responsibility for the delivery of the product (i.e., taking ownership). [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+15. Which of the following is NOT a primary agile value per the Agile Manifesto?
+A. Products work as intended because of frequent delivery iterations
+B. Customers must collaborate with the agile team to provide feedback
+C. Stakeholders must interact effectively to create business value
+D. Comprehensive software specification and precise contract terms and conditions
+Answer: D 
+Explanation: The agile primary values include: individuals and interactions, working software, customer collaboration, and responding to change. [Manifesto for Agile Software Development. Agile Alliance.] [Knowledge and Skills: Level 1]
+
+16. Jan is looking at an important agile document that includes the project vision and mission. What document is Jan most likely reviewing?
+A. Statement of work
+B. Request for proposal
+C. Project home page
+D. Project charter
+Answer: D 
+Explanation: The project charter is an important governing document that requires all stakeholder participation. Although experts recommend it not be longer than a page in length, creating a project charter can be challenging, as all stakeholders must participate and come to a consensus. Three key elements should be included in a project charter: vision, mission, and success criteria. Vision is the 'why' or rationale of a project. Mission is the 'what' of the project and describes what the team will accomplish to reach the vision. Success criteria are management metrics that define 'how' the project will be deemed successful. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+17. Stacey is concerned with the recent stagnant performance of her agile team. She believes it just needs some outside, independent guidance to improve What agile knowledge and skill technique might Stacey consider?
+A. Crowdsourcing and mentoring
+B. Symptom and solution
+C. Coaching and mechanizing
+D. Coaching and mentoring
+Answer: D 
+Explanation: Coaching and mentoring within teams can be helpful for nascent agile teams and even for more experienced agile teams. Coaching and mentoring is the act of helping a person or team improve performance and achieve realistic goals. Because agile has a value of continuous improvement, coaching and mentoring is not solely for new or immature teams, but experienced ones too where coaching can help achieve higher levels of performance. The amount of coaching and mentoring an agile team needs is variable. Some newer teams will need a coach guiding the team nearly all the time while others may need a coach only for particularly challenging situations. A not uncommon scenario is to have a coach help the team collectively during sprint/iteration planning and then during the iteration help mentor individual team members. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+18. Ursula's agile team is in need of outside guidance and leadership to help it reach new levels of performance. Her team has decided to use an experienced agile practitioner and facilitator. What knowledge and skill area is this practitioner providing to the team?
+A. Envisioning and elaborating
+B. Coaching and mechanizing
+C. Coaching and mentoring
+D. Symptom and solution
+Answer: C 
+Explanation: Coaching and mentoring within teams can be helpful for nascent agile teams and even for more experienced agile teams. Coaching and mentoring is the act of helping a person or team improve performance and achieve realistic goals. Because agile has a value of continuous improvement, coaching and mentoring is not solely for new or immature teams, but experienced ones too where coaching can help achieve higher levels of performance. The amount of coaching and mentoring an agile team needs is variable. Some newer teams will need a coach guiding the team nearly all the time while others may need a coach only for particularly challenging situations. A not uncommon scenario is to have a coach help the team collectively during sprint/iteration planning and then during the iteration help mentor individual team members. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+19. Of the following responses, which is a community value per the PMI agile community of practice community charter?
+A. Inspiring
+B. Persistent
+C. Collaboration
+D. Streamlined
+Answer: C 
+Explanation: The following are community values of the PMI agile community of practice community charter: Vision, Servant Leadership, Trust, Collaboration, Honesty, Learning, Courage, Openness, Adaptability, Leading Change, Transparency [PMI Agile Community of Practice Community Charter. Project Management Institute.] [Knowledge and Skills: Level 1]
+
+20. Select a technique used for value-based analysis?
+A. AGILE
+B. Risk-to-value matrix
+C. Strength
+D. IDEF
+Answer: B 
+Explanation: Value-based analysis strives to understand how value, as defined by the customer, relates to various components of the product, like features and tasks. Features are often prioritized with prioritization based on value and risk. Prioritization can be performed using the MoSCoW or Kano method and through the use of risk-to-value and cost-to-value matrices. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+21. Oswald and his agile team are subdividing user stories into manageable tasks so that it may plan the upcoming iteration with more accuracy. What is this process called?
+A. Sub-tasking
+B. Decomposition
+C. Function task analysis
+D. Sub-functioning
+Answer: B 
+Explanation: In iteration planning, an agile team, collaboratively with the customer, chooses user stories to include for development. Although the user stories are prioritized in the product backlog initially during release planning, an agile team and customer should review prioritization based on progressive elaboration (i.e., gained knowledge and perspective). Prioritization is often based on value and risk and can be performed using the MoSCoW or Kano method and through the use of risk-to-value and cost-to-value matrices. An agile team performs decomposition to subdivide user stories into more manageable tasks so that it may estimate task time. Tasks for an iteration may also be prioritized based on value, similar to how user stories are prioritized. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 1]
+
+22. Coaching and mentoring can be a powerful knowledge and skill technique to improve the performance of an agile team. What is the perfect amount of coaching and mentoring for an agile team?
+A. Coaching and mentoring is not a knowledge and skill technique within agile.
+B. Minimal to reduce distracting the development team.
+C. Non-stop.
+D. It varies depending on the needs of the team.
+Answer: D 
+Explanation: Coaching and mentoring within teams can be helpful for nascent agile teams and even for more experienced agile teams. Coaching and mentoring is the act of helping a person or team improve performance and achieve realistic goals. Because agile has a value of continuous improvement, coaching and mentoring is not solely for new or immature teams, but experienced ones too where coaching can help achieve higher levels of performance. The amount of coaching and mentoring an agile team needs is variable. Some newer teams will need a coach guiding the team nearly all the time while others may need a coach only for particularly challenging situations. A not uncommon scenario is to have a coach help the team collectively during sprint/iteration planning and then during the iteration help mentor individual team members. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+23. Of the following, which is NOT a part of active listening?
+A. Being present and focusing your attention on the speaker.
+B. Thinking about what to say next to move the conversation flow.
+C. Summarizing.
+D. Paraphrasing.
+Answer: B 
+Explanation: One communication technique to reduce misunderstanding and miscommunication is active listening. A well run agile project necessitates both good listeners and communicators, active listening helps work towards both of these necessities. The basics of active listening include: 1) Being present and focusing your attention on the speaker. 2) Taking notes instead of interrupting. 3) Paraphrasing to confirm and review what you have heard. 4) Summarizing the conversation once it has concluded for posterity. Using open ended questions, good body language, and silence can help improve listening skills. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+24. Of the following, which is NOT a part of active listening?
+A. Interrupting the speaker.
+B. Being present and focusing your attention on the speaker.
+C. Taking notes.
+D. Summarizing.
+Answer: A 
+Explanation: One communication technique to reduce misunderstanding and miscommunication is active listening. A well run agile project necessitates both good listeners and communicators, active listening helps work towards both of these necessities. The basics of active listening include: 1) Being present and focusing your attention on the speaker. 2) Taking notes instead of interrupting. 3) Paraphrasing to confirm and review what you have heard. 4) Summarizing the conversation once it has concluded for posterity. Using open ended questions, good body language, and silence can help improve listening skills. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+25. Which of the following responses is NOT a part of active listening?
+A. Taking notes.
+B. Summarizing.
+C. Paraphrasing.
+D. Allowing yourself to get distracted.
+Answer: D 
+Explanation: One communication technique to reduce misunderstanding and miscommunication is active listening. A well run agile project necessitates both good listeners and communicators, active listening helps work towards both of these necessities. The basics of active listening include: 1) Being present and focusing your attention on the speaker. 2) Taking notes instead of interrupting. 3) Paraphrasing to confirm and review what you have heard. 4) Summarizing the conversation once it has concluded for posterity. Using open ended questions, good body language, and silence can help improve listening skills. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+26. Ralph is describing the INVEST acronym used for user story development in an agile practitioner seminar. What does the S in INVEST stand for?
+A. Smart
+B. Small
+C. Superlative
+D. Specific
+Answer: B 
+Explanation: The acronym INVEST (independent, negotiable, valuable, estimable, small, and testable) helps the agile practitioner remember the characteristics of a good user story. I – Independent stories can be developed in any order and avoid dependencies which can make development more complex. N – Negotiable user stories mean that both the customer and developer should feel free to analyze and adapt a user story to meet customer needs. V – A valuable user story describes how the product feature will provide value to the customer. E – Estimable user stories are ones that developers can readily estimate the effort or duration required for developing them. S- Small user stories are ones that take about two to five days of work to implement. T - Testable user stories are ones that can be verified according to acceptance criteria to ensure value. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Planning, monitoring, and adapting]
+
+27. Jules is describing the SMART acronym used for task analysis in an agile seminar. What does the S stand for?
+A. Small
+B. Stable
+C. Specific
+D. Superlative
+Answer: C 
+Explanation: The acronym SMART (specific, measurable, achievable, relevant, and time-boxed) helps the agile practitioner remember the characteristics of a well-defined task. S – Specific tasks are ones that clearly contribute to the development of a user story. It should not be vague. M – Measurable tasks are ones that the team and customer can verify. A - Achievable tasks are ones that developers may realistically implement and understand. R - Relevant tasks are ones that unequivocally add value to the user story. T - Timeboxed tasks are ones that can have an estimate assigned of the amount of effort or time needed for development. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Planning, monitoring, and adapting]
+
+28. What earned value management (EVM) variable captures schedule variance?
+A. SV = AC - PV
+B. SV = PV - EV
+C. SV = PV - AC
+D. SV = EV - PV
+Answer: D 
+Explanation: Unlike traditional project management methods that evaluate risk and variance and trends in formal meetings, agile incorporates risk analysis and variance and trend analysis into iteration review meetings. Risk and variance and trend analysis may be performed in agile using information radiators, like a risk burndown chart, and the use of traditional earned value management (EVM) to measure cost and schedule variance (CV and SV, respectively). [Agile Estimating and Planning. Mike Cohn.] [Knowledge and Skills: Level 3]
+
+29. Which of the following is an agile 'feedback technique for product?'
+A. Developing
+B. Refactoring
+C. Simulation
+D. Coding
+Answer: C 
+Explanation: There are several feedback techniques - techniques that facilitate constructive criticism to improve product value and quality - built into the agile process. In the classic definition, feedback is a dynamic process where past information influences the behavior of the same process in the future. Agile feedback techniques include prototyping, simulation, demonstration, evaluations, pair programming, unit testing, continuous integration, daily stand-up meetings, sprint planning. Because agile prides itself on a transparent and collaborative environment, feedback is essentially ubiquitous. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
+
+30. Hanson has shared an agenda for an upcoming product demonstration with key stakeholders. Sharing an agenda is generally considered a
+A. Iteration method
+B. Facilitation method
+C. Business case method
+D. Synchronization method
+Answer: B 
+Explanation: As a project leader or scrum master, effective facilitation methods are critical for building a high-performance and motivated team. Facilitation of meetings, discussions, demonstrations, etc., is a constant on an agile project. Some general facilitation methods include: using a small number of people for brainstorming events; hosting events in a non-threatening/comfortable environment; having an agenda that is shared with the group ahead of time; using open-ended questions instead of closed-ended questions; including a diverse representation to gain a broader perspective of the topic. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 2]
+
+31. Of the following responses, which is a community value per the PMI agile community of practice community charter?
+A. Confident
+B. Courage
+C. Deliberate
+D. Taciturn
+Answer: B 
+Explanation: The following are community values of the PMI agile community of practice community charter: Vision, Servant Leadership, Trust, Collaboration, Honesty, Learning, Courage, Openness, Adaptability, Leading Change, Transparency [PMI Agile Community of Practice Community Charter. Project Management Institute.] [Knowledge and Skills: Level 1]
+
+32. What should the persons with the highest and lowest estimated story point value do when playing a game of planning poker?
+A. Remove their estimate values from the game.
+B. Carry their values forward to the next user story.
+C. Take the average of the their scores and then see if it is within 10% of the average of the other scores.
+D. Defend their positions to the group so it may help to arrive at a consensus.
+Answer: D 
+Explanation: Planning poker is based upon the wideband Delphi estimation technique. It is a consensus-based technique for estimating effort. Sometimes called scrum poker, it is a technique for a relative estimation of effort, typically in story points, to develop a user story. At a planning poker meeting, each estimator is given an identical deck of planning poker cards with a wide range of values. The Fibonacci sequence is often used for values for planning poker (i.e., 0, 1, 1, 2, 3, 5,8,etc.); another common sequence is (question mark, 0, 1/2, 1, 2, 3, 5, 8, 13, 20, 40, and 100). A planning poker meeting works as follows: 1) a moderator, not estimating, facilitates the meeting. 2) the product owner/manager provides a short overview of the user story and answers clarifying questions posed by the developers. Typically the product owner does not vote. 3) Each estimator selects an estimate of work effort by selecting a card, Once everyone has selected a card, everyone overturns their card concurrently, Estimators with high and low estimates are given a chance to defend positions. 6) The process repeats until there is consensus. The developer who owns the user story is typically given higher credence. [Agile Estimating and Planning. Mike Cohn.] [Agile estimation]
+
+33. Which of the following responses is NOT a part of active listening?
+A. Paraphrasing.
+B. Focusing your full attention on a speaker.
+C. Taking notes.
+D. Focusing your full attention on environmental surroundings.
+Answer: D 
+Explanation: One communication technique to reduce misunderstanding and miscommunication is active listening. A well run agile project necessitates both good listeners and communicators, active listening helps work towards both of these necessities. The basics of active listening include: 1) Being present and focusing your attention on the speaker. 2) Taking notes instead of interrupting. 3) Paraphrasing to confirm and review what you have heard. 4) Summarizing the conversation once it has concluded for posterity. Using open ended questions, good body language, and silence can help improve listening skills. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
+
+34. What topic area within strategic management deals with promoting a work environment of active participation of stakeholders?
+A. Schedule management
+B. Team member management
+C. Agile management
+D. Stakeholder management
+Answer: D 
+Explanation: Stakeholder management is a growing topic area within strategic management that brings awareness to the importance of managing stakeholders (i.e., facilitating active participation of stakeholders and fostering a strong collaborative environment) for a project's success. Stakeholder management is typically defined in the context of guiding principles and values. R. E. Freeman's 'Managing for Stakeholders' includes 10 principles: 1) Stakeholder interests need to go together over time. 2) We need a philosophy of volunteerism – to engage stakeholders and manage relationships ourselves rather than leave it to government. 3) We need to find solutions to issues that satisfy multiple stakeholders simultaneously. 4) Everything that we do serves stakeholders. We never trade off the interests of one versus the other continuously over time. 5) We act with purpose that fulfills our commitment to stakeholders. We act with aspiration towards fulfilling our dreams and theirs. 6) We need intensive communication and dialogue with stakeholders – not just those who are friendly. 7)Stakeholders consist of real people with names and faces and children. They are complex. 8)We need to generalize the marketing approach. 9) We engage with both primary and secondary stakeholders. 10) We constantly monitor and redesign processes to make them better serve our stakeholders. Because stakeholder involvement is critical for the success of a project, where projects without active participation from stakeholders are prone to failure, stakeholder management should be a topic that every agile team knows well. [The Art of Agile Development. James Shore.] [Knowledge and Skills: Level 1]
+
+35. Oscar and his agile team are subdividing user stories into manageable tasks. What is this process called?
+A. Sub-functioning
+B. Subdividing
+C. Task analysis
+D. Decomposition
+Answer: D 
+Explanation: In iteration planning, an agile team, collaboratively with the customer, chooses user stories to include for development. Although the user stories are prioritized in the product backlog initially during release planning, an agile team and customer should review prioritization based on progressive elaboration (i.e., gained knowledge and perspective). Prioritization is often based on value and risk and can be performed using the MoSCoW or Kano method and through the use of risk-to-value and cost-to-value matrices. An agile team performs decomposition to subdivide user stories into more manageable tasks so that it may estimate task time. Tasks for an iteration may also be prioritized based on value, similar to how user stories are prioritized [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 1]
+
+36. Esther is looking at a document that holds a list of all the product features to be developed in the upcoming sprint/iteration. What document is Ester reviewing?
+A. Product backlog
+B. Task backlog
+C. Scrum backlog
+D. Sprint backlog
+Answer: D 
+Explanation: The sprint backlog is a list of product features or work items to be completed in a sprint. It is typically fixed for the sprint unless it is overcome by important customer requirements. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Agile analysis and design]
+
+37. What agile artifact outlines the project's strategies for achieving goals?
+A. Burndown chart
+B. Business case
+C. Task board
+D. Value stream map
+Answer: B 
+Explanation: Business case development is an important initial step in agile project management. The business case is a concise document that outlines the project's vision, goals, strategies for achieving goals, milestones, required investment and expected return/payback. A business case articulates the why and how a project will deliver value to a customer. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+38. Select a technique that promotes agile 'knowledge sharing.'
+A. Assimilation planning
+B. Doctrine planning
+C. Release planning
+D. Manifesto planning
+Answer: C 
+Explanation: In agile, effective 'knowledge sharing' is a critical factor for success. It involves the near real time communication of key information among all team members and stakeholders. To promote knowledge sharing, agile uses standard practices built into its process, such as using generalized specialists/cross functional teams, self-organizing and self-disciplined teams, collocation, daily stand-up meetings, iteration/sprint planning, release planning, pair programming and pair rotation, project retrospectives/reflection, and on-site customer support. And, of course, the sixth principle of Agile is " The most efficient and effective method of conveying information to and within a development team is face-to-face conversation." In this sense, Agile prefers and encourages collocation for all stakeholders and team members for the simple fact that face-to-face conversation is the best method of communication and, in turn, effective knowledge sharing. [Becoming Agile: …in an imperfect world. Greg Smith, Ahmed Sidky.] [Knowledge and Skills: Level 1]
+
+39. Process mapping is an example of a
+A. Process analysis technique
+B. Error proofing technique
+C. Sprint planning technique
+D. Team reflection technique
+Answer: A 
+Explanation: Value stream mapping is a collaborative process analysis technique where a diverse team depicts/maps a process to identify where waste occurs and where improvements can be made. It is an example of a process analysis technique. Like value stream mapping, process mapping is also used to map a process to identify bottlenecks (places where processing slows and inventory can build). [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 2]
+
+40. A core agile philosophy is effective information sharing among team members. Which communication method ensures this and is an Agile Manifesto principle?
+A. WebEx
+B. E-mail
+C. Telephone
+D. Face-to-face communication
+Answer: D 
+Explanation: The Agile Manifesto developed by the Agile Alliance covers 4 values and 12 principles. The four values are: 1) individuals and interactions over processes and tools, 2) working software over comprehensive documentation, 3) customer collaboration over contract negotiation, and 4) responding to change over following a plan. The 12 principles are: 1) focusing on satisfying the customer, 2) welcoming change, 3) delivering working software frequently, 4) ensuring that business people and developers work together, 5) motivating the individuals involved in development, 6) using face-to-face communication whenever possible, 7) working software as the primary measure of progress, 8) maintaining a constant pace of development, 9) paying continuous attention to technical excellence and good design, 10) aiming for simplicity, 11) using self-organizing teams, and 12) regularly reflecting on how to become more effective. [Manifesto for Agile Software Development. Agile Alliance.] [Communications]
+
