@@ -1,3 +1,4 @@
+
 1. In release planning, where does an agile team typically record acceptance criteria for a user story?
 A. On the product data sheet
 B. On the back of user story cards
@@ -70,7 +71,7 @@ D. Affinity estimating
 Answer: D 
 Explanation: Affinity estimating is a method to predict the work effort, typically in story points, of developing a user story. It is particularly useful for large product backlogs. Although several methods exist, the basic affinity estimating model involves sizing user stories on a scale from small to large. The scale can be a Fibonacci sequence or t-shirt sizes and is typically taped to a wall in a large conference room. Participants then attach their user stories to the wall as estimates. It is often done in silence and has several iterations until the user stories have been estimated. [The Art of Agile Development. James Shore.] [Agile estimation]
 
-10. Select the best adjective that describes an agile team's project and quality standards.
+10. Select the best adjective that describes an agile team's project and quality standards. 
 A. Stiff
 B. Inflexible
 C. Unbending
@@ -83,6 +84,9 @@ A. Fluid
 B. Inflexible
 C. Stiff
 D. Unbending
+Answer:
+Explanation:
+
 12. Barry and his agile team just completed an iteration. The team has reserved a block of time to devote to reviewing its performance in the iteration. What is this agile principle called?
 A. Iteration speculation
 B. Information burnup

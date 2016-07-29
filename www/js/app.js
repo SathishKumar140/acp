@@ -71,7 +71,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','t
       views: {
         'menu': {
           templateUrl: 'templates/tab-simulate.html',
-          controller: 'SimulateCtrl'
+          controller: 'TestCtrl'
         }
       }
   })

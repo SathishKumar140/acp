@@ -32,6 +32,10 @@
 .green{
 	color: coral;
 }
+.browse{
+ 	width: 200px;
+ 	margin:0 auto;
+}
 .acp-buy-more{
 	margin-top:5%;
 }

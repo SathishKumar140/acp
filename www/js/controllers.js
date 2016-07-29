@@ -5,11 +5,20 @@ var url;
 function getDataQuestions(){
 	var questions = [];
 	$.get(url,function(response){
-		var data = response.replace(/\n[0-9]+\.+\s/g,"Question:");
-			data = data.replace(/\n[0-9]+\.+�/g,"Question:");
-			data = data.replace(/\n[0-9]+\./g,"Question:");
+			// var data = response.replace(/\n[0-9]+\.+\s/g,"Question:");
+			// data = data.replace(/\n[0-9]+\.+�/g,"Question:");
+			// data = data.replace(/\n[0-9]+\./g,"Question:");
+			var data = getReplaceStringData(response);
         	var items = data.split('Question:');
 			for(var i = 0; i < items.length-1; i++){
+				var ans,explanation;
+				if(items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1]===undefined){
+					ans = ' '
+					explanation = '';
+				}else{
+					ans = items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1].split('Explanation:')[0];
+					explanation = items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1].split('Explanation:')[1];
+				}
 		   		var ques = {
 		    		'Qid':i+1,
 		    		'question':items[i+1].split('A.')[0],
@@ -19,14 +28,60 @@ function getDataQuestions(){
 		    			'c':items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[0],
 		    			'd':items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[0]
 		    		},
-		    		'ans':items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1].split('Explanation:')[0],
-		    		'explanation':items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1].split('Explanation:')[1]
+		    		'ans':ans,
+		    		'explanation':explanation
 		    	}
 		    	questions.push(ques);
 		    }
 	});
 	return questions;
 
+}
+function getReplaceStringData(data){
+	var lines = data.split('\n');
+        var newFileContent = "";
+        var questionCnt = 0;
+
+        if(lines.length>0)
+        {
+          var i =0;         
+              while(i<lines.length)
+              { 
+                try
+                {
+                    var currLine = lines[i].trim(); // Remove leading and trailing spaces
+                    currLine.replace(/\t+/g, ""); // Some questions starts with /t or tab character
+                   
+                    if(currLine.length>0)
+                    {                      
+                      // Check if the first character is digit like 1. OR 2.
+                       if((!isNaN(currLine.charAt(0))) && (currLine.charAt(1)=='.') && (currLine.charAt(2)==' '))
+                       {
+                          newFileContent += "\nQuestion:"+currLine.substring(2,currLine.length);
+                          questionCnt++;
+                       } // Check if the first character is digit like 11. OR 22.
+                       else if((!isNaN(currLine.charAt(0))) && (!isNaN(currLine.charAt(1))) && (currLine.charAt(2)=='.') && (currLine.charAt(3)==' '))
+                       {
+                          newFileContent += "\nQuestion:"+currLine.substring(3,currLine.length);
+                          questionCnt++;
+                       } // Check if the first character is digit like 111. OR 112.
+                       else if((!isNaN(currLine.charAt(0))) && (!isNaN(currLine.charAt(1))) && (!isNaN(currLine.charAt(2))) && (currLine.charAt(3)=='.') && (currLine.charAt(4)==' '))
+                       {
+                          newFileContent += "\nQuestion:"+currLine.substring(4,currLine.length);
+                          questionCnt++;
+                       }
+                       else
+                          newFileContent +=currLine;
+                    }                      
+                }                   
+                catch(err)
+                {
+                    window.alert("Exception = "+err);  
+                }
+                i++;
+              }
+              return newFileContent;
+          } // If ends       
 }
 angular.module('starter.controllers', ['ngCordova'])
 .controller('HomeCtrl', function($scope,$state,$http,$ionicHistory){
@@ -50,6 +105,7 @@ angular.module('starter.controllers', ['ngCordova'])
 	}
 })
 .controller('TestCtrl', function($scope,$state,$http,$ionicHistory,$rootScope,$ionicPopup){
+
 	$rootScope.$ionicGoBack = function() {
 		var confirmPopup = $ionicPopup.confirm({
 		    template: 'Are you sure you want to back?',
@@ -75,6 +131,8 @@ angular.module('starter.controllers', ['ngCordova'])
 	$scope.showScoreCard = false;
 	$scope.review = false;
 	$scope.QuestionNumber = 0;
+	$scope.expAns = false;
+	$scope.showAnswerToggle  = {'flag':false};
 
 	for(var i = 0; i < $scope.numberOfQuestions; i++){
 		$scope.testResults.push({'Qid':i+1,'selected':0,'correct':0})
@@ -100,6 +158,9 @@ angular.module('starter.controllers', ['ngCordova'])
 
 	$scope.changeQuestion = function(value){
 		$scope.setCurrentQuestion();
+		$scope.showAnswerToggle.flag = false;
+		$scope.options.choice = 0;
+		$scope.expAns = false;
 		$scope.acp_correct_answer_a = 'none';
 		$scope.acp_correct_answer_b = 'none';
 		$scope.acp_correct_answer_c = 'none';
@@ -130,9 +191,9 @@ angular.module('starter.controllers', ['ngCordova'])
 		}
 	}
 	$scope.setCurrentQuestion = function(){
-		if($scope.testResults[$scope.count-1].Qid === $scope.count-1){
+		if($scope.testResults[$scope.count-1].Qid === $scope.count){
 			$scope.testResults[$scope.count-1].selected = $scope.options.choice;
-			$scope.testResults[$scope.count-1].correct = $scope.questions[$scope.QuestionNumber].ans;
+			$scope.testResults[$scope.count-1].correct = $scope.questions[$scope.QuestionNumber].ans.trim().toLowerCase();
 		}
 	}
 	$scope.completeTest = function(){
@@ -167,74 +228,7 @@ angular.module('starter.controllers', ['ngCordova'])
 		}else if(option==='c'){
 			$scope.acp_correct_answer_c = 'green';
 		}else if(option==='d'){
-			$scope.acp_correct_answer_a = 'green';
-		}
-	}
-})
-.controller('SimulateCtrl', function($scope,$http,$ionicHistory,$state,$rootScope,$ionicPopup) {
-	$scope.timerTemplate = true;
-	$scope.timerRunning = true;
-
-	$scope.startTimer = function (){
-        $scope.$broadcast('timer-start');
-        $scope.timerRunning = true;
-    };
-
-    $scope.stopTimer = function (){
-        $scope.$broadcast('timer-stop');
-        $scope.timerRunning = false;
-    };
-
-    $scope.$on('timer-tick', function (event, args) {
-    	if(event.targetScope.mminutes==='00' && event.targetScope.hhours==='00' && event.targetScope.sseconds==='00'){
-    		$state.go('tab.home');
-    	}
-    });
-
-    $scope.questions = getDataQuestions();
-
-    $rootScope.$ionicGoBack = function() {
-		var confirmPopup = $ionicPopup.confirm({
-		    template: 'Are you sure you want to back?',
-		    buttons: [{text: 'No',},{type: 'button-dark',text: '<b>Yes</b>',onTap: function(e) {
-		    	$ionicHistory.goBack();
-		    }}],
-
-		});
-	};
-
-	$scope.QuestionNumber = 0;
-	$scope.count = 1;
-	$scope.nextEnd = true;
-	$scope.options = {};
-	$scope.expAns = false;
-	$scope.isChecked = false;
-	$scope.showAnswerToggle  = {'flag':false};
-
-	$scope.changeQuestion = function(value){
-		$scope.showAnswerToggle.flag = false;
-		$scope.options.choice = 0;
-		$scope.expAns = false;
-		if(value === 'Next'){
-			if($scope.QuestionNumber < $scope.questions.length - 1 ){
-				$scope.count = $scope.count + 1;
-				$scope.QuestionNumber = $scope.QuestionNumber + 1;
-			}
-			if($scope.questions.length-1!==$scope.QuestionNumber){
-				$scope.prevEnd = true;
-			}else{
-				$scope.nextEnd = false;
-			}
-		}else if(value === 'Prev'){
-			if($scope.QuestionNumber > 0){
-				$scope.count = $scope.count - 1;
-				$scope.QuestionNumber = $scope.QuestionNumber - 1;
-			}
-			if($scope.QuestionNumber!==0){
-				$scope.nextEnd = true;
-			}else{
-				$scope.prevEnd = false;
-			}
+			$scope.acp_correct_answer_d = 'green';
 		}
 	}
 	$scope.showAnswer=function(){
@@ -246,5 +240,7 @@ angular.module('starter.controllers', ['ngCordova'])
 	};
 })
 .controller('SettingsCtrl', function($scope) {
-
+	$scope.openFileDialog = function(){
+		
+	}
 });
