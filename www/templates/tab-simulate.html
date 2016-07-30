@@ -3,8 +3,11 @@
       Agile Certified Practitioner (ACP)
   </ion-nav-title>
   <ion-content class="acp-content-bg">
-  	<div class="item item-divider" ng-show="timer">
-  		<div class="right">
+  	<div class="item item-divider">
+  		<div  class="left">
+  			<b>Exam : {{examNumber}}</b>
+  		</div>
+  		<div class="right" ng-show="timer">
   			Exam Time : <timer countdown="10800"  interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
   		</div>
 	</div>

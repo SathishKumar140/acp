@@ -1,4 +1,4 @@
-var url;
+var url,exam,browsedQuestions;
 
 // $.ajaxSetup({async:false});
 
@@ -87,6 +87,7 @@ angular.module('starter.controllers', ['ngCordova'])
 .controller('HomeCtrl', function($scope,$state,$http,$ionicHistory){
 	$scope.totalExam = [1,2,3,4,5,6,7,8,9,10,11];
 	$scope.Exam = function(testNumber){
+		exam = testNumber;
 		url = 'txt/QABank_Set'+testNumber+'.txt';
 		$state.go('tab.mode')
 	}
@@ -105,7 +106,7 @@ angular.module('starter.controllers', ['ngCordova'])
 	}
 })
 .controller('TestCtrl', function($scope,$state,$http,$ionicHistory,$rootScope,$ionicPopup){
-
+	$scope.examNumber = exam;
 	$rootScope.$ionicGoBack = function() {
 		var confirmPopup = $ionicPopup.confirm({
 		    template: 'Are you sure you want to back?',
@@ -121,8 +122,13 @@ angular.module('starter.controllers', ['ngCordova'])
 	$scope.submitBtn = true;
 	$scope.timer = true;
 	$scope.timerTemplate = false;
-	$scope.numberOfQuestions = 120;
-	$scope.questions = getDataQuestions();
+	$scope.numberOfQuestions = 150;
+	if($ionicHistory.viewHistory().views[$ionicHistory.viewHistory().backView.backViewId].stateId==='tab.settings'){
+		$scope.questions = browsedQuestions;
+	}else{
+		$scope.questions = getDataQuestions();
+	}
+	
 	$scope.count = 1;
 	$scope.nextEnd = true;
 	$scope.testResults = [];
@@ -166,10 +172,10 @@ angular.module('starter.controllers', ['ngCordova'])
 		$scope.acp_correct_answer_c = 'none';
 		$scope.acp_correct_answer_d = 'none';
 		if(value === 'Next'){
-			if($scope.count <= $scope.numberOfQuestions - 1 ){
+			if($scope.count <= $scope.questions.length - 1 ){
 				$scope.count = $scope.count + 1;
 			}
-			if($scope.numberOfQuestions!==$scope.count){
+			if($scope.questions.length!==$scope.count){
 				$scope.prevEnd = true;
 			}else{
 				$scope.nextEnd = false;
@@ -204,11 +210,12 @@ angular.module('starter.controllers', ['ngCordova'])
 		$scope.nextEnd = false;
 		$scope.submitBtn = false;
 		$scope.timer = false;
-		for(var i = 0; i < $scope.numberOfQuestions; i++){
+		for(var i = 0; i < $scope.questions.length; i++){
 			if($scope.testResults[i].selected!==0 && $scope.testResults[i].selected === $scope.testResults[i].correct.trim().toLowerCase()){
 				$scope.score = $scope.score + 1;
 			}
 		}
+		$scope.numberOfQuestions = $scope.questions.length;
 		$scope.stopTimer();
 	}
 	$scope.reviewAnswers = function(){
@@ -239,8 +246,54 @@ angular.module('starter.controllers', ['ngCordova'])
 		}
 	};
 })
-.controller('SettingsCtrl', function($scope) {
+.controller('SettingsCtrl', function($scope,$state) {
 	$scope.openFileDialog = function(){
-		
+		ionic.trigger('click', { target: document.getElementById('file') });
+	}
+    $scope.fileNameChanged = function(element) {
+	 
+	 	var reader = new FileReader();
+
+		reader.onload = function(e) {
+		      $scope.$apply(function() {
+		          browsedQuestions = readSingleFile(reader.result);
+		          exam = 'Browsed Questions'
+		          $state.go('tab.mode');
+		      });
+		};
+
+		$scope.file = element.files[0];
+
+    	reader.readAsText($scope.file);
+	 	
 	}
 });
+function readSingleFile(response) {
+	var questions = [];
+    var data = getReplaceStringData(response);
+    var items = data.split('Question:');
+	for(var i = 0; i < items.length-1; i++){
+		var ans,explanation;
+		if(items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1]===undefined){
+			ans = ' '
+			explanation = '';
+		}else{
+			ans = items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1].split('Explanation:')[0];
+			explanation = items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[1].split('Explanation:')[1];
+		}
+		var ques = {
+			'Qid':i+1,
+			'question':items[i+1].split('A.')[0],
+			'options':{
+				'a':items[i+1].split('A.')[1].split('B.')[0],
+				'b':items[i+1].split('A.')[1].split('B.')[1].split('C.')[0],
+				'c':items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[0],
+				'd':items[i+1].split('A.')[1].split('B.')[1].split('C.')[1].split('D.')[1].split('Answer:')[0]
+			},
+			'ans':ans,
+			'explanation':explanation
+		}
+		questions.push(ques);
+	}
+	return questions
+}

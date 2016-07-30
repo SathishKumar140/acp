@@ -1,4 +1,7 @@
 /* Empty. Add your own CSS if you like */
+#file {
+  display:none;  
+}
 .acp-content-bg{
 	background: #eaeff9;
 }
