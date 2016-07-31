@@ -23,6 +23,27 @@
 			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_c" value="c">c. {{questions[QuestionNumber].options.c}}</ion-radio>
 			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_d" value="d">d. {{questions[QuestionNumber].options.d}}</ion-radio>
 		</ion-list>
+		<div ng-show="review">
+			<div class="padding">
+				<li class="item item-toggle item-dark">
+				     Show Answer
+				    <label class="toggle toggle-balanced">
+				       	<input type="checkbox" ng-model="showAnswerToggle.flag" ng-checked="showAnswerToggle.flag" ng-click="showAnswer()">
+				       	<div class="track">
+				         	<div class="handle"></div>
+				       	</div>
+				    </label>
+				</li>
+			</div>
+		    <div class="item item-divider" ng-show="expAns">
+			   <p class="acp-correct-ans"><span>Correct Option:</span> {{questions[QuestionNumber].ans}}</p>
+			</div>
+			<div class="card" ng-show="expAns">
+			  <div class="item item-text-wrap">
+			    {{questions[QuestionNumber].explanation}}
+			  </div>
+			</div>
+		</div>
 	  </div>
 	  <div ng-show="showScoreCard" class="acp-score-display">
 	  	<p class="acp-score-text">Your Score is</p>
@@ -38,6 +59,7 @@
   <ion-footer-bar align-title="left" class="bar-calm">
 	<i ng-click="changeQuestion('Prev')" ng-show="prevEnd" class="button button-dark ion-chevron-left ion-left abs btn-padding"></i>
 	<button ng-show="submitBtn" ng-click="completeTest()" class="button button-dark acp-submit abs">Submit</button>
+	<button ng-show="saveBtn" ng-click="saveReview()" class="button button-dark acp-submit abs">Save</button>
 	<i ng-click="changeQuestion('Next')" ng-show="nextEnd" class="button button-dark ion-chevron-right ion-right btn-padding"></i>
   </ion-footer-bar>
 </ion-view>

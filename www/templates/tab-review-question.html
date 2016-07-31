@@ -3,15 +3,12 @@
       Agile Certified Practitioner (ACP)
   </ion-nav-title>
   <ion-content class="acp-content-bg">
-  	<div class="item item-divider">
-  		<div  class="left">
-  			<b>Exam : {{examNumber}}</b>
-  		</div>
-  		<div class="right" ng-show="timer">
-  			Exam Time : <timer countdown="10800"  interval="1000">{{hhours}}:{{mminutes}}:{{sseconds}}</timer>
-  		</div>
+  	<div class="card">
+	  <div class="item item-text-wrap">
+	    Review saved questions
+	  </div>
 	</div>
-	  <div ng-show="testMode">
+	<div>
 	  	<div class="padding">Q{{count}}. {{questions[QuestionNumber].question}}</div>
 		<ion-list>
 			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_a" value="a">a. {{questions[QuestionNumber].options.a}}</ion-radio>
@@ -39,21 +36,9 @@
 		  </div>
 		</div>
 	  </div>
-	  <div ng-show="showScoreCard" class="acp-score-display">
-	  	<p class="acp-score-text">Your Score is</p>
-	  	<div class="acp-score-circle abs"></div>
-	  	<div class="acp-line abs"></div>
-	  	<div class="abs acp-actual-score">{{score}}</div>
-	  	<div class="abs acp-total-score">{{numberOfQuestions}}</div>
-	  	<button ng-click="reviewAnswers()" class="button button-dark acp-review-answer">
-			  Review Your Answers
-		</button>
-	  </div>
   </ion-content>
-  <ion-footer-bar align-title="left" class="bar-calm">
+    <ion-footer-bar align-title="left" class="bar-calm">
 	<i ng-click="changeQuestion('Prev')" ng-show="prevEnd" class="button button-dark ion-chevron-left ion-left abs btn-padding"></i>
-	<button ng-show="submitBtn" ng-click="completeTest()" class="button button-dark acp-submit abs">Submit</button>
-	<button ng-show="saveBtn" ng-click="saveReview()" class="button button-dark acp-submit abs">Save</button>
 	<i ng-click="changeQuestion('Next')" ng-show="nextEnd" class="button button-dark ion-chevron-right ion-right btn-padding"></i>
   </ion-footer-bar>
 </ion-view>

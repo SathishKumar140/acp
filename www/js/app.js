@@ -83,6 +83,26 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services','t
           controller: 'SettingsCtrl'
         }
       }
+  })
+  .state('tab.reviews', {
+      cache: false,
+      url: '/reviews',
+      views: {
+        'menu': {
+          templateUrl: 'templates/tab-review.html',
+          controller: 'ReviewCtrl'
+        }
+      }
+  })
+  .state('tab.saved', {
+      cache: false,
+      url: '/saved',
+      views: {
+        'menu': {
+          templateUrl: 'templates/tab-review-question.html',
+          controller: 'ReviewQuestionCtrl'
+        }
+      }
   });
 
   // if none of the above states are matched, use this as the fallback

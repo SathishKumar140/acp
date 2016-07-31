@@ -1,0 +1,17 @@
+<ion-view>
+  <ion-nav-title>
+      Agile Certified Practitioner (ACP)
+  </ion-nav-title>
+  <ion-content class="acp-content-bg">
+  	<div class="card">
+	  <div class="item item-text-wrap">
+	    Review saved questions
+	  </div>
+	</div>
+  	<div class="auto width-200 acp-exam-btn">
+	 <button ng-repeat="r in reviews" ng-click="review(r)" class="button button-dark width-200 acp-buy-more">
+		Exam Review {{$index+1}}
+	  </button>
+	</div>
+  </ion-content>
+</ion-view>

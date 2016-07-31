@@ -1,4 +1,4 @@
-var url,exam,browsedQuestions;
+var url,exam,browsedQuestions,reviewId,questionNumbers;
 
 // $.ajaxSetup({async:false});
 
@@ -55,17 +55,17 @@ function getReplaceStringData(data){
                     if(currLine.length>0)
                     {                      
                       // Check if the first character is digit like 1. OR 2.
-                       if((!isNaN(currLine.charAt(0))) && (currLine.charAt(1)=='.') && (currLine.charAt(2)==' '))
+                       if((!isNaN(currLine.charAt(0))) && (currLine.charAt(1)=='.'))
                        {
                           newFileContent += "\nQuestion:"+currLine.substring(2,currLine.length);
                           questionCnt++;
                        } // Check if the first character is digit like 11. OR 22.
-                       else if((!isNaN(currLine.charAt(0))) && (!isNaN(currLine.charAt(1))) && (currLine.charAt(2)=='.') && (currLine.charAt(3)==' '))
+                       else if((!isNaN(currLine.charAt(0))) && (!isNaN(currLine.charAt(1))) && (currLine.charAt(2)=='.'))
                        {
                           newFileContent += "\nQuestion:"+currLine.substring(3,currLine.length);
                           questionCnt++;
                        } // Check if the first character is digit like 111. OR 112.
-                       else if((!isNaN(currLine.charAt(0))) && (!isNaN(currLine.charAt(1))) && (!isNaN(currLine.charAt(2))) && (currLine.charAt(3)=='.') && (currLine.charAt(4)==' '))
+                       else if((!isNaN(currLine.charAt(0))) && (!isNaN(currLine.charAt(1))) && (!isNaN(currLine.charAt(2))) && (currLine.charAt(3)=='.'))
                        {
                           newFileContent += "\nQuestion:"+currLine.substring(4,currLine.length);
                           questionCnt++;
@@ -105,6 +105,81 @@ angular.module('starter.controllers', ['ngCordova'])
 		}
 	}
 })
+.controller('ReviewQuestionCtrl', function($scope,$state){
+	$scope.questions = getDataQuestions();
+	$scope.count = 1;
+	$scope.reviewMode = true;
+	$scope.QuestionNumber = questionNumbers[$scope.count-1]-1;
+	$scope.expAns = false;
+	$scope.showAnswerToggle  = {'flag':false};
+	if(questionNumbers.length!==1){
+		$scope.nextEnd = true;
+	}
+	$scope.changeQuestion = function(value){
+		$scope.prevEnd = true;
+		$scope.nextEnd = true;
+		if(value === 'Next'){
+			if($scope.count <= questionNumbers.length - 1 ){
+				$scope.count = $scope.count + 1;
+			}
+			if(questionNumbers.length!==$scope.count){
+				$scope.prevEnd = true;
+			}else{
+				$scope.nextEnd = false;
+			}
+		}else if(value === 'Prev'){
+			if($scope.count >= 1){
+				$scope.count = $scope.count - 1;
+			}
+			if($scope.count!==1){
+				$scope.nextEnd = true;
+			}else{
+				$scope.prevEnd = false;
+			}
+		}
+		$scope.QuestionNumber = questionNumbers[$scope.count-1]-1;
+	}
+	$scope.showAnswer = function(){
+		if( $scope.showAnswerToggle.flag == true){
+			$scope.expAns = true;
+		}else{
+			$scope.expAns = false;
+		}	
+	}
+})
+.controller('ReviewCtrl', function($scope,$state){
+	$scope.reviewMode = false;
+	var reviewIds = [];
+	if(window.localStorage.getItem("savedReviews")!==null){
+		var object = JSON.parse(window.localStorage.getItem("savedReviews"));
+		for(var i = 0; i < object.length; i++){
+			if(reviewIds.length!==0){
+				if(object[i].reviewId!==reviewIds[reviewIds.length-1]){
+					reviewIds.push(object[i].reviewId);
+				}
+			}else{
+				reviewIds.push(object[i].reviewId);
+			}
+		}
+	}
+	$scope.reviews = reviewIds;
+
+	$scope.review = function(reviewId){
+		questionNumbers = [];
+		var reviews = window.localStorage.getItem('savedReviews');
+		var k = JSON.parse(reviews);
+		for(var  i = 0; i < k.length; i++){
+			if(reviewId===k[i].reviewId){
+				exam = k[i].examId;
+				questionNumbers.push(k[i].qid);
+			}
+		}
+		url = 'txt/QABank_Set'+exam+'.txt';
+		$state.go('tab.saved');
+	}
+
+	
+})
 .controller('TestCtrl', function($scope,$state,$http,$ionicHistory,$rootScope,$ionicPopup){
 	$scope.examNumber = exam;
 	$rootScope.$ionicGoBack = function() {
@@ -120,6 +195,7 @@ angular.module('starter.controllers', ['ngCordova'])
 	$scope.timerRunning = true;
 	$scope.testMode = true;
 	$scope.submitBtn = true;
+	$scope.saveBtn = false;
 	$scope.timer = true;
 	$scope.timerTemplate = false;
 	$scope.numberOfQuestions = 150;
@@ -132,6 +208,7 @@ angular.module('starter.controllers', ['ngCordova'])
 	$scope.count = 1;
 	$scope.nextEnd = true;
 	$scope.testResults = [];
+	$scope.saveReviewQuestions = [];
 	$scope.options = {};
 	$scope.score = 0;
 	$scope.showScoreCard = false;
@@ -163,6 +240,9 @@ angular.module('starter.controllers', ['ngCordova'])
     });
 
 	$scope.changeQuestion = function(value){
+		if($scope.review){
+			$scope.saveBtn = true;
+		}
 		$scope.setCurrentQuestion();
 		$scope.showAnswerToggle.flag = false;
 		$scope.options.choice = 0;
@@ -222,10 +302,17 @@ angular.module('starter.controllers', ['ngCordova'])
 		$scope.showScoreCard = false;
 		$scope.testMode = true;
 		$scope.review = true;
+		$scope.setReviewId = true;
+		$scope.saveBtn = true;
 		$scope.count = 1;
 		$scope.setCurrentQuestion();
 		$scope.nextEnd = true;
+		$scope.QuestionNumber = $scope.count - 1;
 		$scope.showCorrectAnswer($scope.questions[$scope.count-1].ans.trim().toLowerCase());
+		var reviewIds = [];
+		if(window.localStorage.getItem("savedReviews")===null){
+			reviewId = 1;
+		}
 	}
 	$scope.showCorrectAnswer = function(option){
 		if(option==='a'){
@@ -244,7 +331,54 @@ angular.module('starter.controllers', ['ngCordova'])
 		}else{
 			$scope.expAns = false;
 		}
-	};
+	}
+	$scope.saveReview = function(){
+		$scope.saveBtn = false;
+		var exist = false;
+		var saveReviewQuestions = [];
+		var reviewIds = [];
+		if($scope.setReviewId){
+			if(window.localStorage.getItem("savedReviews")!==null){
+				var object = JSON.parse(window.localStorage.getItem("savedReviews"));
+				for(var i = 0; i < object.length; i++){
+					if(reviewIds.length!==0){
+						if(object[i].reviewId!==reviewIds[reviewIds.length-1]){
+							reviewIds.push(object[i].reviewId);
+						}
+					}else{
+						reviewIds.push(object[i].reviewId);
+					}
+				}
+				reviewId  = reviewIds.length+1;
+			}
+			$scope.setReviewId = false;
+		}
+
+		var question = {
+			'examId':exam,
+			'reviewId':reviewId,
+			'qid':$scope.questions[$scope.count-1].Qid
+		}
+		
+		if(window.localStorage.getItem("savedReviews")!==null){
+			var object = JSON.parse(window.localStorage.getItem("savedReviews"));
+			for(var i = 0; i < object.length; i++){
+				if(object[i].reviewId === reviewId && object[i].qid===$scope.questions[$scope.count-1].Qid){
+					exist = true;
+				}
+			}
+			if(!exist){
+				object.push(question);
+			}
+			var b = JSON.stringify(object);
+			window.localStorage.setItem("savedReviews",b );
+		}else{
+			saveReviewQuestions.push(question);
+			var a = JSON.stringify(saveReviewQuestions);
+			window.localStorage.setItem("savedReviews", a );
+		}
+		
+	}
 })
 .controller('SettingsCtrl', function($scope,$state) {
 	$scope.openFileDialog = function(){
@@ -257,7 +391,7 @@ angular.module('starter.controllers', ['ngCordova'])
 		reader.onload = function(e) {
 		      $scope.$apply(function() {
 		          browsedQuestions = readSingleFile(reader.result);
-		          exam = 'Browsed Questions'
+		          exam = 'Browsed'
 		          $state.go('tab.mode');
 		      });
 		};
