@@ -1,0 +1,1067 @@
+
+ 
+1. Which of the following correctly defines a plan that looks ahead for the duration of the release, typically three to six months? 
+A. Daily Plan 
+B. Release Plan 
+C. Iteration Plan 
+D. Sprint Plan 
+Answer: B  
+
+Explanation: A Release Plan looks ahead for the duration of the release, typically three to six months. Iteration and Sprint Plan are the same and looks ahead for the duration of the release, typically 3-6 months. A daily plan is the result of team member commitments made to each other usually during a daily stand-up meeting. 
+
+2. Which of the following is NOT true about Story Points? 
+A. Story points are a pure measure of size 
+B. Story point estimates do not decay 
+C. Story points help drive cross-functional behaviour 
+D. An estimate expressed in story points has a shorter shelf life than an estimate in ideal days. 
+Answer: D  
+
+Explanation: An estimate expressed in story points has a longer shelf life than an estimate in ideal days. An estimate in ideal days can change based on the team’s experience with the technology, the domain, and themselves, among other factors. 
+
+3. What happens in the Expansion Phase ? 
+A. Expanding on the work done in the Concept phase 
+B. To do more of what we already know how to do 
+C. The product is deployed into actual use 
+D. All of the above 
+Answer: A
+Explanation: Expansion means expanding on the work done in the Concept phase, specifically expanding to areas of lesser risk than those covered in the first phase. 
+
+4. Which of the following is NOT a technique for creating a set of stories? 
+A. Observation 
+B. User Interviews 
+C. Questionnaires 
+D. Analysis 
+Answer: D  
+
+Explanation: The most valuable techniques for creating a set of stories are User Interviews, Questionnaires, Observation and Story writing workshops. 
+
+5. Global teams or local teams that re distributed geographically and do not have a fixed division of responsibilities between the locations are popularly known as, 
+A. Distributed teams 
+B. Co-located teams 
+C. Agile team 
+D. None of the above 
+Answer: A  
+
+Explanation: Distributed teams are global or local teams distributed geographically and do not have a fixed division of responsibilities between locations. Work goes to the team member who is best able to do it. 
+
+6. Which of the following is NOT a responsibility of the Customer? 
+A. You are responsible for ensuring that the software does not focus inappropriately on a subset of users 
+B. You are responsible for making sure that identifying and describing user roles does not go beyond its role as a tool in the process. 
+C. You are responsible for participating in the process of identifying user roles and personas. 
+D. You are responsible for understanding each of the user roles or personas and how they differ. 
+Answer: D  
+
+Explanation: It is the Developer's responsibility to understand each of the user roles or personas and how they differ. 
+
+7. What trend does the top of the bar indicate in a release burn down bar chart? 
+A. Work completed 
+B. Work to be completed 
+C. Work to be estimated 
+D. New work added 
+Answer: A  
+
+Explanation: A release burn down bar chart uses bars to indicate the amount of work in the release. The top of the bar is lowered any time work is completed. 
+
+8. What is the Cost Performance Index when EV = $20,000 and AC = $15000? 
+A. 1.333 
+B. 0.75 
+C. 13.3 
+D. 7.5 
+Answer: A  
+
+Explanation: CPI = EV / AC = 20000/15000 = 1.33 
+
+9. You express opinions often, gets attached to them, and loses the objectivity needed to coach the team to have great discussions. Which of the following persona do you associate yourself with? 
+A. The Spy 
+B. The Seagull 
+C. The Opinionator 
+D. The Admin 
+Answer: C  
+
+Explanation: The Opinionator expresses opinions often, gets attached to them, and loses the objectivity needed to coach the team to have great discussions. 
+
+10. Which of the following is NOT the most common techniques for estimating? 
+A. Disaggregation 
+B. Expert Opinion 
+C. Analogy 
+D. Brainstorming 
+Answer: D  
+
+Explanation: The three most common techniques for estimating are Expert Opinion, Analogy and Disaggregation. 
+
+11. Which of the following BEST defines "Fractional assignment"? 
+A. Assigning tasks within one story to several team members 
+B. Assigning people to multiple projects simultaneously which negatively impacts productivity 
+C. Assigning fractional number of story points to a story during estimation 
+D. None of the above 
+Answer: B
+Explanation: which is the best option that defines Fractional assignment. 
+
+12. You are in the process of estimating a large user story. Your Product Manager is not satisfied with the story point estimation done by you. What is the NEXT step to do? 
+A. Split the story into smaller stories to provide finer estimates 
+B. Reestimate the story 
+C. Remove the story from the plan 
+D. Reestimate the story in ideal days 
+Answer: A  
+
+Explanation: The solution is to split the stories into smaller stories to provide finer estimates. 
+
+13. Which of the following is NOT true about the practices that allow you to control chaos of endless possibility? 
+A. The Planning Game combines the expertise of the whole team to create achievable plans 
+B. Slack allows the team to reliably deliver results every iteration 
+C. Risk Management allows the team to make and meet short-term commitments. 
+D. Stories form the line items in the team’s plan. 
+Answer: C  
+
+Explanation: Risk Management allows the team to make and meet long-term commitments. 
+
+14. Which of the following is NOT a Business Metric? 
+A. Running Tested Features (RTF) 
+B. Velocity 
+C. Net Present Value 
+D. Earned Business Value 
+Answer: B  
+
+Explanation: Velocity is a Process metric while the other mentioned are Business Metrics. 
+
+15. At the Retrospective Meeting, the team members have highlighted a few issues. Who is responsible for devising solutions to these issues? 
+A. The Product Manager 
+B. The Scrum Master 
+C. The Team 
+D. The Project Stakeholders 
+Answer: C  
+
+Explanation: It is the responsibility of the team to find the solutions to the issues raised. 
+
+16. What BEST describes the characteristics of a Learner at Level 3 or in the Fluent stage of learning? 
+A. Learners in the Fluent stage are looking for limitations of the procedure 
+B. Learners in the Fluent stage look for one procedure that works 
+C. Learners in the Fluent stage have achieved a mastery of team communication 
+D. Learners in the Fluent stage are experts 
+Answer: D  
+
+Explanation: The Stage 3 Learner is at the stage of mastery. He is able to figure out the end effect of any procedure and to make his way to that end. 
+
+17. Which Emotional Intelligence factor describes the ability of an individual to recognize, attend to, and understand emotions in themselves and others? 
+A. Decision Making 
+B. Perceiving 
+C. Achieving 
+D. Influencing 
+Answer: B  
+
+Explanation: Perceiving is based on the ability of an individual to recognize, attend to, and understand emotions in themselves and others. 
+
+18. Which of the following technique can be used to apply to bring down the Lost Opportunity Cost within your team? 
+A. Team meetings 
+B. Team Daily stand up meeting 
+C. Team parties 
+D. Team Collocation 
+Answer: D  
+
+Explanation: Collocation promotes effective communication among team members. 
+
+19. Which chart shows the sum of the risk exposure values vs. the iterations? 
+A. Risk Burn up Chart 
+B. Risk Census 
+C. Risk Burn down Chart 
+D. Linear Chart 
+Answer: C  
+
+Explanation: The risk burn down chart is created by plotting the sum of the risk exposure values from the census vs. the iterations. 
+
+20. A software development methodology that favours rapid and iterative prototyping in lieu of detailed and comprehensive plans, and is often considered an example of agile development methods is known as, 
+A. Dual Programming 
+B. Rapid Application Development, RAD 
+C. Lean 
+D. Rational Unified Programming, RUP 
+Answer: B  
+
+Explanation: RAD is a software development methodology that favours rapid and iterative prototyping in lieu of detailed and comprehensive plans, and is often considered an example of agile development methods. 
+
+21. The Rational Unified Process (RUP) is an iterative development process that seeks to increase development agility by providing a flexible, best practice based life cycle management framework. RUP prescribes the utilization of 9 key disciplines extended across 4 main project phases. Those 4 phases are: 
+A. Inception, Elaboration, Develop, Transition 
+B. Inception, Envision, Construction, Transition 
+C. Inception, Elaboration, Construction, Transition 
+D. Inception, Elaboration, Construction, Close 
+Answer: C  
+
+Explanation: The 4 phases of RUP are Inception, Elaboration, Construction and Transition. 
+
+22. Which of the following correctly defines the team members themselves managing assignment of the day-to-day tasks required to deliver stories at the end of each iteration? 
+A. Workload Management 
+B. Iteration Management 
+C. Task Breakdown 
+D. Monitoring 
+Answer: A  
+
+Explanation: The objective of workload management is to have team members themselves manage assignment of the day-to-day tasks required to deliver stories at the end of each iteration. To the greatest extent possible, teams should manage their own workload. 
+
+23. What are the dimensions in the Agile Triangle? 
+A. Value, Quality and Constraints 
+B. Schedule, Cost and Value 
+C. Value, Quality and Cost 
+D. Cost, Quality and Constraints 
+Answer: A  
+
+Explanation: The dimensions in the Agile Triangle are Value, Quality and Constraints 
+
+24. What are the three levels of Planning in Agile project planning at the team level? 
+A. Strategy Planning, Release Planning, Portfolio Planning 
+B. Product Planning, Release Planning, Portfolio Planning 
+C. Release Planning, Iteration Planning, Daily Planning 
+D. Daily Planning, Release Planning, Portfolio Planning 
+Answer: C  
+
+Explanation: Planning across these three time horizons allows Agile teams to focus on what is evident and relevant to the plan that is being created. 
+
+25. Which response strategy can be successful for applying at Conflict Level 1 : Problem to See? 
+A. Consensus 
+B. Negotiate 
+C. Accommodate 
+D. Support 
+Answer: A  
+
+Explanation: Consensus is the strategy which includes learning where every team member’s head is with regard to the issue and, in time, arriving at a decision everyone can back. 
+
+26. You have identified a technical risk with a probability of 20% and Size of Loss as 12 days. What is the Risk Exposure? 
+A. 2.4 
+B. 0.2 
+C. 1.2 
+D. 0.6 
+Answer: A  
+
+Explanation: Risk Exposure is the product of probability and size of loss; Risk Exposure = 20% x 12 = 2.4 
+
+27. Root-causing a defect or testing the feasibility of an algorithm or a third party solution is an example of : 
+A. Risk Census 
+B. Risk Analysis 
+C. Spike 
+D. Risk Assessment 
+Answer: C  
+
+Explanation: Spike is a time-boxed period designated to reduce uncertainty by learning enough about a feature, technology, or process to better estimate, develop, or fix an upcoming feature or defect. 
+
+
+28. Who is the most appropriate person to monitor all the risks in an Agile project? 
+A. Quality Tester 
+B. Customer Support 
+C. Developer 
+D. Project Manager 
+Answer: D  
+
+Explanation: Anybody on the team can be chosen to monitor risks, but the Project Manager is the most suited person for monitoring risks. 
+
+
+29. Which of the following is NOT the responsibility of the retrospective facilitator? 
+A. Create the agenda 
+B. Begin planning the next project 
+C. Observe the team 
+D. Ask questions of the team members 
+Answer: B  
+
+Explanation: The goal of the retrospective facilitator is to look back at the project to assess its successes and challenges. It is his role to create an agenda, solicit feedback and encourage open dialogue between the team members. 
+
+30. What will be the change in the release burn down chart if the team has delivered 30 story points in an iteration? 
+A. The top will move 30 points up 
+B. The top will move 30 points down 
+C. The top will remain stable 
+D. No effect 
+Answer: B  
+
+Explanation: The top will move 30 points down. 
+
+31. Which of the following is LEAST true about Time boxing? 
+A. Time boxing is setting a fixed time limit to overall development efforts and letting other characteristics such as scope vary. 
+B. Control is achieved at the lowest level of time boxing 
+C. Fixes the length of the iteration and the team determines how much functionality can be delivered in that fixed length of time 
+D. Even if you are running behind schedule, you need to complete in the current time box 
+Answer: D  
+
+Explanation: If you are running behind the schedule, postpone it to the next time box. 
+
+32. Which Agile technique is used for estimation wherein team members use playing cards to estimate story sizes? 
+A. Planning cards 
+B. Planning poker 
+C. Story cards 
+D. Planning games 
+Answer: B  
+
+Explanation: Planning Poker is used for estimation wherein team members use playing cards to estimate story sizes. 
+
+33. The process of modifying and revising development code in order to improve performance, efficiency, readability, or simplicity without affecting functionality is known as, 
+A. Refactoring 
+B. Regression 
+C. Relativity 
+D. Elaboration 
+Answer: A  
+
+Explanation: Refactoring is the process of modifying and revising development code in order to improve performance, efficiency, readability, or simplicity without affecting functionality. 
+
+34. Highly desirable features by the customer will be placed in which quadrant of the Risk Value Graph? 
+A. High Risk High Value 
+B. High Risk Low Value 
+C. Low Risk High Value 
+D. Low Risk Low Value 
+Answer: A  
+
+Explanation: High Risk High Value features are highly desirable to the customer but possess significant development risk. Perhaps features in this quadrant rely on unproven technologies, integration with unproven sub-contractors, technical innovation (such as the development of a new algorithm), or any of a number of similar risks. 
+
+35. Getting the entire team together in one room and working on factors that foster communication and motivation that leads to higher productivity in the team. Which of the following is NOT a factor for Ideal Team Space? 
+A. Minimize distractions 
+B. Make available necessary spaces 
+C. Seating arrangement by job description 
+D. Improve the hygiene factors 
+Answer: C  
+
+Explanation: 'Seating arrangement by job description' is a sign of bad team space and not of ideal agile team space. 
+
+36. Which is the tool for tracking and forecasting agile projects? 
+A. Cumulative Flow Diagrams 
+B. Burn up charts 
+C. Burn down charts 
+D. Graph Charts 
+Answer: A  
+
+Explanation: Cumulative Flow diagrams is a tool for tracking and forecasting agile projects. 
+
+37. Task Boards and Big Visible Charts are examples of ? 
+A. Non Agile tools 
+B. Release Planning 
+C. Osmotic Tools 
+D. Information Radiator 
+Answer: D  
+
+Explanation: Information Radiator has been invented by Alistair Cockburn and displays information in a place where passers by can see it. 
+
+38. Which of the following are MOST true about the Product Backlog? 
+A. Higher-priority items are simply stated while lower-priority ones are detailed out 
+B. Higher-priority items are described in more detail than lower-priority ones 
+C. The lower the priority, more the detail 
+D. None of the above 
+Answer: B  
+
+Explanation: Higher-priority items are described in more detail than lower-priority ones. “The lower the priority, the less detail, until you can barely make out the backlog item.” 
+
+39. What is the primary intention of the Daily stand up meeting? 
+A. Inspect and adapt work plans 
+B. Discuss architectural issues 
+C. Prioritize the feature requests from the Project Manager 
+D. Record the team member's attendance 
+Answer: A  
+
+Explanation: Stand up meetings allow the team members to share information among themselves and evaluate the progress of work being done in order to make changes as needed. 
+
+40. If the Product Backlog is 100 points, Velocity is 20 points per iteration and Cost per unit is $1500, what is the Number of iterations? 
+A. 100/20 
+B. 15 
+C. 7 
+D. 8 
+Answer: A  
+
+Explanation: Number of iterations is Product Backlog / Velocity = 100/20 = 5 
+
+41. Which of the following is NOT the skill for Agile coaches for facilitating change? 
+A. Listening 
+B. Reaching agreement 
+C. Learning from failure 
+D. Enlisting support 
+Answer: A  
+
+Explanation: Listening is a skill that the Agile coaches require while working with people 
+
+42. At what level of conflict do the members have an aim to win whereby the prior conflicts and problems remain unresolved? 
+A. Level 1 - Problem to solve 
+B. Level 2 - Disagreement 
+C. Level 3 - Contest 
+D. Level 4 - Crusade 
+Answer: C  
+
+Explanation: At level 3, the aim is to win. A compounding effect occurs as prior conflicts and problems remain unresolved. People begin to align themselves with one side or the other. 
+
+43. Which of the following chart shows the total work in a project? 
+A. Burn up charts 
+B. Burn down charts 
+C. Task board 
+D. Iteration Graph 
+Answer: A  
+
+Explanation: The Burn Up chart, in addition to showing how much work is completed also shows the work in the project (read scope). 
+
+44. Which of the following counts number of new escaped defects found over a period of time? 
+A. Escaped defects found 
+B. New escaped defects 
+C. Cycle time 
+D. Story defects 
+Answer: A  
+
+Explanation: Escaped defects found counts the number of new escaped defects found over a period of time. 
+
+45. In the Kano Model, Features where customer satisfaction is correlated linearly with the quantity of the feature is known as, 
+A. Threshold 
+B. Linear 
+C. Exciters 
+D. Delighters 
+Answer: B  
+
+Explanation: Linear Features are those features where customer satisfaction is correlated linearly with the quantity of the feature 
+
+46. Which of the following projects will you choose : Project A - NPV : $4316, Project B - NPV : $3457, Project C - NPV : $4356, Project D - NPV : $3490 
+A. Project A 
+B. Project B 
+C. Project C 
+D. Project D 
+Answer: C  
+
+Explanation: Choose the Project with the highest NPV. 
+
+47. Which of the following does NOT describe a closed story? 
+A. A recruiter can manage the ads she has placed 
+B. A recruiter can review resumes from applicants for her ads 
+C. A recruiter can change the expiration date of the ads 
+D. A recruiter can delete an application that is not a good match for a job. 
+Answer: A  
+
+Explanation: This is not a closed story because managing the ads she has placed is an ongoing activity. 
+
+48. Which of the following is NOT a reason why activity based planning leads to schedule overruns? 
+A. Activities are finished on time 
+B. Lateness is passed down the schedule 
+C. Activities don’t finish early 
+D. Activities are not independent 
+Answer: A  
+
+Explanation: Of all the stated options, only Option A states a wrong reason for schedule overruns. 
+
+49. An estimating technique that refers to splitting a story or feature into smaller, easier-to-estimate pieces is known as? 
+A. Analogy 
+B. Disaggregation 
+C. Disintegration 
+D. Classification 
+Answer: B  
+
+Explanation: Disaggregation refers to splitting a story or feature into smaller, easier-to-estimate pieces. 
+
+50. As the agile coach, you may be asked to help select a product owner for a team. The managers starting up the work will say, “We have a couple of people in this business area who could be a good product owner for this team. How do we choose one?” Which of the following correctly states the Product Owner's qualities? 
+A. Committed, Responsible, Authorized, Collaborative, and Knowledgeable 
+B. Committed, Responsive, Authorized, Collaborative, and Knowledgeable 
+C. Committed, Responsible, Authorized, Collaborative, and Hard Working 
+D. Committed, Responsible, Democratic, Collaborative, and Knowledgeable 
+Answer: A  
+
+Explanation: The qualities of the Product Owner are Committed, Responsible, Authorized, Collaborative, and Knowledgeable. 
+
+51. Which of the following is the BEST estimation scale for use with estimating large units of work? 
+A. 10,11,13,15 
+B. 1,2,3,5,8 
+C. 12,13,14,17, 20 
+D. 1,1,1,1,0 
+Answer: B  
+
+Explanation: Using non-linear sequences is a better approach because they reflect the greater uncertainty associated with estimates for larger units of work. 
+
+52. Which is the communication technique where you repeat back a summary of what the other person just said to you to confirm understanding? 
+A. Active Listening 
+B. Reflective Listening 
+C. Listening 
+D. Injected Listening 
+Answer: B  
+
+Explanation: Reflective Listening is a communication technique where you repeat back a summary of what the other person just said to you to confirm understanding. Another benefit in this situation is that having the person hear their own ideas in another person’s voice/words may make it easier for them to be objective. 
+
+53. While identifying problems in team dynamics, a common strategy to use is BART Analysis. What does the acronym 'b' stand for in BART? 
+A. Brainstorming 
+B. Boundary 
+C. Between 
+D. Broth 
+Answer: B  
+
+Explanation: The acronym 'B' stands for Boundary. 
+
+54. What is the average time between delivery of completed work items? 
+A. Cycle Time 
+B. Velocity 
+C. Burn down charts 
+D. Burn up charts 
+Answer: A  
+
+Explanation: Cycle Time is the average time between delivery of completed work items 
+
+55. Which tool shows the current status of all the tasks to be done within this iteration - also helps the team understand how they are doing as well as what to do next; making the team self-directing ? 
+A. Kanban Boards 
+B. Burn up charts 
+C. Burn down charts 
+D. Risk Profile Graphs 
+Answer: A  
+
+Explanation: Kanban Board shows the current status of all the tasks to be done within this iteration. The tasks are represented by cards (Post-It Notes), and the statuses are presented by areas on the board separated and labelled. Kanban Board helps the team understand how they are doing as well as what to do next; making the team self-directing. 
+
+56. Feedback is a circular causal process whereby some proportion of a system’s output is returned (fed back) to the input. Which is NOT the feedback used in SCRUM? 
+A. Daily feedback on Sprint Planning 
+B. Product feedback after each sprint 
+C. Process feedback after each sprint 
+D. Feedback to individuals 
+Answer: D  
+
+Explanation: The Feedback specific to SCRUM are listed as options A, B and C. Though option D may be used too, but it is rather a generic feedback that can be used in any project. 
+
+57. Which of the following metrics can be BEST standardized across teams? 
+A. Customer support 
+B. Cycle times 
+C. Business case realization 
+D. Release burn downs 
+Answer: C  
+
+Explanation: The PMO can help the teams to enable timely decision making by standardizing the metrics. 
+
+58. You, as a project manager are in the process of midway review at the end of the first year of a $50K project, the earned value analysis shows that the PV is $25K the EV is $20K and the AC is $15K. What can be determined from these figures? 
+A. The project is behind schedule and over budget. 
+B. The project is ahead of schedule and under budget. 
+C. The project is ahead of schedule and over budget 
+D. The project is behind schedule and under budget. 
+Answer: D  
+
+Explanation: The project is behind schedule and under budget. The data provided in this question is :-BAC=$50K, EV=$20K, PV=$25K, AC=$15K. SV = (EV-PV)=$20K-$25K=-$5K . CV = (EV-AC)=$20K-$15K=$5K . Looking at the data, it is evident that the project is behind schedule but is under budget. 
+
+59. If the team finds and fixes a problem as part of its normal work—in other words, before a story is “done done”, what is TRUE about this? 
+A. It is a bug 
+B. It is not a bug 
+C. It is an issue 
+D. None of the above 
+Answer: B  
+
+Explanation: This is not a bug as this is part of the normal functioning of the team. 
+
+60. What are the basic steps a facilitator should follow when conducting a retrospective? 
+A. Set the stage, Gather data, Generate insights, Decide what to do, Close the retrospective 
+B. Gather data, Decide what to do, Discuss, Close the retrospective 
+C. Set the stage, Generate insights, Gather data, Develop, Close the retrospective 
+D. Gather data, Generate insights, Decide what to do, Develop, Close the retrospective 
+Answer: A  
+
+Explanation: The facilitator should follow the following steps when conducting a retrospective - Set the stage, Gather data, Generate insights, Decide what to and Close the retrospective. 
+
+61. Which tool combines the estimation techniques of expert opinion, disaggregation and analogy? 
+A. Planning Poker 
+B. Planning Games 
+C. Planning Styles 
+D. None of the above 
+Answer: A  
+Explanation: Planning poker combines expert opinion, analogy, and disaggregation into an enjoyable approach to estimating that results in quick but reliable estimates. 
+
+62. You “remind” the team to start stand-up, update the storyboard, complete the tasks they committed to. Which of the following persona do you associate yourself with? 
+A. The Expert 
+B. The Nag 
+C. The Opinionator 
+D. The Seagull 
+Answer: B  
+
+Explanation: The Nag helpfully “reminds” the team to start stand-up, update the storyboard, complete the tasks they committed to, and so on.
+
+63. Which strategy defines operating by itself and with enthusiasm; taking the responsibility and ownership? 
+A. Empowerment 
+B. Brainstorming 
+C. Leadership 
+D. Perceiving 
+Answer: A  
+
+Explanation: Empowerment defines operating by itself and with enthusiasm; taking the responsibility and ownership 
+
+64. Which of the following correctly states the role of the customer? 
+A. Ensure that all team members are pursuing a common vision for the project 
+B. Establish priorities so that the highest-valued functionality is always being worked on 
+C. Make decisions that lead to a good return on the investment in the project. 
+D. Is usually a representative from another group or division. 
+Answer: D  
+
+Explanation: All the stated options except Option D are the primary duties of the Product Owner. 
+
+65. Which elements are important to determine if a project will be an Agile project? 
+A. Complexity and Uncertainty in a project 
+B. Compliance factors 
+C. Governance and cultural factors 
+D. All of the above 
+Answer: D. 
+Explanation: To determine if a project is Agile, you need to consider all the factors. 
+
+66. What is the Cost Performance Index when EV = $13500 and AC = $15000? 
+A. 0.9 
+B. 1.11 
+C. 9 
+D. 11.1 
+Answer: A  
+
+Explanation: CPI = EV / AC = 13500/15000 = 0.9 
+
+67. Which of the following is NOT a practice of Continuous Integration? 
+A. Automate the build 
+B. Keep the build fast 
+C. Do not automate deployment 
+D. Make your build self testing 
+Answer: C  
+
+Explanation: Continuous integration is an approach that keeps everybody’s code integrated and builds release infrastructure along with the rest of the application. 'Automate deployment' is a practice of Continuous Improvement. 
+
+68. A communication forum that is often used in larger projects that scale across multiple agile teams, for the purpose of coordinating resources and dependencies is popularly known as, 
+A. Scrum Team Meeting 
+B. Project Meeting 
+C. Meta Scrum 
+D. Product Meeting 
+Answer: C  
+
+Explanation: Meta Scrum is a communication forum that is often used in larger projects that scale across multiple agile teams, for the purpose of coordinating resources and dependencies. 
+
+69. Personas should be developed for? 
+A. Every user role 
+B. Every team member 
+C. The Whole team 
+D. Primary user roles 
+Answer: D  
+
+Explanation: Developing personas for primary users can help illustrate and express stories. 
+
+70. Which of the following are the activities involved in the Project Closure? 
+A. Clean up open items 
+B. Finalize documentation 
+C. Production of manufacturing support material 
+D. All of the above 
+Answer: D  
+
+Explanation: Project losing involves clean up open items, finalize documentation and production or manufacturing support material, and prepare required end-of-project administrative reports, release notes, and financial reports. 
+
+71. When you coach an agile team, you simultaneously coach them at two levels: the individual level and the whole-team level. There is a time for each/ At the beginning of the Sprint, what is more appropriate - coaching at the whole team level or the individual level? 
+A. Individual Level 
+B. Whole team level 
+C. Both at this stage 
+D. None at this stage 
+Answer: B  
+
+Explanation: Whole-team coaching during sprint planning helps them get better at making shared commitments and creating abundance. 
+
+72. Which of the following is NOT an example asynchronous collaboration? 
+A. Project hosting tools to create one pool of all released project documentation, with email alerts for updates 
+B. Drawing viewing sites (intranet and web-baseD. with view and mark-up capabilities 
+C. Web-hosted meetings 
+D. Email exchange of drawings, models and project information 
+Answer: C  
+
+Explanation: Collaboration can happen synchronously where all participants view information and/or meet at the same time or asynchronously where participants view information and provide feedback at different points in time. Option C, Web hosted meeting is an example of Synchronous meetings. 
+
+73. According to Agile practices, all the team members should daily attend face to face meetings where each team member states his status and plan for the day. This meeting is commonly referred to as: 
+A. Release Planning 
+B. Iteration Planning 
+C. Vision Meeting 
+D. Daily Stand up Meeting 
+Answer: D  
+
+Explanation: Daily Stand up meeting requires all the team members to meet daily and provide their status updates and plan for the day. 
+
+74. Adaptation depends upon understanding a wide range of information, including an assessment of the project's progress, technical risks, the requirements evolution, and ongoing competitive market analysis. Which are the areas where every team needs to constantly evaluate and make appropriate adaptations ? 
+A. Product Value, Product quality, Product status, Team performance 
+B. Product Value, Product constraints, Product status, Team performance 
+C. Product Value, Product quality, Product status, Team motivation 
+D. Product Value, Product testing, Product status, Team performance 
+Answer: A  
+
+Explanation: Every team needs to constantly evaluate and make appropriate adaptations in the following four areas - Product Value, Product quality, Product status, Team performance 
+
+75. What are multistage integration builds used for? 
+A. Running large slow builds 
+B. Running all tests for a build separately 
+C. Running additional tests for performance, load or stability 
+D. None of the above 
+Answer: C  
+
+Explanation: Multistage integration builds involve the running of additional tests for performance, load and stability. 
+
+76. A quantity, proportion, or a qualitative comparison of some kind is popularly known as? 
+A. Metric 
+B. Measure 
+C. Proportion 
+D. Quantity 
+Answer: B  
+
+Explanation: A measure is a quantity, a proportion, or a qualitative comparison of some kind. 
+
+77. In Agile projects, If there are measurement points outside the upper and lower control limits, it indicates that the development process is out of statistical control. Who is responsible for fixing the problem? 
+A. Company management 
+B. Project team 
+C. Project team member 
+D. Product owner 
+Answer: A  
+
+Explanation: If there are measurement points outside the upper and lower control limits, the development process is out of statistical control. That means you have a problem the company management, not the project team, is responsible for fixing. 
+
+78. Which Agile tool involves creating tests before code, and those tests represent expectations of behaviour the software should have? 
+A. Acceptance Test Driven Development 
+B. Test Driven Development 
+C. Test First Development 
+D. Validation 
+Answer: A  
+
+Explanation: Acceptance Test Driven Development involves creating tests before code, and those tests represent expectations of behaviour the software should have. 
+
+79. Which of the following is an example synchronous collaboration? 
+A. Project hosting tools to create one pool of all released project documentation, with email alerts for updates 
+B. Drawing viewing sites (intranet and web-baseD. with view and mark-up capabilities 
+C. Web-hosted meetings 
+D. Email exchange of drawings, models and project information 
+Answer: C  
+
+Explanation: Collaboration can happen synchronously where all participants view information and/or meet at the same time or asynchronously where participants view information and provide feedback at different points in time. Option C, Web hosted meeting is an example of Synchronous meetings. 
+
+80. It is important for developers to be able to estimate the size of a story or the amount of time it will take to turn a story into working code. There are three common reasons why a story may not be estimable. Which of the following may NOT be a reason? 
+A. Developers lack domain knowledge. 
+B. Developers lack technical knowledge. 
+C. The story is valuable to users or customers 
+D. The story is too big. 
+Answer: C  
+
+Explanation: All the stated options except Option C are correct. A good story has primarily six attributes - Independent, Negotiable, Valuable to users or customers, Estimatable, Small and Testable. A story being valuable to the customers is an attribute and not a reason for being not estimatable. 
+
+81. Teams new to Agile will often struggle in the beginning when it comes to participating in retrospectives. Which of the following will NOT be the probable reasons that can pose as Retrospective challenges? 
+A. Fear of wasting time 
+B. Fear of blaming 
+C. Fear of speaking up 
+D. Fear of attending 
+Answer: D  
+
+Explanation: Of all the listed options, Option A, B and C are the probable reasons that can pose as Retrospective challenges. 
+
+82. If you have an extra $300 today and you wish to invest for 5 years and the interest rate is 10%, how much will you have earned at the end of third year? 
+A. 330 
+B. 399.3 
+C. 410.5 
+D. 405.1 
+Answer: B  
+
+Explanation: We can calculate the value at the end of the third year using this formula - 300(1+0.1)^3 
+
+83. A graph that shows the risk severity scores for each risk plotted one on top of the other to give a cumulative severity profile of the project is known as, 
+A. Risk Graph 
+B. Risk Board 
+C. Risk Issue Board 
+D. Risk Profile Graph 
+Answer: D  
+
+Explanation: Risk Profile Graph shows the risk severity scores for each risk plotted one on top of the other to give a cumulative severity profile of the project. 
+
+84. Which of the following Agile practices or tools are used by the team actively to indicate overall status and convey each person’s current commitment? 
+A. Task board 
+B. Burn down chart 
+C. Sprint review 
+D. Retrospective 
+Answer: A  
+
+Explanation: Story or Task Board is actively used by the team to indicate overall status and convey each person’s current commitment. 
+
+85. When should the Product Owner provide feedback on the work results? 
+A. Sprint Review Meeting 
+B. Just in time reviews 
+C. Daily 
+D. Once a week 
+Answer: B  
+
+Explanation: The product owner does not have to wait until the sprint review meeting to provide feedback on work results. It’s often helpful to carry out just-in-time reviews as the results emerge in the sprint. This gives the team an opportunity during the sprint to adjust the results, if necessary. 
+
+86. INVEST is an acronym that defines a simple set of rules used in creating well formed User Stories. What does I stand for in INVEST? 
+A. Independent 
+B. Information 
+C. Indicate 
+D. Investment 
+Answer: A  
+
+Explanation: The 'I' in INVEST stands for Independent. 
+
+87. The sprint backlog comprises all activities necessary to reach the sprint goal. Where is the Sprint backlog created? 
+A. Sprint Planning meeting 
+B. Sprint Review meeting 
+C. Sprint Retrospective Meeting 
+D. Created by the Product Owner only 
+Answer: A  
+
+Explanation: The team creates the sprint backlog in the sprint planning meeting and updates it on a regular basis, at least once per day. 
+
+88. Calculate the velocity for the project team that completes 5 stories in one iteration with the following story points : Story A - 5, Story B - 8, Story C - 3, Story D - 2, Story E - 10 
+A. 26 
+B. 28 
+C. 18 
+D. 25 
+Answer: B  
+
+Explanation: Velocity is calculated by summing the number of story points assigned to each user story that the team completed during the iteration, i.e. Velocity = 5+8+3+2+10 = 28 
+
+89. The Core Agile Values states that it prefers People over Process, Deliverables over Documentation, Collaboration over Contracts and Responding to Change over ________________________. 
+A. Reacting to Change 
+B. Performing to Plan 
+C. Ignoring the Change 
+D. Assessing the Change 
+Answer: B  
+
+Explanation: According to the Agile Values, it states that it prefers Responding to Change over Performing to Plan. 
+
+90. If the Product Backlog is 100 points, Velocity is 20 points per iteration and Cost per unit is $1500, what is BAC? 
+A. $150000 
+B. $100 
+C. $2000 
+D. $30000 
+Answer: A  
+Explanation: BAC = Cost per unit x Product Backlog = $1500 x 100 = $150,000. 
+
+91. Which of the following are NOT the factors used in prioritization? 
+A. Financial value of the features 
+B. Cost of developing the new features 
+C. Amount of risk removed by developing the features 
+D. Cost of removing the new features 
+Answer: D  
+
+Explanation: Of all the listed options, Option D, Cost of removing the new features is not a factor used in prioritization. 
+
+92. In your project, the sum of all the stories is 100 story points. Based on past experience, it is known that the team’s velocity is 10 story points per one-week iteration. How many iterations does the project need to complete the user stories? 
+A. 10 
+B. 1 
+C. 0.1 
+D. 20 
+Answer: A  
+
+Explanation: No. of iterations = 100/10 = 10. 
+
+93. What are the 4 steps involved in the Acceptance Test Driven Development Cycle? 
+A. Discuss, Distill, Develop, Demo 
+B. Discuss, Develop, Test, Demo 
+C. Explore, Discuss, Develop, Demo 
+D. Explore, Distill, Develop, Demo 
+Answer: A  
+
+Explanation: The 4 steps involved in the Acceptance Test Driven Development Cycle are Discuss, Distill, Develop and Demo. 
+
+94. Three components of adaptability in Agile projects are - 
+A. People, Products and Processes 
+B. Projects, Products and Processes 
+C. People, Projects and Processes 
+D. People, Products and Interactions 
+Answer: A  
+
+Explanation: Three components of adaptability in Agile projects are People, Products and Processes. 
+
+95. Velocity assumes a degree of predictability in order to work and needs to be adjusted to accommodate varying degrees of risk. Velocity is a way to reduce the risk of estimation uncertainty. Which form of Risk Response Strategy is this? 
+A. Avoid 
+B. Mitigate 
+C. Transfer 
+D. Accept 
+Answer: B  
+
+Explanation: Mitigate is the right form of Risk Response Strategy from the given options. 
+
+96. A programming technique where two developers work together at a single workstation on the development of a single feature is known as 
+A. Pair Programming 
+B. Persona 
+C. Dual Programming 
+D. Multiple Station Programming 
+Answer: A  
+
+Explanation: Pair Programming is a programming technique where two developers work together at a single workstation on the development of a single feature. 
+
+97. What is the MOST effective way to increase collaboration in an Agile project? 
+A. Increase team documentation 
+B. Increase face to face communication 
+C. Increase team trainings 
+D. Increase the use of collaborative technology 
+Answer: B  
+
+Explanation: Effective collaboration means frequent face to face meetings to exchange ideas. 
+
+98. In evaluating an agile project, which of the following metrics would you use to measure the Agile team's productivity? 
+A. Cycle time 
+B. Release Burn down 
+C. Customer Support 
+D. All of the above 
+Answer: D  
+
+Explanation: Though some of the measurements will be standard regardless of the methodology, other metrics such as release burn downs, customer support and cycle times should be investigated as new ways to measure Agile team productivity. 
+
+99. The release burn down chart allows us to track and forecast project progress. When is this chart created and updated? 
+A. Sprint review meeting 
+B. Sprint retrospective 
+C. Sprint daily meeting 
+D. Product Vision meeting 
+Answer: A  
+Explanation: The release burn down chart is based on the following two factors: the remaining effort in the product backlog, and time. The chart is best created and updated in the sprint review meeting, when the sprint outcome is known. 
+
+100. A set of related user stories that may be combined together and treated as a single entity for either estimating or release planning is referred to as, 
+A. Themes 
+B. Epic 
+C. User story 
+D. Classification 
+Answer: A  
+
+Explanation: Themes are a set of related user stories that may be combined together and treated as a single entity for either estimating or release planning 
+
+101. A copy of all the files in the repository from a particular point in time used in version control software that team members work out on their local development machine is known as, 
+A. Sandbox 
+B. Repository 
+C. Update 
+D. Lock 
+Answer: A  
+
+Explanation: Sandbox, also known as Working copy is what team members work out of on their local development machines. The sandbox contains a copy of all the files in the repository from a particular point in time. 
+
+102. A Team Stage where the student copies “the techniques as taught without modification and without yet attempting to understand the rationale” behind them is known as? 
+A. Shu 
+B. Ha 
+C. Ri 
+D. Ka 
+Answer: A  
+
+Explanation: One good model for mastering anything (if that’s possible) comes from martial arts. A martial arts student progresses through three stages of proficiency called Shu Ha Ri. Shu: Follow the rule. Ha: Break the rule. Ri: Be the rule. 
+
+103. Which of the following is NOT true about SCRUM? 
+A. Only active participants in the sprint (not interested observers or removed stakeholders) may speak during the daily scrum meeting. 
+B. A sprint planning meeting is held midway of each sprint. 
+C. The product owner prioritizes the product backlog. 
+D. No more than two hours may be spent preparing for the sprint review. 
+Answer: B  
+
+Explanation: A sprint planning meeting is held at the start of each sprint and not midway. 
+
+104. Which are the tests that validate that the functionality to be delivered meets customer expectations? 
+A. Integration tests 
+B. Unit tests 
+C. Iteration Tests 
+D. Acceptance tests 
+Answer: D  
+
+Explanation: Acceptance tests are tests that validate that the functionality to be delivered meets customer 
+
+105. How do teams utilize process tailoring and frameworks to deliver final products? 
+A. Teams begin by building their own particular framework and tailor it to the needs of the project and stakeholders 
+B. Teams start with an organization's standard framework and tailor it to their needs 
+C. Teams begin by referencing external frameworks from other organizations and tailor it to their needs 
+D. Teams construct frameworks at the end of the projects to use in future projects, which they can then tailor to their needs as it fits 
+Answer: B  
+
+Explanation: Process Tailoring involves tailoring the Agile processes to cater to a situation. 
+
+106. What does the term "draft" refer to in the context of information flow? 
+A. Fast flowing information 
+B. Random information 
+C. Unwanted information 
+D. Unclear information 
+Answer: C  
+
+Explanation: The term "draft" in the context information flow, stands for unwanted information flowing osmotically between unrelated collocated teams. 
+
+107. A Level of Listening that establishes a hardwired connection between the coach and the speaker, and has been defined by the School of coactive coaching is known as? 
+A. Active Listening 
+B. Focused Listening 
+C. Internal Listening 
+D. Global Listening 
+Answer: B  
+
+Explanation: When listening at Level II, a hardwired connection gets established between the coach and the speaker. The coach is “over there” in the speaker’s chair—intently focused on what the speaker says. Freed from the personal lens, the coach listens and responds in the moment with the questions and silences that help the speaker move through whatever they are expressing. 
+
+108. Which of the following does NOT describe a potential effect of an undetected or escaped defect in product design? 
+A. Loss of comfort 
+B. Loss of life 
+C. Loss of progress made in sunk cost 
+D. Loss of discretionary or irreplaceable money 
+Answer: C  
+Explanation: System criticality, in respect to damage from undetected defects, coincides with a loss of comfort, loss of discretionary or irreplaceable money or loss of life. 
+
+109. Which phase in the Agile project management lifecycle delivers planned stories by managing the workload and using appropriate technical practices and risk mitigation strategies? 
+A. Envision 
+B. Speculate 
+C. Explore 
+D. Close 
+Answer: C  
+
+Explanation: The Explore phase plans and delivers running tested stories in a short iteration, constantly seeking to reduce the risk and uncertainty of the project. 
+
+110. An imaginary representation of a user role is known as, 
+A. Persona 
+B. Goals 
+C. Use Case 
+D. Planning Poker 
+Answer: C  
+
+Explanation: The Explore phase plans and delivers running tested stories in a short iteration, constantly seeking to reduce the risk and uncertainty of the project. 
+
+111. Which of the following is false about Velocity? 
+A. Only completed work is counted towards velocity 
+B. Velocity cannot correct Estimation errors 
+C. Velocity tracks Customer satisfaction 
+D. Velocity tracks “early and continuous delivery” 
+Answer: B  
+
+Explanation: Velocity can correct Estimation errors. 
+
+112. Which of the following MOST accurately states how long should an iteration planning session take? 
+A. 1-2 hours 
+B. Depend on the project 
+C. Depend on the length of the iteration 
+D. B & C 
+Answer: D  
+
+Explanation: 1-2 hours could be a correct answer but most accurately the iteration planning session will depend on the project and the length of the iteration.
+
+113. A standard for measuring or evaluating something. 
+A. Metric 
+B. Measure 
+C. Quantity 
+D. Proportion 
+Answer: A  
+
+Explanation: A metric is a standard for measuring or evaluating something. 
+
+114. Which of the following is NOT a characteristic of a servant leader? 
+A. Listening 
+B. Foresight 
+C. Healing 
+D. Happiness 
+Answer: D  
+
+Explanation: Happiness is not a characteristic of servant leadership while the other 3 listed are characteristics of servant leadership. 
+
+115. Which is the evolutionary (iterative and incremental) approach to programming where agile software developers must first write a test that fails before they write new functional code? 
+A. Test First Development 
+B. Agile Frequent Verification 
+C. Agile Frequent Validation 
+D. Agile Iteration Development 
+Answer: A  
+
+Explanation: Test First Development, also known as Test Driven Development is the evolutionary (iterative and incremental) approach to programming where agile software developers must first write a test that fails before they write new functional code. 
+
+116. Which type of communication is most effective under the Documentation options? 
+A. Audiotape 
+B. Documentation 
+C. Videotape 
+D. Face to Face 
+Answer: C  
+
+Explanation: Videotape is the most effective communication under the Documentation options while Face to Face communication is the most effective under the Modelling options. 
+
+118. Which of the following Agile practices will you pick up if you need to boost the collaboration in your team? 
+A. Weekly status meetings 
+B. Daily stand up meetings 
+C. Iteration planning meetings 
+D. Planning poker games 
+Answer: B  
+
+Explanation: The Daily stand up meeting provides a forum for team members to coordinate activities on a daily basis, monitor status of work, focus on the work to be done and raise problems and issues. 
+
+119. Which of the following BEST describes discounting in terms of financial prioritization? 
+A. Providing discounts on the Actual cost (AC) 
+B. Reducing the effort estimates of features 
+C. Working on the Earned Value (EV) 
+D. Mapping future amounts back to their present value 
+Answer: D  
+
+Explanation: Discounting is the process of mapping the future amounts back to their present values. 
+
+120. A technique for conducting retrospective where no one speaks and all participants are invited to stand up and slide cards on the whiteboard is known as, 
+A. Affinity mapping 
+B. Mute Mapping 
+C. Silent Mapping 
+D. Retrospective Objective 
+Answer: B  
+
+Explanation: Mute Mapping is a variant of Affinity Mapping where no one speaks and all participants are invited to stand up and slide cards on the whiteboard 

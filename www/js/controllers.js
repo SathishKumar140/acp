@@ -85,7 +85,7 @@ function getReplaceStringData(data){
 }
 angular.module('starter.controllers', ['ngCordova'])
 .controller('HomeCtrl', function($scope,$state,$http,$ionicHistory){
-	$scope.totalExam = [1,2,3,4,5,6,7,8,9,10,11];
+	$scope.totalExam = [1,2,3,4,5,6,7,8,9,10,11,12,13,14];
 	$scope.Exam = function(testNumber){
 		exam = testNumber;
 		url = 'txt/QABank_Set'+testNumber+'.txt';

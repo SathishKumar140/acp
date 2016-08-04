@@ -1,0 +1,1363 @@
+1. On a particular project, product quality is being measured at regular intervals and is consistently below the acceptable level. In a Lean environment, how
+should this problem be addressed?
+A. The team should implement more rigorous testing at the end of each development cycle.
+B. Management should direct the team on specific actions that they should take to improve quality.
+C. Management should guide the team as it seeks to improve itself and reduce errors in the system.
+D. The Project Champion should review the acceptable quality threshold to ensure that it is realistic.
+Answer: C
+
+
+
+2. In reference to Scrum, each sprint should produce:
+A. An increment of potentially shippable product functionality.
+B. Aset of documented product requirements and specifications.
+C. Arelease with testable and measurable functionality.
+D. An increment of potentially testable product functionality.
+Answer: A
+
+
+
+3. The primary purpose of a Sprint Review is for the team to:
+A. Demonstrate what was accomplished during the sprint.
+B. Discuss what went well, whatdidn't, and ways to improve.
+C. Prioritize and estimate stories planned for the next sprint.
+D. Individually provide status updates on user stories in progress.
+Answer: A
+
+
+
+4. On what should Agile estimates be based?
+A. A Work Breakdown Structure (WBS) from each iteration aligned with the project management plan
+B. A disciplined iteration schedule, which improves predictability, combined with reaction to changes
+C. Ball park figures collected from past Agile projects with scopes similar to the current project
+D. Initial resource breakdown based on the available person days in the full project duration
+Answer: B
+
+
+
+5. A value stream map is a tool used to identify the:
+A. Waste across the entire process.
+B. Highest value product features.
+C. Most valuable team interactions.
+D. Most likely flow of project risks.
+Answer: A
+
+
+
+6. When estimating initial velocity, the team should most likely:
+A. Discuss among the team their expectations of how many story points they can address.
+B. Use a Kanban workflow to identify steps and calculate velocity.
+C. Use velocity of past iterations or make a calculated guess.
+D. Discuss with the customer their expectation for the velocity of producing the product.
+Answer: C
+
+
+
+7. After three iterations, the problems impeding an Agile team appear to be similar in nature to problems faced in earlier iterations. Inspection of the
+retrospectives for past iterations reveals information organized into columns entitled "What worked for us" and "What did not work for us. " Based on
+this information, one can infer that the team did not capture:
+A. user stories
+B. milestones
+C. action items
+D. requirements
+Answer: C
+
+
+
+8. Which is the best option to improve project velocity?
+A. Shield programmers from interruptions
+B. Minimize customer involvement
+C. Shorten the iteration length
+D. Increase project team size
+Answer: A
+
+
+
+9. A company is starting to introduce Agile practices, and the project manager has been asked to identify how to introduce the new process. The project
+manager's initial plan should be to:
+A. Institute daily standup meetings immediately.
+B. Communicate the Agile Manifesto to the team.
+C. Balance teaching principles with Agile practices.
+D. Rate the team's progress in learning new methods.
+Answer: C
+
+
+
+10. A project team is distributed across multiple countries, and they are having issues agreeing on what is being delivered and how it should be developed.
+Which of the following should the project manager do to alleviate some of the tension between team members, break down cultural barriers, and
+improve communication?
+A. Ask the team to communicate only through email to clearly document issues.
+B. Discuss this issue with senior management and recommend that the team be co-located.
+C. Monitor performance and discuss the issues in detail at the next retrospective.
+D. Hold daily standup meetings with the two teams at a time that works best for everyone.
+Answer: D
+
+
+
+11. The ScrumMaster and the Product Owner disagree on the value of a Product Backlog item. In order to resolve the disagreement, the first step the
+ScrumMaster should take is to ask:
+A. The Product Owner to clarify the requirement.
+B. The business owner to resolve the problem.
+C. The business analyst to research the product value.
+D. Another project manager how to resolve the problem.
+Answer: A
+
+
+
+12. Which management style does Agile advocate?
+A. Task
+B. Team
+C. Product
+D. Performance
+Answer: B
+
+
+
+13. Collaboration can be defined as working together to jointly produce a deliverable or make a decision, whereas coordination is:
+A. Agreeing on a due date.
+B. Sharing information.
+C. Agreeing on the design.
+D. Pair programming.
+Answer: B
+
+
+
+14. Project managers use velocity to determine:
+A. If the team is committing to an appropriate amount of work for the iteration.
+B. How much work each team member is capable of completing during an iteration.
+C. How much work teams that are similar in size are capable of completing during an iteration.
+D. If the Product Owner is prioritizing work appropriately in preparation for iteration planning.
+Answer: A
+
+
+
+15. The most powerful capability of Scrum teams is that they:
+A. Work in timeboxed sprints.
+B. Are self-organized and empowered.
+C. Work from a prioritized backlog.
+D. Value individuals and interactions.
+Answer: B
+
+
+
+16. Which type of story would be used when an estimate is not available due to lack of knowledge of the technology required to implement the story?
+A. Defect
+B. Slack
+C. Spike
+D. Nonfunctional
+Answer: C
+
+
+
+17. What is the responsibility of an extreme Programming (XP) customer role?
+A. Testing the daily increments of the software developed
+B. Writing the stories and acceptance tests for each story
+C. Planning and task allocation for the developer and tester
+D. Interacting closely with users and representing the XP team
+Answer: B
+
+
+
+18. When is the ideal time to hold a retrospective?
+A. Right after iteration planning
+B. Just before iteration planning
+C. At the start of the next release
+D. During the iteration review/demo
+Answer: B
+
+
+
+19. Refactoring, as it applies to the practice of extreme Programming (XP), refers to:
+A. Restructuring the estimate by applying a higher cost performance index during ¡°what if¡± analysis.
+B. Modifying the project due to scope changes, resource availability, and cost and schedule variances.
+C. Modifying the cost baseline due to an increased estimate at completion and a negative cost variance.
+D. Restructuring of code so as to improve the code without changing its external behavior.
+Answer: D
+
+
+
+20. Which of the following would be most likely to assist when a customer has difficulty prioritizing stories?
+A. Split the stories into smaller ones to allow the customer to choose the pieces that they want.
+B. Have the team provide guidance into where their priorities lie to the customer.
+C. Provide additional technical details to give the customer insight into technical challenges.
+D. Have the team rewrite the stories with additional details to clarify requirements.
+Answer: A
+
+
+
+21. When interacting with team members, the Agile project manager should:
+A. Ask team members to do things by phrasing the statement as a request rather than as a demand.
+B. Ignore team member input and emotions when important decisions have to be made.
+C. Proceed cautiously when requesting team members to do something likely to make them unhappy.
+D. Disagree with the team based on the merit of the issue without considering how the team is feeling.
+Answer: A
+
+
+
+22. Which best describes the attributes of the IN VEST criteria in a user story?
+A. Incremental, Net, Variation, Exceed, Scope, and Training
+B. Interdependent, Nonfunctional, Value, Exploratory, Sprint, and Timebox
+C. Innovation, Nested, Vision, Estimating, Scalable, and Team
+D. Independent, Negotiable, Valuable, Estimable, Small, and Testable
+Answer: D
+
+
+
+23. A user story says that a product must be very fast. During the demo, the Product Owner is dissatisfied with the speed of the product. The most likely
+reason that this occurred is because the user story was:
+A. Too large.
+B. Not estimated correctly.
+C. Not testable.
+D. Not descriptive of the value.
+Answer: C
+
+
+
+24. Team A is producing 61 points per iteration and Team B is producing 20 points per iteration. Team A has more senior engineers. A manager demands
+that Team B match Team A's points in the next iteration. Based on this information, it is reasonable to tell the manager that:
+A. it is impossible to compare two separate teams on points alone.
+B. Team B's points will match Team A if Team B gets more senior engineers.
+C. Team B must have help self-organizing so their points match Team A
+D. Team B's points will increase if the Product Owner becomes more involved.
+Answer: A
+
+
+
+25. Which of the following is a list of valid Agile project planning practices?
+A. Release planning, Iteration planning, and Estimation
+B. Estimation, Spike Solutions, and Iteration planning
+C. Iteration planning, Continuous Integration, and Estimation
+D. Vision, Release planning, and Performance Optimization
+Answer: A
+
+
+
+26. Who is responsible for prioritizing the stories that will be included in the iteration?
+A. ScrumMaster
+B. Developer
+C. Product Owner
+D. Team
+Answer: C
+
+
+
+27. On a project using eXtreme Programming (XP), a customer test is a:
+A. Technique to determine if the software is easy for customer use.
+B. Tool for a customer to verify the business requirements.
+C. Technique to determine if a customer will use a software feature.
+D. Test for determining if a customer will purchase the product.
+Answer: B
+
+
+
+28. What is the best description of the relationship between Scrum and extremeProgramming(XP)?
+A. XP is a component of Scrum.
+B. The principles of each are often complementary.
+C. Scrum is a component of XP.
+D. The principles of each are often contradictory.
+Answer: B
+
+
+
+29. Agile project development processes typically:
+A. Encapsulate analysis, design, code, and test within an iteration.
+B. Document each business process individually and in detail.
+C. Use a Gantt chart with well-defined activities, responsibilities, and time frames.
+D. Map the iteration backlog to a Work Breakdown Structure (WBS).
+Answer: A
+
+
+
+30. Which of the following is an example of a visual aid used in Lean-Agile software development?
+A. Business value delivered chart
+B. Product technical specifications
+C. Automated code coverage report
+D. Scrum-of-Scrum report
+Answer: A
+
+
+
+31. Acceptance tests of user stories are specified by the:
+A. Customer at the start of the iteration.
+B. Customer as late as possible during the iteration.
+C. Tester after the team has finished the coding.
+D. Development team at the start of the iteration.
+Answer: A
+
+
+
+32. When an Agile project team receives an "emergency request" during an iteration, which is the best first step that the Agile project manager should take?
+A. Stop work on unfinished user stories and work on the urgent request.
+B. Call a team meeting and change the iteration scope to include the request.
+C. Provide the customer with options provided by the project team.
+D. Explain that the team cannot do the added work until the next iteration.
+Answer: C
+
+
+
+33. The ScrumMaster notices repeated friction between two team members in the Daily Scrum meetings.
+The next step should be to:
+A. Attempt to resolve the problem directly and immediately during a Daily Scrum meeting.
+B. Schedule a meeting with them after a Daily Scrum meeting to explore and resolve the issue.
+C. Ignore the friction because a self-organizing team must sort out team conflict issues.
+D. Ask for new resources to replace them before the friction undermines the team's productivity.
+Answer: B
+
+
+
+34. What is the ideal approach for an Agile project manager to take when considering fractional assignments?
+A. Do nothing, as fractional assignments will not impact project performance.
+B. Allow resources to be assigned to no more than two projects at a time.
+C. Only allow nonessential resources to be fractionally assigned.
+D. Avoid them and have resources assigned to only one project at a time.
+Answer: D
+
+
+
+35. The team estimation game method mainly consists of a:
+A. Pile of cards with user, capability, and value to be prioritized by the project team.
+B. Spreadsheet with backlog issues to be prioritized and each to be given a prioritizationnumber.
+C. White board session where iterations are estimated and related to the project road map.
+D. Brainstorm session where resources are related to prioritized work packages.
+Answer: A
+
+
+
+36. According to the fundamental principles of Lean Management, errors result from:
+A. Inadequate user requirements and documentation.
+B. Misjudgment made by project teams and operations staff.
+C. Flaws in development and production systems.
+D. Insufficient management oversight of projects and operations.
+Answer: C
+
+
+
+37. What is one of the benefits of incremental delivery?
+A. Value is delivered more quickly, as software can be released after every iteration.
+B. More customers can be handled simultaneously, as each regularly receives a delivery.
+C. Fewer bugs are introduced, as code is delivered to users more frequently.
+D. Costs are reduced, as less verification is required to regression test each iteration.
+Answer: A
+
+
+
+38. Which of the following drivers is the most important factor in determining the order in which stories will be developed?
+A. Relative cost
+B. Customer value
+C. Development effort
+D. Dependencies
+Answer: B
+
+
+
+39. The smallest amount of functionality that delivers customer value is best described as a:
+A. Function point analysis.
+B. Right sized story.
+C. Minimum marketable feature.
+D. Userstory map.
+Answer: C
+
+
+
+40. The best reason for extreme character personas in writing user stories is to:
+A. Identify errors in product design and testing.
+B. Help identify user stories that would otherwise be missed.
+C. Provide precision to support vague user concepts.
+D. Provide value to the Sprint planning session.
+Answer: B
+
+
+
+41. In eXtreme Programming (XP), analysis, design, coding, and testing phases are done:
+A. At the beginning of the iteration.
+B. Every day.
+C. In sequence.
+D. Without documentation.
+Answer: B
+
+
+
+42. User stories are temporary artifacts. They are considered relevant until the:
+A. Team completes them.
+B. End of the project.
+C. Release is complete.
+D. End of the sprint.
+Answer: A
+
+
+
+43. In Agile projects, the technique in which planning is done at three distinct horizons is known as:
+A. Monte Carlo Analysis
+B. Portfolio Management.
+C. DelphiTechnique.
+D. Progressive Elaboration.
+Answer: D
+
+
+
+44. A common reason that a story may not be estimable is that the:
+A. team lacks domain knowledge.
+B. business needs are prioritized over the system design.
+C. developers do not understand the tasks related to the story.
+D. team has no experience in estimating.
+Answer: A
+
+
+
+45. For the best results in an Agile project, customers should:
+A. set priorities and identify product features.
+B. interview new team members for fit.
+C. approve development plans and tasks.
+D. set sprint and release schedules.
+Answer: A
+
+
+
+46. What is a high-level representation of the features or themes that are to be delivered in each release?
+A. Release plan
+B. Product roadmap
+C. Iteration plan
+D. Product Backlog
+Answer: B
+
+
+
+47. An Agile team expects a velocity of 8. During sprint planning, the stories were estimatedand prioritized in the following order:
+Story A_4Story Points
+Story B_2Story Points
+Story C_3 Story Points
+Story D_2Story Points
+Which stories should the team include in Sprint 1, without splitting the stories?
+A. Stories A, C, and D
+B. Stories A, B, and C
+C. Stories A, B, and D
+D. Stories B, C, and D
+Answer: C
+
+
+
+48. Agile communication is effective because:
+A. release and iteration planning keep team members aligned, daily synchronization eliminates confusion, and iteration demonstrations keep the team
+focused on deliverables.
+B. Agile communication methods focus on detailed, written requirements and specifications that are more complete and allow the team to manage
+change more effectively.
+C. the use of charts and diagrams over written reports creates clear, targeted communication, and customer involvement in monthly reviews eliminates
+changes in requirements.
+D. daily iteration planning allows change to be managed, and weekly standup meetings ensure that impediments are quickly identified and effectively
+managed or removed.
+Answer: A
+
+
+
+49. The key elements of a user story in Agile development are:
+A. a written description, the story points estimate, and the planned release.
+B. conversations about the story, a written description, and success criteria about the story.
+C. the story points estimate, conversations about the story, and an agreed priority.
+D. tests to determine when the story is done, a written description, and the planned release.
+Answer: B
+
+
+
+50. In Agile risk management, a risk burndown chart is best used to:
+A. Qualitatively analyze the probability of a risk occurring.
+B. Track progress on risk reduction of technical risks.
+C. Document the external risks that could impact the project.
+D. Illustrate the project risk profile and new and changing risks.
+Answer: D
+
+
+
+51. In a vision meeting, the vision for the project is defined and presented by the:
+A. management
+B. project manager
+C. customer
+D. project team
+Answer: C
+
+
+
+52. In the Lean process, the focus is on:
+A. Managing team efficiency.
+B. Optimizing completed work across the process stream.
+C. Using the optimal resources.
+D. Cross training the team to eliminate bottlenecks.
+Answer: B
+
+
+
+53. What is the common communication bridge between the team and the Product Owner?
+A. Burndown chart
+B. Product Backlog
+C. Scrum team meeting
+D. Sprint release plan
+Answer: B
+
+
+
+54. Which of the following best describes a core belief of Agile?
+A. The best customer feedback comes near the end of the project when there is working software to review.
+B. Project status can be gauged by frequently reviewing completed milestones as reflected in the plan.
+C. Working solutions are the most accurate way of seeing the progress of the effort.
+D. Unique skill sets are harnessed when team members play different roles on a project.
+Answer: C
+
+
+
+55. Test-Driven Development (TDD) is a rapid cycle of:
+A. Requirements, coding, and testing.
+B. Testing, coding, and refactoring.
+C. Testing, refactoring, and validation.
+D. Requirements, coding, and refactoring.
+Answer: B
+
+
+
+56. A business analyst has identified a new risk in an Agile project. What is the best first step the business analyst should take regarding this risk?
+A. Call a meeting with the project manager and senior management to determine how the risk will be managed.
+B. Email the project manager and add it to the risk register so that it is discussed during the next daily standup.
+C. Add the risk in a clearly visible location and ensure it is discussed after the next daily stand up.
+D. Call an immediate meeting with all team members to discuss the newly identified risk.
+Answer: C
+
+
+
+57. What are the primary outputs of a release planning session?
+A. Release vision, assumptions, action items, and iteration goals
+B. Prioritized Product Backlog, risks, action items, and release goals
+C. Estimated iteration velocities, risks, action items, and Release Backlog
+D. Risks, action items, dependencies, and Release Backlog
+Answer: D
+
+
+
+58. Applying the Pareto rule when prioritizing the Product Backlog means that:
+A. features that are lower priority are more likely to slip to the next iteration.
+B. the value of a feature is not realized until the feature is complete.
+C. more recent requests are usually more important to the business.
+D. a small percentage of the work will provide a large percentage of the value.
+Answer: D
+
+
+
+59. At a strategic level, what is the most appropriate way for an Agile team to estimate a project?
+A. Creating a strategic plan by estimating hours and days required
+B. Using an abstract measurement to estimate Product Backlog items
+C. Estimating source lines of code needed to implement the features
+D. Taking an initial set of estimates and adding an appropriate risk factor
+Answer: B
+
+
+
+60. A development team has finished identifying the tasks they will be accountable for during the next sprint. Which of the following tools best provides
+transparency into the progress throughout the sprint?
+A. Burndown chart
+B. Gantt chart
+C. Hours expended chart
+D. Management baseline chart
+Answer: A
+
+
+
+61. The term ¡°last responsible moment¡± refers to the moment at which:
+A. the iteration testing deadline arrives and code testing must stop.
+B. failing to make a decision eliminates an important alternative.
+C. release planning is complete and the first iteration planning starts.
+D. the implementation date is set and sponsor approval has been received.
+Answer: B
+
+
+
+62. Who is responsible for determining the business value of each feature?
+A. Product Owner
+B. Steering committee
+C. ScrumMaster
+D. Team
+Answer: A
+
+
+
+63. During the daily standup meeting, a team member states that an issue has been encountered. This leads to the team members getting into a problemsolving
+discussion. How should the ScrumMaster respond?
+A. Ask the team members to table the discussion until after the meeting is over.
+B. If the item is really important, allow the discussion to expedite resolution of the issue.
+C. Abruptly end the daily standup meeting and schedule another meeting to discuss the issue.
+D. Ask the team how they would like to use the daily standup meeting for that day.
+Answer: A
+
+
+
+64. Risk exposure is the:
+A. Funds set aside to contain the risk.
+B. Probability a risk will occur.
+C. Amount of money the risk will cost if it occurs.
+D. Amount of damage to the project if the risk occurs.
+Answer: A
+
+
+
+65. When developing user stories, user expectations are best captured in what form?
+A. Acceptance tests
+B. Entrance criteria
+C. Done criteria
+D. Go and no-go limits
+Answer: A
+
+
+
+66. The most appropriate model for a geographically distributed project team is one in which the team is distributed across:
+A. relatively few locations, with each location team comprised of a complete development group developing decoupled subsystems.
+B. locations in the same time zone, working on the same systems while leveraging rich communication channels.
+C. relatively few locations, and tasks are divided along functional lines with design in one location, coding in another, and testing in another.
+D. many locations, with relatively few people at each location developing and testing decoupled subsystems.
+Answer: A
+
+
+
+67. What are three processes used to begin an Agile project?
+A. Iterations, Product Road map Planning, and Number of Sprint Iterations
+B. Visioning, Product Roadmap Planning, and Product Backlog Definition
+C. Visioning, Product Backlog Definition, and Project Charter Creation
+D. Burndown chart, Product Roadmap, and sprints'length
+Answer: B
+
+
+
+68. eXtreme Programming (XP) teams strive to avoid:
+A. Incremental design and architecture.
+B. Pair programming.
+C. Manual regression testing.
+D. Test-Driven Development (TDD).
+Answer: C
+
+
+
+69. Agile Earned Value Management (EVM) would be a valuable technique for managing a project because the:
+A. project is in a CM MI-certified organization.
+B. customer wants to maximize delivered value,
+C. cost performance must be reported.
+D. team is newly formed or new to Agile.
+Answer: C
+
+
+
+70. What is the role in an eXtreme Programming (XP) project that ensures the right project processes are applied?
+A. Domain Expert
+B. Product Owner
+C. ScrumMaster
+D. Coach
+Answer: D
+
+
+
+71. A common estimation unit for Agile projects is:
+A. Lines of code.
+B. Function points
+C. Story points.
+D. Use-case points.
+Answer: C
+
+
+
+72. In an Agile approach, project values are most effectively implemented when they are determined by the:
+A. sponsor
+B. team
+C. project manager
+D. methodology
+Answer: B
+
+
+
+73. Velocity is the:
+A. total number of Product Backlog hours completed in an iteration divided by the number of developers.
+B. measured rate at which teams turn Product Backlog items into running, tested features.
+C. measured rate at which the project manager turns the Product Backlog into tested features.
+D. total number of Product Backlog hours completed when developers work in pairs.
+Answer: B
+
+
+
+74. A ScrumMaster:
+A. prioritizes the work for each iteration.
+B. directs the activities of the team.
+C. provides leadership, guidance, and coaching.
+D. manages the project scope and budget.
+Answer: C
+
+
+
+75. When moving to Agile project management, a key factor for the project manager's success will be:
+A. shifting from a controlling mindset to a facilitating mindset
+B. directing the work in a more incremental fashion
+C. only assigning tasks for the nextiteration
+D. giving up control and rotating management through the team
+Answer: A
+
+
+
+76. On a team new to Scrum, two team members are disrupting the daily standup with a side conversation.
+The ScrumMaster should:
+A. wait until the standup is over and then talk to the disruptive team members.
+B. immediately intervene to remedy the disruptive situation.
+C. record the issue and then raise the issue at the Sprint Retrospective.
+D. wait for the empowered, self-organizing team to resolve the issue.
+Answer: B
+
+
+
+77. Which of the following best represents both a principle of the Agile manifesto and a Lean method of simplicity?
+A. Maximizing the amount of work not done
+B. Delivering early and continuously
+C. Welcoming changing requirements
+D. Deciding at the last responsible moment
+Answer: A
+
+
+
+78. Who is responsible for the "definition of done"?
+A. The team
+B. The Product Owner
+C. Management
+D. Project manager
+Answer: A
+
+
+
+79. The purpose of a project burndown chart is to:
+A. Identify and communicate upcoming milestones.
+B. Display the level of effort and resources utilized.
+C. Identify dependencies between sprints or iterations.
+D. Display the remaining work across time.
+Answer: D
+
+
+
+80. Which of the following statements is an accurate value statement of the Agile Manifesto?
+A. People and places over processes and guidelines
+B. Customer collaboration over contract negotiation
+C. Working software over complete specifications
+D. Managing change over managing a plan
+Answer: B
+
+
+
+81. A ScrumMaster consistently holds Daily Scrums and keeps them to 15 minutes or less. The ScrumMaster brings a list of assigned tasks and checks the
+status of each task with the relevant team members. The ScrumMaster then assigns new tasks for the day and ends the meeting. Is this an appropriate
+approach to running Daily Scrums?
+A. Yes, the ScrumMaster should get status updates and distribute new tasks to the team.
+B. Yes, the ScrumMaster should hold Scrums daily and keep the time to 15 minutes or less.
+C. No, the ScrumMaster should act in the role of facilitator to foster team self-organization.
+D. No, the ScrumMaster should allow the Scrum to run as long as is required by the team.
+Answer: C
+
+
+
+82. Which of the following is part of the 12 practices defined in eXtreme Programming (XP)?
+A. Risk management
+B. Small releases
+C. Project management
+D. Project charter
+Answer: B
+
+
+
+83. Spike solutions are appropriate when:
+A. the business requirements are vague or inadequate for an iteration.
+B. a technology is understood well and has been used for a while, but needs a problem to be debugged.
+C. there is insufficient time to refactor, but there is a need to resolve a specific problem.
+D. a specific technicalNO:needs to be answered, stopping work on the spike as soon as it answers that question.
+Answer: D
+
+
+
+84. The velocity chart, storyboard, burndown chart, and impediment list are often communicated using:
+A. Status reports.
+B. Information radiators.
+C. Portfolio presentations.
+D. Project data packages.
+Answer: B
+
+
+
+85. An organization adopts Agile practices and implements an incremental delivery strategy. If implemented correctly, the company should recognize
+improved:
+A. procurement processes by requiring vendors to ship materials as needed.
+B. project cost management by making incremental payments on contracts.
+C. customer satisfaction by specifying project shipping dates in the contract.
+D. project Return on Investment (ROI) by releasing individual features to market.
+Answer: D
+
+
+
+86. The advantage of face-to-face collaboration emphasized in eXtreme Programming (XP) is that it:
+A. allows team members to use common language in their design and code.
+B. delays feedback much more than scheduled inspections.
+C. eliminates communication delays and misunderstandings.
+D. allows team members to correct some mistakes on the fly.
+Answer: C
+
+
+
+87. What is used to provide a simple medium for gathering basic information about stories, recording high- level requirements, developing work estimates,
+and defining acceptance tests?
+A. Story card
+B. Burndown chart
+C. Retrospective
+D. Storyboard
+Answer: A
+
+
+88. A high-performance Agile team:
+A. is fully committed to team success yet respects the prescribed roles and titles of team members.
+B. owns its decisions and commitments and is motivated to succeed at any cost.
+C. is self-organizing, empowered to make decisions, and consensus-driven, with constructive disagreement.
+D. produces a high volume of business value through intensive collaboration and avoidance of conflict.
+Answer: C
+
+
+
+89. When using Agile Earned Value Management (EVM), progress should be measured at which level?
+A. Task
+B. Iteration
+C. Product
+D. Release
+Answer: D
+
+
+
+90. Which of the following techniques best encourages osmotic communication?
+A. Reviewing requirements frequently with the Product Owner
+B. Having the Product Owner attend daily standups
+C. Inviting the customer to attend every iteration demo 
+D. None
+Answer: D
+
+
+
+91. The best approach to estimate the work on a project when using story points is to have:
+A. Team members assign estimates by averaging Planning Poker cards.
+B. The most senior team member prepare the estimates.
+C. Two or three senior team members estimate and take the average of their times.
+D. The team work together to agree on estimates in a group setting.
+Answer: D
+
+
+
+92. A technique showing Kanban work stages by comparing counted features over a time interval is called a/an:
+A. Earned value system.
+B. Fully integrated backlog.
+C. Cumulative flow diagram.
+D. Progressive elaboration.
+Answer: C
+
+
+
+93. Information transmission is greatest amongst team members who are working on:
+A. Individual tasks in the same work area.
+B. The same task through pair programming.
+C. The same group of tasks individually.
+D. Different tasks on the same project.
+Answer: B
+
+
+
+94. Which of the following is most appropriate to always participate in Planning Poker?
+A. Product Owner
+B. Stakeholders
+C. Team members
+D. Project manager
+Answer: C
+
+
+
+95. How does Empirical Process Control support Agile methodologies?
+A. Testing, requirements, and adaptation
+B. Testing, requirements, and change
+C. Visibility, review, and testing
+D. Visibility, inspection, and adaptation
+Answer: D
+
+
+96. The three questions asked at every Daily Scrum should be: "What have you accomplished since the last Daily Scrum?";"What are you planning to
+accomplish between now and the next Daily Scrum?"; and:
+A. What is preventing you from completing your work effectively?
+B. What is yourcurrent performance velocity?
+C. Are you on track to complete assigned story points?
+D. How many story pointswill you complete this sprint?
+Answer: A
+
+
+
+97. In Agile projects, how are planning outputs shared with stakeholders?
+A. Using the most highly visible method possible
+B. On a need-to-know basis depending on role
+C. According to the project communications plan
+D. Through a series of stakeholder meetings
+Answer: A
+
+
+
+98. Which of the following is critical for the success of distributed Agile teams?
+A. Cost containment
+B. High volume of communication
+C. Shared knowledge
+D. None
+Answer: D
+
+
+
+99. Which technique is used by a project team to estimate the amount of work that can be done per iteration?
+A. Velocity measurement
+B. Relative prioritization
+C. Planning Poker
+D. Release planning
+Answer: A
+
+
+
+100. Which three criteria should be looked at when setting iteration length?
+A. Time needed to complete a user story, time needed to build and test the stories, and product team acceptance of the stories
+B. Timeframe in which the stories must be released, the cost to deliver the features to market, and product team acceptance of the stories
+C. Delivering chunks of user-valued functionality, time needed to build and test the stories, and product team acceptance of the stories
+D. Features that categorize the product, the time needed to complete the features, and the cost to deliver the features to market
+Answer: B
+
+
+
+101. Team velocity is used to:
+A. Measure the percentage of features completed.
+B. Judge productivity within the iteration.
+C. Predict schedules for mature teams.
+D. Give feedback on delivered value.
+Answer: C
+
+
+
+102. An Agile team best ensures product quality through:
+A. The development team's use of pair programming.
+B. Quality assurance's daily collaboration with the development team.
+C. More frequent inspection after each iteration.
+D. Feedback gathered during iteration retrospectives.
+Answer: C
+
+
+
+103. The Kaizen philosophy is change:
+A. For the better.
+B. Driven by process improvement.
+C. Driven by teams.
+D. Forsmallgroups.
+Answer: D
+
+
+104. Following chart lists stories for a release of an Agile project;
+
+	Story	Story Points
+	A	4
+	B	5
+	C	6
+	D	5
+	E	4
+	F	6
+	G	1
+
+If the team completes Story A, Story B, and 50% of Story C for the first iteration, what is the team's velocity?
+A. 9
+B. 10
+C. 12
+D. 15
+Answer: A
+
+
+
+105. Following chart lists stories for a release of an Agile project;
+
+	Story	Story Points
+	A	4
+	B	5
+	C	6
+	D	5
+	E	4
+	F	6
+	G	1
+
+If the velocity of the team is 10, how many iterations will be needed to complete all of the stories?
+A. 3
+B. 4
+C. 5
+D. 7
+Answer: B
+
+
+
+106. Since the last iteration, the team has grown from six members to 14 members. As a result, in the current iteration, the team room is crowded and
+uncomfortable during the team's daily standup. It takes the team longer than the ideal amount of time to complete their standup, which creates problems
+for the team's current schedule. Based on this information, the project manager should:
+A. Move the standup to a conference call format so space is not a problem.
+B. Increase the standup duration and update the team's calendars.
+C. Assign each team member a maximum speaking time for future standups.
+D. Split the team into sub teams and have them schedule separate standups.
+Answer: B
+
+
+
+107. Which type of estimate refers to estimating a story based on its relationship to one or more other stories?
+A. Algorithmic
+B. Computational
+C. Triangulating
+D. Rules of Thumb
+Answer: A
+
+
+
+108. A project team estimates that they should complete 30 story points in the current iteration. Partway through the iteration they realize that they will
+complete 50 story points at their current rate. The team should:
+A. Shorten the iteration to meet the estimated velocity.
+B. Continue to work with the estimated velocity.
+C. Increase their estimated velocity.
+D. Release members to meet the estimated velocity.
+Answer: D
+
+
+
+109. For a critical project, a new team has been formed from various departments. The project manager should start team building by:
+A. Creating a project charter, documenting roles and responsibilities of each member, and sending it to the team members.
+B. Taking the team offsite for icebreaker sessions and other activities to ensure team members get to know each other.
+C. Assembling the team and discussing roles and responsibilities of each member on the team.
+D. Assembling the team and asking the members to achieve a milestone in a small iteration.
+Answer: C
+
+
+
+110. When are acceptance tests typically written for a user story?
+A. After coding the story, but before user acceptance testing begins
+B. After writing the story, but before coding begins
+C. At the start of Product Backlog prioritization planning
+D. After estimating the Product Backlog, but before Sprint planning begins
+Answer: C
+
+
+
+111. Which of the seven principles of software development is best intended to solve the problem of inventories causing hidden errors in the process?
+A. Fast-Flexible-Flow
+B. Optimize the Whole
+C. Deliver Early and Often
+D. Eliminate Waste
+Answer: D
+
+
+
+112. What do project reports show during the Sprint review meeting?
+A. Estimates compared to the baseline
+B. Actual results to the plan
+C. Return on investment (ROI)
+D. Earned value measurement (EVM)
+Answer: C
+
+
+
+113. The purpose of "setting the stage'' in a project retrospective is to:
+A. Restate the goal of the meeting and create an open atmosphere.
+B. Review the scope statement and summarize project results.
+C. Elevate the team's morale and ensure that everyone participates.
+D. Describe the next Iteration and discuss lessons learned.
+Answer: A
+
+
+
+114. A full cycle of design-code-verifyrelease practiced by extreme Programming (XP) teams is called:
+A. Story
+B. Timebox
+C. Iteration
+D. Burndown
+Answer: C
+
+
+
+115. In a Lean Software Development environment, the Project Leader strives to eliminate:
+A. Work in Process (WIP) and bugs.
+B. Delays and building what is not needed.
+C. Defects and features with low value stream values.
+D. Poor requirements and changing scope.
+Answer: C
+
+
+
+116. During iteration planning, the team is discussing the design for a user story. A team member states that a design document should be started since the
+system is complex in nature. Another team member responds that in Agile there is no documentation. How should the ScrumMaster respond?
+A. Agree that documentation should be avoided, since it slows the progress of the team.
+B. Explain that interactions are valued over documentation, but documentation is not forbidden.
+C. Ask the manager if the technical processes mandate that designs be documented.
+D. Ask the Product Owner if it is acceptable for the resources to spend time on documentation.
+Answer: B
+
+
+
+117. For a "caves and commonroom arrangement, the most appropriate prerequisite is that the people in the room must be working on:
+A. Whatever they choose.
+B. Individual projects.
+C. The same set of multiple projects,
+D. The same project.
+Answer: D
+
+
+
+118. What key benefits might stakeholders realize from an Agile approach?
+A. The ability to bypass the change-management process, inserting new requirements and changes directly into the team as they meet daily
+B. The early and continuous delivery of valuable software, providing increased visibility and the opportunity for more frequent adjustments
+C. Increased access to the project and less reliance on formal reports and status meetings to better understand the current work and the risks the team
+is accepting
+D. The team's flexibility to make changes mid-iteration as business needs or priorities change, increasing the ability of the team to meet project
+commitments
+Answer: B
+
+
+
+119. What is the first thing that a team should do to estimate user stories for a project?
+A. Sort the user stories according to priority.
+B. Schedule a team meeting to understand them.
+C. Define the story points measure.
+D. Estimate through function point analysis.
+Answer: C
+
+
+
+120. Which term best describes an Agile project's approach to risk analysis?
+A. Regression
+B. Pareto
+C. Qualitative
+D. Monte Carlo
+Answer: D
+
+
+
+121. The primary purpose of a Sprint retrospective is for the team to:
+A. Review stories planned for the next sprint and provide estimates,
+B. Demonstrate completed user stories to the Product Owner.
+C. Discuss what went well, what didn't, and ways to improve.
+D. Individually provide status updates on user stories in progress.
+Answer: C
+
+
+
+122. Continuous integration ensures that a product is:
+A. Ready to ship when all features are complete.
+B. Delivered for testing at the end of each day.
+C. Technologically ready to deploy at any time.
+D. Deployed after final business approvals.
+Answer: C
+
+
+
+123. Which tool allows the Product Owner to focus on providing the greatest value and Return on Investment (ROI) to the organization?
+A. Burn up chart
+B. Product Backlog
+C. Affinity estimate
+D. Cost Benefit Analysis (CBA)
+Answer: B
+
+
+
+124. The best description of the purpose of the daily standup in Agile projects is to:
+A. Resolve the key issues and risks that are likely to hinder project progress.
+B. Provide insight and reassurance to the Product Owner to strengthen that relationship.
+C. Inform the project lead of project status for reporting to stakeholders.
+D. Raise the visibility of each person's work and to ensure the work is integrated.
+Answer: D
+
+
+
+125. Which are some of the most important benefits of an Agile team sitting together in a co-located, open environment?
+A. Osmotic communication is reduced; space is used more efficiently; groups work together more effectively, and team dynamics are improved.
+B. Costs are reduced as the need for conference rooms decreases, and the team can keep track of where members are more accurately.
+C. Team members can be held more accountable for their time and effort, and pair programming is easier as people have less distance to move to sit
+with their partner.
+D. Communication is improved; wait-time and rework are reduced; barriers between groups break down, and groups gain respect for each other
+professionally.
+Answer: D
+
+
+
+126. Based on the following figure, during Iteration 5, there was an increase in story point value (shown on the graph); however, the team completed all of the
+work it promised to deliver in the iteration and existing estimates were not changed. From this information, one can inferthat:
+A. Work was removed from the Product Backlog.
+B. Work was added to the Product Backlog.
+C. The team's velocity increased.
+D. The team's velocity decreased.
+Answer: B
+
+
+
+127. Which of the following is a list of capabilities, features, and stories that the Product Owner has identified?
+A. Burndown chart
+B. Story card
+C. Vision document
+D. Backlog
+Answer: D
+
+
+
+128. Which layer of the product planning structure defines details at the capability or feature level?
+A. Iteration
+B. Roadmap
+C. Release
+D. Wave
+Answer: C
+
+
+
+129. In an Agile approach, at which meeting does a team examine the effectiveness of risk responses by conducting a risk audit?
+A. Release planning
+B. Sprint planning
+C. Sprint Retrospective
+D. Daily Scrum
+Answer: C
+
+
+
+130. A story point is the:
+A. Relative measure of the size of a user story.
+B. Duration it takes to complete a user story.
+C. Priority of the user story in the backlog.
+D. Business value of the user story.
+Answer: A
+
+
+
+131. According to the Agile Manifesto, which of the following describes the more valued items?
+A. Customer collaboration, following a plan, working software, and individual interactions
+B. Working software, individual interactions, responding to change, and comprehensive documentation
+C. Individual interactions, working software, customer collaboration, and responding to change
+D. Responding to change, individual interactions, processes and tools, and customercollaboration
+Answer: C
+
+
+
+132. When facilitated and managed well, the primary benefits of a project retrospective should be to:
+A. Increase empowerment and enjoyment for the team.
+B. Identify the most important issues for the sponsors.
+C. Provide an open forum for team member complaints.
+D. Allow the team to get ahead on release planning.
+Answer: D
+
+
+
+133. In a Lean project environment, visual controls:
+A. Can be used by management for communicating specific corrective direction.
+B. Are easy to use, reflect the team's progress, and show the team what to do next.
+C. Are helpful while the team is forming but are less important for more experienced teams.
+D. Should be kept to a minimum to avoid distracting the team from high-value activities.
+Answer: A
+
+
+
+134. How is the participatory design process characterized?
+A. A well-planned and well-documented process is documented for each of the iterations in the project.
+B. Users including project team members participate in the planning process for the project plan.
+C. End users participate and assist in the design process from the beginning of the project.
+D. A high level brainstorming process is conducted for the project team and the project sponsor.
+Answer: C
+
+
+
+135. What is one of the main benefits that Lean portfolio management provides to a business?
+A. Maximizing work-in-progress
+B. Quality and thoughtfulness
+C. Line of sight to business needs
+D. Maximizing multitasking
+Answer: C
+
+
+
+136. The purpose of the iteration retrospective is to:
+A. Report progress of the work effort, what work will be done next, and review impediments to progress.
+B. Prioritize the Product Backlog, generate development and testing estimates, and plan the next iteration.
+C. Provide a demonstration of the features developed during the iteration, get feedback from users, and begin testing.
+D. Identify what worked well, what did not work well, and what actions should be taken to improve the process.
+Answer: D
+
+
+
+137. Which answer best describes Wide Band Delphi (e. g. Planning Poker) estimating?
+A. Team members provide story estimates individually and discuss their reasoning until a consensus on the estimate is reached.
+B. Team performance on prior projects is analyzed, and actual hours and durations are used to determine estimates for similar user stories.
+C. Team members apply relative sizing to each task, and story points are triangulated based on the other stories in the Sprint Backlog.
+D. Team members assign a realistic and a pessimistic estimate to each story, and points are assigned based on the calculated average.
+Answer: A
+
+
+
+138. Retrospectives provide an opportunity for the team to:
+A. Reflect at the end of every iteration and identify improvements that will increase the quality of the product.
+B. Participate in a mandatory meeting to share status updates across the team and to ensure that everyone is on track.
+C. Understand from the management if the project is achieving the Scope, Quality, Cost, and Schedule goals.
+D. Set goals at the beginning of the iteration and identify requirements that can be delivered in that iteration.
+Answer: A
+
+
+
+139. Scrum practices are facilitated by the:
+A. ScrumMaster.
+B. Product Owner.
+C. Project Sponsor.
+D. Scrum team.
+Answer: A
+
+
+
+140. The process of reviewing, testing, and accepting implemented features is called:
+A. Retrospective.
+B. Stakeholder review.
+C. Scope verification.
+D. Iteration planning.
+Answer: C
+
+
+
+141. During which activity is the sequence of numbers 0, 1, 2, 3, 5, 8, 13 often used?
+A. Denoting development sequence
+B. Estimating development hours
+C. Indicating priority of a story
+D. Estimating points of a story
+Answer: C
+
+
+
+142. A "Scrum of Scrums" meeting is:
+A. Another name for the daily standup project meeting in a Scrum team.
+B. Amechanism that coordinates multiple teams working on a single project.
+C. Aproject meeting that happens twice every day across the Scrum teams.
+D. An occasional leadership meeting that provides direction to multiple Scrum teams.
+Answer: B
+
+
+
+143. The cost estimation techniques used on Agile projects are:
+A. Rule of thumb
+B. Bottom-up
+C. Parametric
+D. Top-down
+Answer: D
+
+
+
+144.Estimating costs for an Agile project starts with which of the following types of meetings?
+A. Project Retrospective
+B. Steering Committee
+C. Release Planning
+D. Sprint Planning
+Answer: C
+
+
+
+145. Who is responsible for making sure that each user story is associated with at least one user role or persona?
+A. User
+B. Developer
+C. Customer
+D. Persona
+Answer: C
+
+
+
+
+
+
