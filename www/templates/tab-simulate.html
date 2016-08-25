@@ -45,15 +45,15 @@
 	  	<div class="acp-line abs"></div>
 	  	<div class="abs acp-actual-score">{{score}}</div>
 	  	<div class="abs acp-total-score">{{numberOfQuestions}}</div>
-	  	<button ng-click="reviewAnswers()" class="button button-dark acp-review-answer">
+	  	<!-- <button ng-click="reviewAnswers()" class="button button-dark acp-review-answer">
 			  Review Your Answers
-		</button>
+		</button> -->
 	  </div>
   </ion-content>
   <ion-footer-bar align-title="left" class="bar-calm">
 	<i ng-click="changeQuestion('Prev')" ng-show="prevEnd" class="button button-dark ion-chevron-left ion-left abs btn-padding"></i>
 	<button ng-show="submitBtn" ng-click="completeTest()" class="button button-dark acp-submit abs">Submit</button>
-	<button ng-show="saveBtn" ng-click="saveReview()" class="button button-dark acp-submit abs">Save</button>
+	<button ng-show="saveBtn" ng-click="saveReview()" class="button button-dark acp-save abs">Save</button>
 	<i ng-click="changeQuestion('Next')" ng-show="nextEnd" class="button button-dark ion-chevron-right ion-right btn-padding"></i>
   </ion-footer-bar>
 </ion-view>

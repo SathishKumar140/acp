@@ -54,8 +54,11 @@
 	color:#2a2a2a;
 	font-weight: bold;
 }
+.acp-save{
+	margin-left: 30%;
+}
 .acp-submit{
-	margin-left: 43%;
+	margin-left: 45%;
 }
 .btn-padding{
 	padding: 0px 20px !important;

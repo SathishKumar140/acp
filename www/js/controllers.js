@@ -221,6 +221,12 @@ angular.module('starter.controllers', ['ngCordova'])
 		$scope.testResults.push({'Qid':i+1,'selected':0,'correct':0})
 	}
 
+	if($state.current.name==='tab.simulate'){
+		$scope.saveBtn = true;
+		$scope.simulateReview = true;
+		$scope.setReviewId = true;
+	}
+
     $scope.startTimer = function (){
         $scope.$broadcast('timer-start');
         $scope.timerRunning = true;
@@ -240,7 +246,7 @@ angular.module('starter.controllers', ['ngCordova'])
     });
 
 	$scope.changeQuestion = function(value){
-		if($scope.review){
+		if($scope.review || $scope.simulateReview){
 			$scope.saveBtn = true;
 		}
 		$scope.setCurrentQuestion();

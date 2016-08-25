@@ -1,3 +1,4 @@
+
 1. In release planning, where does an agile team typically record acceptance criteria for a user story?
 A. On the product data sheet
 B. On the back of user story cards
@@ -76,280 +77,158 @@ B. Inflexible
 C. Unbending
 D. Evolving
 Answer: D 
-Explanation: All agile efforts have project and quality standards that the team defines collaboratively at the beginning of an effort and refines collaboratively throughout the effort. Project and
-quality standards help an agile team with team cohesion and provide a structure, albeit one that can adapt as the project evolves, to promote a selfdisciplined environment. There is no ‘one size fits all’ standards definition in agile; because every project is different, it has been shown that the team should define which project and quality standards it should hold itself against and strive to conform to those standards while also being open to adapting those standards throughout the project to optimize performance and delivered value. Project standards can range from where the daily stand-up meeting is located and how long each participant has to share his or her progress and challenges to highly specific software coding styles, methods for test-driven development, and what the team’s definition of ‘done-done’ means. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and
-Skills: Level 1]
+Explanation: All agile efforts have project and quality standards that the
 
 11. Select the best adjective that describes an agile team's project and quality standards.
 A. Fluid
 B. Inflexible
 C. Stiff
 D. Unbending
-Answer: A 
-Explanation: All agile efforts have project and quality standards that the team defines collaboratively at the beginning of an effort and refines collaboratively throughout the effort. Project and
-quality standards help an agile team with team cohesion and provide a structure, albeit one that can adapt as the project evolves, to promote a selfdisciplined environment. There is no ‘one size fits all’ standards definition in agile; because every project is different, it has been shown that the team should define which project and quality standards it should hold itself against and strive to conform to those standards while also being open to adapting those standards throughout the project to optimize performance and delivered value. Project standards can range from where the daily stand-up meeting is located and how long each participant has to share his or her progress and challenges to highly specific software coding styles, methods for test-driven development, and what the team’s definition of ‘done-done’ means. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 1]
-
 12. Barry and his agile team just completed an iteration. The team has reserved a block of time to devote to reviewing its performance in the iteration. What is this agile principle called?
 A. Iteration speculation
 B. Information burnup
 C. Information burndown
 D. Reflection
-Answer: D 
-Explanation: During reflection an agile team takes a break after completing an iteration to pause and contemplate about its performance. Topics include: lessons learned from successes and
-failures, such as programming methods that were highly efficient or inefficient; how to reinforce successful practices, such as new testing standard practices; how to discourage negative practices, like straying from team approved coding standards in order to make an iteration deadline. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Planning, monitoring, and adapting]
-
 13. Denise is concerned about how effective her agile team is at communicating with key stakeholders. What is the agile knowledge and skill area that concerns itself with communications among team members and stakeholders?
 A. Collaboration management
 B. Information flow management
 C. Communications management
 D. Marketing
-Answer: C 
-Explanation: Effective communication is a cornerstone of agile. Communication is the act of transferring information among various parties.
-Communications management is a knowledge and skill area of agile that highlights this importance. PMI has several definitions regarding communications management and agile builds on top of these to add its own perspective: 1) Communications Planning: Determining the information and communication needs of the projects stakeholders 2) Information Distribution:
-Making needed information available to project stakeholders in a timely manner, 3) Performance Reporting: Collecting and distributing performance information. This includes status reporting, progress measurement, and forecasting, and 4) Managing Stakeholders: Managing communications to satisfy the requirements and resolve issues with
-project stakeholders. From an agile perspective: communication among the team is built into the process and facilitated through collocation, information radiators, daily stand-up meetings,
-retrospectives etc.; Although it is hoped that the product owner, customer, and user can be heavily involved with the project and also use these communication techniques, a plan for conveying
-information to stakeholders may be needed if this is not the case. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 1]
-
-
 14. Jack is explaining the advantages of using information radiators to a new agile recruit. Help Jack select an advantage of using an information radiator.
 A. Information radiators allow key information to be obscured from the customer.
 B. Information radiators allow only the project leader to review project status.
 C. Information radiators allow only certain team members to review project status.
 D. Information radiators allow all team members and stakeholders to review project status.
-Answer: D 
-Explanation: Information radiators reduce lengthy communication, allow for all team members and stakeholders to review project status throughout a project, and reduce the need of other more timeconsuming communication methods, like emails or memorandums. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Communications]
-
 15. Calculate the Net Present Value of the following investment candidate. The initial investment cost is $1,000. The discount rate is 10%. At the end of year 1, $150 is expected. At the end of year 2, $300 is expected. At the end of year 3, $550 is expected.
 A. $202
 B. $0
 C. ($202)
 D. $2,000
-Answer: C Explanation: Net Present Value: A metric used to analyze the profitability of an investment or project. NPV is the difference between the present value of cash inflows and the present value of cash outflows. NPV considers the likelihood of future cash inflows that an investment or project will yield. NPV is the sum of each cash inflow/outflow for the expected duration of the investment. Each cash inflow/outflow is discounted back to its present value (PV) (i.e.,, what the money is worth in terms of today’s value). NPV is the sum of all
-terms: NPV = Sum of [ Rt/(1 + i)^t ] where t = the time of the cash flow, i = the discount rate (the rate of return that could be earned on in the financial markets), and Rt = the net cash inflow or outflow. For example, consider the following two year period. The discount rate is 5% and the initial investment cost is $500. At the end of the first year, a $200 inflow is expected. At the end of the second year, a $1,000 is expected. NPV = - 500 + 200/(1.05)^1 + 1000/(1.05)^2 = ~$597. If NPV is positive, it indicates that the investment will add value to the buyer’s portfolio. If NPV is negative, it will subtract value. If NPV is zero, it will neither add or subtract value. [Agile Estimating and Planning. Mike Cohn.] [Value based prioritization]
-
-
 16. Consider the following EVM scenario and calculate the CV. The team is on week 30 of a 100 week project. Its BAC is $100,000 and AC is $15,000. The team estimates it is 20% complete overall and has an EV of $20,000.
 A. ($5,000)
 B. $5,000
 C. $0
 D. $10,000
-Answer: B 
-Explanation: EVM or earned value management is a management technique used to evaluate project performance with respect to cost and schedule. EVM relies on other common financial metrics like Budget At Completion (BAC), Actual Cost (AC), Planned Value (PV), Earned Value (EV), Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule
-Performance Index (SPI). CV and SV can be converted into performance indicators of CPI and SPI, respectively, and tracked and charted to show progress over time. EV is value of work actually completed or earned (e.g., you have completed 50% of the project by week 5 of a 15 week $15,000 project = $7,500 EV). CV is the difference between what a project has earned to
-date and cost to date (i.e., CV = EV - AC). AC is the actual cost the project has incurred to date. [Agile Estimating and Planning. Mike Cohn.] [Metrics]
-
 17. Calculate the IRR for the following one year investment. The initial investment cost is $600. The expected income in year 1 is $720.
 A. 10%
 B. 20%
 C. 15.00%
 D. -20%
-Answer: B 
-Explanation: The internal rate of return (IRR) is a financial metric used to measure and compare the profitability of investments. The IRR is the “rate” that makes the net present value of all cash flows from a particular investment equal to zero. Unlike NPV which is a dollar amount (i.e., a magnitude) value, the IRR is a rate (i.e.,, a percentage). Often times, the IRR is compared against a threshold rate value to determine if the investment is a suitable risk worth implementing. For example, you might calculate an IRR to be 13% for an investment
-while a comparative market rate is 2%. The IRR being larger than the comparative market rate, would indicate the investment is worth pursuing. [Agile Estimating and Planning. Mike Cohn.]
-[Value based prioritization]
-
 18. Calculate the IRR for the following one year investment. The initial investment cost is $400. The expected income in year 1 is $440.
 A. 7.38%
 B. 15%
 C. 10%
 D. 5%
-Answer: C 
-Explanation: The internal rate of return (IRR) is a financial metric used to measure and compare the profitability of investments. The IRR is the “rate” that makes the net present value of all cash flows from a particular investment equal to zero. Unlike NPV which is a dollar amount (i.e., a magnitude) value, the IRR is a rate (i.e.,, a percentage). Often times, the IRR is compared against a threshold rate value to determine if the investment is a suitable risk worth implementing. For example, you might calculate an IRR to be 13% for an investment while a comparative market rate is 2%. The IRR being larger than the comparative market rate, would indicate the investment is worth pursuing. [Agile Estimating and Planning. Mike Cohn.] [Value based prioritization]
-
 19. David is explaining the advantages of using information radiators to a new agile recruit. Help David select an advantage of using an information radiator.
 A. Information radiators increase the need for other more lengthy forms of communication, like e-mail, so promote more team communication.
 B. Information radiators improve coding compliance.
 C. Information radiators decrease the need for other more lengthy forms of communication, like e-mail.
 D. Information radiators decrease the need for continuous integration.
-Answer: C 
-Explanation: Information radiators reduce lengthy communication, allow for all team members and stakeholders to review project status throughout a project, and reduce the need of other more timeconsuming communication methods, like emails or memorandums. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Communications]
-
 20. Kyle is explaining the advantages of using information radiators to a new agile recruit. Help Kyle select an advantage of using an information radiator.
 A. Information radiators decrease coding defects.
 B. Information radiators simplify communication.
 C. Information radiators increase coding compliance.
 D. Information radiators decrease the need for unit testing.
-Answer: B 
-Explanation: Information radiators reduce lengthy communication, allow for all team members and stakeholders to review project status throughout a project, and reduce the need of other more timeconsuming communication methods, like emails or memorandums. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Communications]
-
 21. In agile, the "team space" is an important place that should foster effective communication. Of the following, which is a guideline for promoting such an environment?
 A. Infrequent updates of information radiators
 B. Fluorescent lighting
 C. Use of headphones so developers can drown out background noise
 D. Reduction of non-essential noise and distractions
-Answer: D 
-Explanation: A warm, welcoming environment that promotes effective communication, innovation, and motivated team members is an important aspect to consider when designing team space. Guidelines for a better agile team space include: collocation of team members; reduction of nonessential noise/distractions; dedicated whiteboard and wall space for information radiators; space for the daily stand-up meeting and other meetings; pairing workstations; and other pleasantries like plants and comfortable furniture. [Agile Retrospectives:
-Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Communications]
-
 22. In agile, the "team space" is an important place that should foster effective communication. What is a guideline for promoting such an environment?
 A. Use of headphones so developers can drown out background noise
 B. Fluorescent lighting
 C. Infrequent updates of information radiators
 D. Pairing or sharing workstations
-Answer: D 
-Explanation: A warm, welcoming environment that promotes effective communication, innovation, and motivated team members is an important aspect to consider when designing team space. Guidelines for a better agile team space include: collocation of team members; reduction of nonessential noise/distractions; dedicated whiteboard and wall space for information radiators; space for the daily stand-up meeting and other meetings; pairing workstations; and other pleasantries like plants and comfortable furniture. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Communications]
-
 23. What are the three fundamental processes in the crystal framework?
 A. Chartering, delivery cycles, wrap-up
 B. Negotiating, delivering, closing
 C. Initiating, developing, closing
 D. Envisioning, speculating, adapting
-Answer: A 
-Explanation: Crystal is a family of methodologies for a flexible and lightweight approach to software development. The family of methodologies is color coded to differentiate its members (e.g., clear,yellow, orange, red.) The color chosen depends on the level of effort required. On one end of the spectrum is crystal clear, which is for smaller efforts, while crystal red is for larger efforts. 
-Regardless of color, the crystal framework is cyclical and has three fundamental processes: chartering, delivery cycles, and wrap-up. Crystal chartering includes building the team, doing an
-Exploratory 360, defining standards of practice for the team, and building the project plan. In the delivery cycle, the crystal team iteratively develops, integrates, tests, and releases the product
-in iterations that last from one week to two months. Like other agile frameworks, crystal includes collaborative events, like stand-up meetings and reflective improvement workshops. In wrap-up the team concludes the project and holds a completion ritual where the team reflects on the entire project. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 2]
-
 24. Which of the following is an agile 'feedback technique for product?'
 A. Pair programming
 B. In-stream refactoring
 C. Negative feedback loop
 D. Kanban filtering
-Answer: A 
-Explanation: There are several feedback techniques - techniques that facilitate constructive criticism to improve product value and quality - built into the agile process. In the classic definition, feedback is a dynamic process where past information influences the behavior of the same process in the future. Agile feedback techniques include prototyping, simulation, demonstration, evaluations, pair programming, unit testing, continuous integration, daily stand-up meetings, sprint planning. Because agile prides itself on a transparent and collaborative environment, feedback is essentially ubiquitous. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
-
 25. Which of the following is an agile 'feedback technique for product?'
 A. Negative feedback loop
 B. In-stream refactoring
 C. Kanban filtering
 D. Unit testing
-Answer: D 
-Explanation: There are several feedback techniques - techniques that facilitate constructive criticism to improve product value and quality - built into the agile process. In the classic definition, feedback is a dynamic process where past information influences the behavior of the same process in the future. Agile feedback techniques include prototyping, simulation, demonstration,
-evaluations, pair programming, unit testing, continuous integration, daily stand-up meetings, sprint planning. Because agile prides itself on a transparent and collaborative environment,
-feedback is essentially ubiquitous. [Agile Retrospectives: Making Good Teams Great. Esther Derby, Diana Larsen, Ken Schwaber.] [Knowledge and Skills: Level 1]
-
 26. An agile team has decided to use an experienced agile practitioner and facilitator to help it reach an improved level of performance. What knowledge and skill area is this practitioner providing to the team?
 A. Coaching and mentoring
 B. Envisioning and elaborating
 C. Incentive and profit
 D. Coaching and mobilizing
-Answer: A 
-Explanation: Coaching and mentoring within teams can be helpful for nascent agile teams and even for more experienced agile teams. Coaching and mentoring is the act of helping a person or team improve performance and achieve realistic goals. Because agile has a value of continuous improvement, coaching and mentoring is not solely for new or immature teams, but experienced ones too where coaching can help achieve higher levels of performance. The amount of coaching and mentoring an agile team needs is variable. Some newer teams will need a coach guiding the team nearly all the time while others may need a coach only for particularly challenging situations. A not uncommon scenario is to have a coach help the team collectively during sprint/iteration planning and then during the iteration help mentor individual team members. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 1]
-
 27. Which of the following responses is a community value per the PMI agile community of practice community charter?
 A. Intrepid
 B. Cautious
 C. Vision
 D. Nurturing
-Answer: C 
-Explanation: The following are community values of the PMI agile community of practice community charter: Vision, Servant Leadership, Trust, Collaboration, Honesty, Learning, Courage,
-Openness, Adaptability, Leading Change, Transparency [PMI Agile Community of Practice Community Charter. Project Management Institute.] [Knowledge and Skills: Level 1]
-
 28. When value stream mapping it is important to identify areas of waste that exist in the process. The pneumonic device WIDETOM may be used to remember the different forms of muda (or waste). What does the O in WIDETOM stand for with respect to waste?
 A. Over-zealous
 B. Over-production
 C. Over-precipitate
 D. Over-puncture
-Answer: B 
-Explanation: Value stream mapping is a lean manufacturing analysis technique adopted by agile. A value stream map may be used to analyze the flow of information or materials from origin to destination to identify areas of waste. The identified areas of waste are opportunities for process improvement. Waste can take many forms and can be remembered using the pneumonic
-device WIDETOM. W - waiting; I - inventory; D - defects; E - extra processing; T - transportation; O - overproduction ; M - Motion. A value stream map is typically mapped or charted collaboratively with a team so it may define and view the entire process together, pinpointing areas of waste within the process. Processes that add value (processing of a part or feature) are generally referred to as “value-added” and processes that do not (e.g., waiting for a part to arrive) are generally referred to as “non value-added.” Generally speaking, one wants to reduce, to the largest extent possible, the non value-added time (i.e., areas of waste). [Lean- Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Value stream analysis] 
-
 29. Having a high emotional intelligence is important to promote effective communication in an agile team. What is one of the seven components of emotional intelligence as defined by Higgs & Dulewicz?
 A. Empathy
 B. Clairvoyance
 C. Self-awareness
 D. Intrepidness
-Answer: C 
-Explanation: Higgs & Dulewicz (1999) defines emotional intelligence using seven components: 1) Self-awareness, 2) Emotional resilience, 3) Motivation, 4) Interpersonal sensitivity, 5)
-Influence, 6) Intuitiveness, and 7) Conscientiousness. [Coaching Agile Teams. Lyssa Adkins.] [Soft skills negotiation]
-
 30. Select the response that lists one of the five core risk areas that can impact a project.
 A. Intrinsic budgeting flaw
 B. Intrinsic productivity flaw
 C. Intrinsic costing flaw
 D. Intrinsic schedule flaw
-Answer: D 
-Explanation: The five core risk areas include: productivity variation (difference between planned and actual performance); scope creep (considerable additional requirements beyond
-initial agreement); specification breakdown (lack of stakeholder consensus on requirements); intrinsic schedule flaw (poor estimates of task durations), personnel loss (the loss of human
-resources). [The Software Project Manager’s Bridge to Agility. Michele Sliger, Stacia Broderick.] [Risk management]
-
 31. Of the following, select a method used in agile for the purpose of prioritization.
 A. INVEST
 B. MoCWoS
 C. MoSCoW
 D. SMART
-Answer: C 
-Explanation: An agile team must always face the prioritization of product features in its product backlog. From release planning to iteration planning, an agile team must prioritize the user
-stories/ features of its product to ensure that highquality and high-value features are developed first to help facilitate an optimized and early return on investment (ROI). An agile team typically prioritizes requirements or user stories/features in terms of relative value and risk; value is defined by the customer (i.e., customer-value prioritization). Two common methods to prioritize product features are: MoSCoW and Kano. The MoSCoW method categorizes features into ‘Must have,’ ‘Should have,’ ‘Could have,’ and ‘Would have’ features. The Kano method categorizes features into ‘Must haves (threshold),’ ‘Dissatisfiers,’ ‘Satisfiers,’ and ‘Delighters.’ Must haves are features that are requisite. Dissatisfiers are features that adversely impact perceived value and should be eliminated. ‘Satisfiers’ are features that increase perceived value linearly, where the more you add the more the customer is pleased, but are not required, and ‘Delighters’ are features that increase perceived value exponentially to please the customer. To prioritize features based on risk, a risk-to-value matrix can be used. A risk-to-value matrix has four quadrants, with the horizontal axis having low and high value, and the vertical axis having low and high risk. User stories are assigned to one of the four categories/quadrants: low-value,
-low-risk; low-value, high-risk; high-value, lowrisk; high-value, high-risk. A cost-to-value matrix can also be made in this manner. All prioritization in agile is ‘relative,’ meaning that the priority of one user story is relative to other user stories and not prioritized on a fixed scale. [Lean- Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Knowledge and Skills: Level 1]
-
 32. When is the best time for an agile team to define the project and quality standards it will use?
 A. At the beginning of an effort
 B. After the first iteration
 C. During the first retrospective workshop
 D. After the first release
-Answer: A 
-Explanation: All agile efforts have project and quality standards that the team defines collaboratively at the beginning of an effort and refines collaboratively throughout the effort. Project and
-quality standards help an agile team with team cohesion and provide a structure, albeit one that can adapt as the project evolves, to promote a selfdisciplined environment. There is no ‘one size  fits all’ standards definition in agile; because every project is different, it has been shown that the team should define which project and quality standards it should hold itself against and strive to conform to those standards while also being open to adapting those standards throughout the project to optimize performance and delivered value. Project standards can range from where the daily stand-up meeting is located and how long each participant has to share his or her progress and challenges to highly specific software coding styles, methods for test-driven development, and what the team’s definition of ‘done-done’ means. [Agile Software Development: The Cooperative Game – 2nd Edition. Alistair Cockburn.] [Knowledge and Skills: Level 1]
-
 33. Becky, as project leader, intends on building a high-performance team. What is a practice or technique she can use to build a high performance team?
 A. Collocating the team
 B. Isolating team members for focus
 C. Criticizing team members openly
 D. Promoting competition
-Answer: A Explanation: Building a high-performance team is critical to any project’s success. A high performance team has the right team members, is empowered, has built trust, works at a sustainable pace, has consistently high velocity/productivity, takes regular time for reflection to review work, has a team lead that removes any obstacles and provides mentoring and coaching, is self-organized and self-disciplined, and is collocated. Several management techniques can be used to build or foster a high-performance team environment, some
-techniques include: removing obstacles that slow down a team’s performance, having high expectations of team performance, and coaching and mentoring the team to achieve its best
-performance. [Coaching Agile Teams. Lyssa Adkins.] [Knowledge and Skills: Level 2] 
-
 34. How does a product backlog change over a project?
 A. It does not and should not be expected to change.
 B. It becomes less defined as the project progresses.
 C. It evolves to capture the most recent requirements of the customer.
 D. It is static with requirements remaining fixed until the release.
-Answer: C 
-Explanation: The product backlog is a comprehensive list of all product features to be developed in an iteration. It is an evolving document and changes to adapt to customer requirements. As the project progresses, project features in the backlog become better defined as the customer understands product need more completely. [Lean-Agile Software Development: Achieving  nterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Agile analysis and design] 
-
 35. How does the lean manufacturing concept of kanban reduce the impact of work in process bottlenecks?
 A. It does not reduce bottlenecks. Bottlenecks are an inevitable byproduct of any manufacturing system.
 B. Through root cause analysis using 5Y
 C. By being a just-in-time scheduling system.
 D. Through weekly kaizen events.
-Answer: C 
-Explanation: Kanban is a just-in-time (JIT) scheduling system for inventory control. Production processes only execute if there is a demand signal for the part being processed. Carefully controlling inventory in this manner ensures that no machine is producing unnecessary/unordered parts. A machine will only send a demand signal if it has the capacity to 
-perform the manufacturing immediately. Therefore, inventory (or WIP) will not backup or bottleneck at machines because the demand signal for inventory is highly controlled and based on
-processing speeds and absolute need. [Lean-Agile Software Development: Achieving Enterprise Agility. Alan Shalloway, Guy Beaver, James R. Trott.] [Planning, monitoring, and adapting]
-
 36. How does velocity play into the iteration plan?
 A. It helps the team predict duration of the daily stand-up meetings during the iteration.
 B. It helps the team predict customer value.
 C. It helps the team determine how many user stories may be developed in the forthcoming iteration.
 D. It helps the team predict task durations or timeboxing values.
-Answer: C 
-Explanation: The team uses its velocity to pick the number of user stories to develop in the upcoming iteration. [The Art of Agile Development. James Shore.] [Planning, monitoring, and adapting] 
-
 37. Gerald, an agile developer, is at a planning event where the relative effort of developing user stories of a large product backlog is to be estimated. The team is to assign user stories to various t-shirt sizes (small, medium, large, extra-large) that indicate the development effort. The planning event is efficient and the user stories are estimated quickly. What type of planning event is Gerald most likely attending?
 A. T-shirt estimating
 B. Affinity estimating
 C. Relative estimating
 D. Infinity estimating
-Answer: B 
-Explanation: Affinity estimating is a method to predict the work effort, typically in story points, of developing a user story. It is particularly useful for large product backlogs. Although several methods exist, the basic affinity estimating model involves sizing user stories on a scale from small to large. The scale can be a Fibonacci sequence or t-shirt sizes and is typically taped to a wall in a large conference room. Participants then attach their user stories to the wall as estimates. It is often done in silence and has several iterations until the user stories have been estimated. [The Art of Agile Development. James Shore.] [Agile estimation] 
-
 38. If Lyle's agile team only plans for two to three iterations and keeps iterations further removed loosely planned. What type of planning technique is Lyle's agile team using?
 A. Rolling wave planning
 B. Progressive wave planning
 C. Progressive elaboration
 D. Release planning
-Answer: A 
-Explanation: Rolling wave planning (or rolling look ahead planning) involves planning in waves or phases and is especially useful for large, complex projects. Only the next few iterations are planned in detail and iterations more distant are planned only at a high-level. Progressive elaboration is continuous planning that assumes that details and requirements will be better refined later and will be incorporated into the planning process at the appropriate time. [Agile Estimating and Planning. Mike Cohn.] [Agile analysis and design]
-
 39. In the XP principle of continuous integration, what happens with new code before it is integrated into the production code base?
 A. It is reviewed by the customer.
 B. It is postfactored to add extra lines of code for redundancy.
 C. It is extensively tested.
 D. It is converted to the target environment coding language.
-Answer: C 
-Explanation: The extreme programming (XP) principle of continuous integration is that code is integrated into the full code base as soon as it is built, tested, and completed. Once integrated, the code base and therefore the entire system is built and tested. Continuous integration is just one principle of XP that promotes rapid delivery of software and the early detection of integration defects. [The Art of Agile Development. James Shore.] [Product quality]
-
 40. What role does the project plan serve in the agile method?
 A. It serves as a binding contract for the project stakeholders' legal department.
 B. It serves as a rigid specification of all activities and product features.
 C. It serves as a highly detailed requirements document.
 D. It serves as a cursory artifact to describe features and delivery deadlines, but does not include detailed tasks, activities, or processes.
-Answer: D 
-Explanation: The agile project plan serves an initial outline to describe general features and capabilities and includes a rough project schedule to forecast milestones; however, an agile project
-plan is constantly changing and expected to change as customer requirements evolve. [Agile Project Management: Creating Innovative Products – 2nd Edition. Jim Highsmith.] [Knowledge and Skills: Level 1]
 
 1. What does a wireframe help an agile team accomplish?
 A. It serves as a method to track team defects.
