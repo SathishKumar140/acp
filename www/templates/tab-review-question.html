@@ -9,7 +9,7 @@
 	  </div>
 	</div>
 	<div>
-	  	<div class="padding">Q{{count}}. {{questions[QuestionNumber].question}}</div>
+	  	<div class="padding">Q{{QuestionNumber+1}}. {{questions[QuestionNumber].question}}</div>
 		<ion-list>
 			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_a" value="a">a. {{questions[QuestionNumber].options.a}}</ion-radio>
 			<ion-radio class="item-text-wrap" ng-model="options.choice" ng-class="acp_correct_answer_b" value="b">b. {{questions[QuestionNumber].options.b}}</ion-radio>

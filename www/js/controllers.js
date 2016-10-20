@@ -154,11 +154,11 @@ angular.module('starter.controllers', ['ngCordova'])
 		var object = JSON.parse(window.localStorage.getItem("savedReviews"));
 		for(var i = 0; i < object.length; i++){
 			if(reviewIds.length!==0){
-				if(object[i].reviewId!==reviewIds[reviewIds.length-1]){
-					reviewIds.push(object[i].reviewId);
+				if(object[i].examId!==reviewIds[reviewIds.length-1]){
+					reviewIds.push(object[i].examId);
 				}
 			}else{
-				reviewIds.push(object[i].reviewId);
+				reviewIds.push(object[i].examId);
 			}
 		}
 	}
@@ -169,7 +169,7 @@ angular.module('starter.controllers', ['ngCordova'])
 		var reviews = window.localStorage.getItem('savedReviews');
 		var k = JSON.parse(reviews);
 		for(var  i = 0; i < k.length; i++){
-			if(reviewId===k[i].reviewId){
+			if(reviewId===k[i].examId){
 				exam = k[i].examId;
 				questionNumbers.push(k[i].qid);
 			}
@@ -181,9 +181,10 @@ angular.module('starter.controllers', ['ngCordova'])
 	
 })
 .controller('TestCtrl', function($scope,$state,$http,$ionicHistory,$rootScope,$ionicPopup){
+
 	$scope.examNumber = exam;
 	$rootScope.$ionicGoBack = function() {
-		var confirmPopup = $ionicPopup.confirm({
+		$ionicPopup.confirm({
 		    template: 'Are you sure you want to back?',
 		    buttons: [{text: 'No',},{type: 'button-dark',text: '<b>Yes</b>',onTap: function(e) {
 		    	$ionicHistory.goBack();
@@ -338,39 +339,40 @@ angular.module('starter.controllers', ['ngCordova'])
 			$scope.expAns = false;
 		}
 	}
+
 	$scope.saveReview = function(){
 		$scope.saveBtn = false;
 		var exist = false;
 		var saveReviewQuestions = [];
 		var reviewIds = [];
-		if($scope.setReviewId){
-			if(window.localStorage.getItem("savedReviews")!==null){
-				var object = JSON.parse(window.localStorage.getItem("savedReviews"));
-				for(var i = 0; i < object.length; i++){
-					if(reviewIds.length!==0){
-						if(object[i].reviewId!==reviewIds[reviewIds.length-1]){
-							reviewIds.push(object[i].reviewId);
-						}
-					}else{
-						reviewIds.push(object[i].reviewId);
-					}
-				}
-				reviewId  = reviewIds.length+1;
-			}
-			$scope.setReviewId = false;
-		}
+		// if($scope.setReviewId){
+		// 	if(window.localStorage.getItem("savedReviews")!==null){
+		// 		var object = JSON.parse(window.localStorage.getItem("savedReviews"));
+		// 		for(var i = 0; i < object.length; i++){
+		// 			if(reviewIds.length!==0){
+		// 				if(object[i].reviewId!==reviewIds[reviewIds.length-1]){
+		// 					reviewIds.push(object[i].reviewId);
+		// 				}
+		// 			}else{
+		// 				reviewIds.push(object[i].reviewId);
+		// 			}
+		// 		}
+		// 		reviewId  = reviewIds.length+1;
+		// 	}
+		// 	$scope.setReviewId = false;
+		// }
 
 		var question = {
 			'examId':exam,
-			'reviewId':reviewId,
 			'qid':$scope.questions[$scope.count-1].Qid
 		}
 		
 		if(window.localStorage.getItem("savedReviews")!==null){
 			var object = JSON.parse(window.localStorage.getItem("savedReviews"));
 			for(var i = 0; i < object.length; i++){
-				if(object[i].reviewId === reviewId && object[i].qid===$scope.questions[$scope.count-1].Qid){
+				if(object[i].examId === exam && object[i].qid===$scope.questions[$scope.count-1].Qid){
 					exist = true;
+					break;
 				}
 			}
 			if(!exist){
@@ -385,6 +387,14 @@ angular.module('starter.controllers', ['ngCordova'])
 		}
 		
 	}
+	$scope.$watch('options.choice',function(newValue, oldValue){
+		if(angular.isDefined(newValue)){
+			if(newValue !== oldValue){
+				$scope.showAnswerToggle.flag = true;
+	    		$scope.showAnswer();
+	    	}
+		}
+    });
 })
 .controller('SettingsCtrl', function($scope,$state) {
 	$scope.openFileDialog = function(){
